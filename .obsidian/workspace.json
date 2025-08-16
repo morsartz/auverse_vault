@@ -25,10 +25,17 @@
             "id": "582340e11a7e7044",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Rust/Rust.canvas",
+                "viewState": {
+                  "x": 138.27436254717907,
+                  "y": 876.4438300496964,
+                  "zoom": -0.30292713295730705
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
             }
           },
           {
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Rust/Rust.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Rust"
             }
           },
           {
@@ -137,11 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Rust/Rust.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Rust"
             }
           },
           {
@@ -165,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Characters/Rust/Rust.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Rust"
             }
           }
         ]
@@ -193,8 +203,12 @@
   },
   "active": "582340e11a7e7044",
   "lastOpenFiles": [
-    "Parts/Parte 8/Auverse Parte 8.md",
+    "to-do.md",
+    "Untitled.canvas",
+    "Realidade.md",
     "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Lore.md",
+    "Parts/Parte 8/Auverse Parte 8.md",
     "Characters/Fern 2/Fern 2.canvas",
     "Events/Concepção do Unknown.md",
     "Places/Vazio Experimental",
@@ -210,7 +224,6 @@
     "mandamentos.md",
     "Events/Timeline.canvas",
     "Raças",
-    "to-do.md",
     "Places/Unknown/Unknown.canvas",
     "Places/Realidade/Realidade.canvas",
     "Places/Realidade",
@@ -225,10 +238,8 @@
     "Characters/Fern 2/Lore.md",
     "Factions/Celestiais/Celestiais.canvas",
     "Characters/Rust/Rust Apperance Reference 1.png",
-    "Characters/Rust/Lore.md",
     "Characters/Ren 187/Ren 187.canvas",
     "Factions/Celestiais/Lore.md",
-    "Places/Realidade/AU 2/AU 2.canvas",
     "AUVERSE PARTE 8.md",
     "().md",
     "References/Rust Manto Reference.png",
