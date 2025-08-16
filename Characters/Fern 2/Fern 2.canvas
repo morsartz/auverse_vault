@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"aa490fe42de4b38d","type":"text","text":"Origem","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"edff0ce1ea1a950b","type":"text","text":"Realidade","x":-20,"y":160,"width":250,"height":60},
+		{"id":"edff0ce1ea1a950b","type":"text","text":"[[Realidade.canvas|Realidade]]","x":-20,"y":160,"width":250,"height":60},
 		{"id":"ce50b633392456ac","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2LTlO3NuNVN70lp2ZbVswF?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-980,"y":60,"width":700,"height":390},
 		{"id":"5eb7687b5c37c669","type":"file","file":"Characters/Fern 2/Fern 2 Apperance Reference 1.png","x":-40,"y":420,"width":400,"height":400},
 		{"id":"6951459c14e26366","type":"file","file":"Characters/Fern 2/Lore.md","x":560,"y":220,"width":400,"height":400},
