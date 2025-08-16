@@ -15,9 +15,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 22.69579659056069,
-                  "y": 816.0262979757653,
-                  "zoom": -0.3373026927420248
+                  "x": 448.45900410494096,
+                  "y": 37.7766367625365,
+                  "zoom": -1.6706360260753579
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -32,17 +32,16 @@
               "state": {
                 "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 1341.05174114809,
-                  "y": 2363.9774929693226,
-                  "zoom": -1.5966354446315818
+                  "x": 858.6900228484385,
+                  "y": 1412.098248286367,
+                  "zoom": -1.8984419435981703
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Fern 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b97b65c31460e13",
+  "active": "f71e0c768aeb2181",
   "lastOpenFiles": [
-    "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Dankiel/Dankiel Apperance Reference 2.png",
+    "Characters/Dankiel/Dankiel Apperance Reference 1.png",
+    "Factions/Chroma 9/Chroma 9.canvas",
+    "Factions/Chroma 9",
+    "Characters/Rust/Rust.canvas",
     "Characters/Fern 17",
     "Characters/Fern 2/Carisma.md",
     "Characters/Nina/Nina.canvas",
@@ -210,7 +213,6 @@
     "Characters/Traken 17/Traken 17.canvas",
     "Characters/Robô/Robô.canvas",
     "Characters/Ren 17/Ren 17.canvas",
-    "Characters/Ren 2/Ren 2.canvas",
     "conflict-files-obsidian-git.md",
     "auverse_vault",
     "Characters/Zenith",
@@ -218,7 +220,6 @@
     "Characters/Vanth",
     "Characters/Vaius 187",
     "Characters/Vaius 17",
-    "Characters/Vaius 6",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Rust/Manto do Mestre.png",
     "Manto do Mestre 2.png",
