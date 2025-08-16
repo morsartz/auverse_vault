@@ -11,14 +11,12 @@
             "id": "435fd0903fad92d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Characters/Rust/Lore.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Rust/Rust Apperance Reference 1.png"
               },
-              "icon": "lucide-file",
-              "title": "Lore"
+              "icon": "lucide-image",
+              "title": "Rust Apperance Reference 1"
             }
           }
         ]
@@ -172,10 +170,10 @@
   "active": "435fd0903fad92d5",
   "lastOpenFiles": [
     "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Lore.md",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Ren 187/Ren 187.canvas",
     "Characters/Rust/Rust Apperance Reference 1.png",
-    "Characters/Rust/Lore.md",
     "Characters/Ren 187",
     "Characters/Fern 2",
     "Sem título.md",
