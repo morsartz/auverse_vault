@@ -32,9 +32,9 @@
               "state": {
                 "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 226,
-                  "y": 846,
-                  "zoom": 0
+                  "x": 64.61309977151564,
+                  "y": 1015.2041127189642,
+                  "zoom": -0.24033177014320414
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,8 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "8a31334c6c5a5076",
   "lastOpenFiles": [
+    "Parts/Parte 1/Auverse Parte 1.md",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Parts/Parte 1/Auverse Parte 1.canvas",
+    "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
+    "Characters/Ren 187/Ren 187.canvas",
     "Races/Demon",
     "Races/Voidborn",
     "Races/Senkor",
@@ -202,12 +208,7 @@
     "Races/Vaius",
     "Races/Memphis",
     "Races/Traken",
-    "Races/Ren",
     "Places/Realidade/Realidade.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Ren 187/Ren 187.canvas",
-    "Characters/Rust/Rust.canvas",
-    "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
     "conflict-files-obsidian-git.md",
     "Factions/Celestiais/Lore.md",
     "Races/Arth/Arthe.canvas",
@@ -218,7 +219,6 @@
     "Races/Arthe/Arthe.canvas",
     "Races/Arthe/Culture.md",
     "Races/Arthe/Lore.md",
-    "Places/Unknown/Unknown.canvas",
     "to-do.md",
     "mandamentos.md",
     "changelog.md",
@@ -238,7 +238,6 @@
     "Characters/Ren 187.md",
     "TEST/this should do somehting.md",
     "Characters/Untitled.md",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
