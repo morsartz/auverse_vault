@@ -11,10 +11,14 @@
             "id": "eb0a97c4a3924b1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -205,6 +209,7 @@
   },
   "active": "eb0a97c4a3924b1b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rust/Carisma.md",
@@ -212,7 +217,6 @@
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Rust/Manto do Mestre.png",
     "Events/Timeline.canvas",
-    "conflict-files-obsidian-git.md",
     "Parts/Parte 1/Auverse Parte 1.md",
     "Parts/Parte 1",
     "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
