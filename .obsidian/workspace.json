@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Places/Realidade/AU 2/AU 187.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 114.08056084881052,
+                  "y": 635.4946001838236,
+                  "zoom": -0.27885937299547686
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AU 187"
+              "title": "Rust"
             }
           }
         ],
@@ -189,8 +189,14 @@
   },
   "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
-    "Places/Realidade/AU 2/AU 001.canvas",
+    "Characters/Lohan",
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Ren 187/Lore.md",
+    "Characters/Ren 187/Ren 187.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Fern 2/Lore.md",
     "Places/Realidade/AU 2/AU 187.canvas",
+    "Places/Realidade/AU 2/AU 001.canvas",
     "Places/Unknown/Unknown.canvas",
     "Places/Realidade/AU 2/AU 002.canvas",
     "Parts/Parte 8/Auverse Parte 8.md",
@@ -204,16 +210,10 @@
     "Events/Criação do Universo.md",
     "Events/Regime de Okahara.md",
     "Events/Timeline.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Fern 2/Lore.md",
     "conflict-files-obsidian-git.md",
     "Events/Criação do Abismo.md",
     "Events/Criação do Coliseu.md",
-    "Characters/Ren 187/Ren 187.canvas",
-    "Characters/Ren 187/Lore.md",
     "Characters/Rust/Lore.md",
-    "Characters/Rust/Rust Apperance Reference 1.png",
-    "Characters/Rust/Rust.canvas",
     "mandamentos.md",
     "Places/Unknown",
     "Places/Realidade/AU 2",
