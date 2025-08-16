@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to-do.md",
+                "file": "TEST/this should do somehting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to-do"
+              "title": "this should do somehting"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to-do.md",
+                "file": "TEST/this should do somehting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for to-do"
+              "title": "Backlinks for this should do somehting"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to-do.md",
+                "file": "TEST/this should do somehting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from to-do"
+              "title": "Outgoing links from this should do somehting"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to-do.md",
+                "file": "TEST/this should do somehting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of to-do"
+              "title": "Outline of this should do somehting"
             }
           }
         ]
@@ -165,14 +165,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "eb0a97c4a3924b1b",
   "lastOpenFiles": [
-    "TEST",
     "changelog.md",
+    "TEST/this should do somehting.md",
     "to-do.md",
+    "TEST",
     "Main/to-do.canvas",
     "Main",
     "Places/AU 2.canvas",
