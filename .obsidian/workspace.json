@@ -25,17 +25,14 @@
             "id": "582340e11a7e7044",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
-                "viewState": {
-                  "x": 138.27436254717907,
-                  "y": 876.4438300496964,
-                  "zoom": -0.30292713295730705
-                }
+                "file": "mandamentos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "icon": "lucide-file",
+              "title": "mandamentos"
             }
           },
           {
@@ -126,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "mandamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rust"
+              "title": "Backlinks for mandamentos"
             }
           },
           {
@@ -145,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "mandamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rust"
+              "title": "Outgoing links from mandamentos"
             }
           },
           {
@@ -174,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "mandamentos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rust"
+              "title": "Outline of mandamentos"
             }
           }
         ]
@@ -201,12 +198,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "582340e11a7e7044",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Artifacts/Items",
+    "Artifacts/Relics",
+    "Artifacts/Weapons",
+    "Artifacts",
+    "Styles",
+    "Power",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Lohan/Lore.md",
+    "Characters/Lohan/Lohan.canvas",
+    "Characters/Lohan",
     "to-do.md",
     "Untitled.canvas",
     "Realidade.md",
-    "Characters/Rust/Rust.canvas",
     "Characters/Rust/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
     "Characters/Fern 2/Fern 2.canvas",
@@ -215,19 +221,13 @@
     "Places/Vale dos Corvos",
     "Places/Sonhos",
     "Places/Vazio",
-    "Places/Inferno",
-    "Places/Abismo",
-    "Places/Coliseu",
     "Events/Criação do Coliseu.md",
     "Events/Criação do Abismo.md",
     "Events/Criação do Universo.md",
     "mandamentos.md",
     "Events/Timeline.canvas",
-    "Raças",
     "Places/Unknown/Unknown.canvas",
     "Places/Realidade/Realidade.canvas",
-    "Places/Realidade",
-    "Places/Unknown",
     "Events/Regime de Okahara.md",
     "Factions/Regime de Okahara/Regime de Okahara.canvas",
     "Factions/Regime de Okahara/Lore.md",
@@ -238,7 +238,6 @@
     "Characters/Fern 2/Lore.md",
     "Factions/Celestiais/Celestiais.canvas",
     "Characters/Rust/Rust Apperance Reference 1.png",
-    "Characters/Ren 187/Ren 187.canvas",
     "Factions/Celestiais/Lore.md",
     "AUVERSE PARTE 8.md",
     "().md",
