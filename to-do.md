@@ -1,1 +1,1 @@
-- [ ] colocar em um repositório do github
+- [x] colocar em um repositório do github
