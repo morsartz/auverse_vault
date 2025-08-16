@@ -21,7 +21,7 @@
 		{"id":"9fa1e1f8d0ecb20c","type":"text","text":"[[Parts/Parte 8/Auverse Parte 8|Auverse Parte 8]] Crew","x":-145,"y":710,"width":250,"height":60},
 		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":240,"y":710,"width":250,"height":60},
 		{"id":"88ab8d314927d06e","type":"file","file":"Characters/Rust/Carisma.md","x":-340,"y":880,"width":400,"height":400},
-		{"id":"aacd2f55942b6d5e","x":-610,"y":1300,"width":250,"height":80,"type":"text","text":"Rad *Figura Paterna*, *Cuidador*, *Figura Familiar*"}
+		{"id":"aacd2f55942b6d5e","type":"text","text":"[[Rad]] *Figura Paterna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1300,"width":250,"height":80}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
