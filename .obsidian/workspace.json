@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Rust"
             }
+          },
+          {
+            "id": "8a31334c6c5a5076",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Fern 2/Fern 2.canvas",
+                "viewState": {
+                  "x": 145,
+                  "y": 546,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Fern 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,13 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "8a31334c6c5a5076",
   "lastOpenFiles": [
+    "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
+    "conflict-files-obsidian-git.md",
     "Characters/Arthe 46",
     "Characters/Arthe 17",
     "Characters/Arthe 10",
     "Characters/Arthe 9",
-    "conflict-files-obsidian-git.md",
     "Factions/Celestiais/Lore.md",
     "Characters/Arthe 8",
     "Characters/Arthe 6",
@@ -186,7 +206,6 @@
     "Characters/Arthe 4",
     "Characters/Arthe 3",
     "Characters/Arthe 2",
-    "Characters/Arthe 1",
     "Races/Arth/Arthe.canvas",
     "Factions/Celestiais/Celestiais.canvas",
     "Factions/Regime de Okahara/Lore.md",
@@ -202,8 +221,6 @@
     "Characters/Ren 187/Ren 187.canvas",
     "Events/Concepção do Unknown.md",
     "Places/Realidade/AU 003/AU 003.canvas",
-    "Places/Realidade/AU 008/AU 008.canvas",
-    "Places/Realidade/AU 007/AU 007.canvas",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Lohan/Lore.md",
     "Characters/Ren 187/Lore.md",
