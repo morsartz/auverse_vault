@@ -25,17 +25,14 @@
             "id": "9953c1036d019d9a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
-                "viewState": {
-                  "x": 114.08056084881052,
-                  "y": 635.4946001838236,
-                  "zoom": -0.27885937299547686
-                }
+                "file": "Characters/Lohan/Lore.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "icon": "lucide-file",
+              "title": "Lore"
             }
           }
         ],
@@ -187,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "9953c1036d019d9a",
   "lastOpenFiles": [
+    "Characters/Lohan/Lohan.canvas",
+    "Characters/Lohan/Lore.md",
+    "Characters/Rust/Rust.canvas",
     "Characters/Lohan",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Ren 187/Lore.md",
@@ -204,12 +204,10 @@
     "Factions/Regime de Okahara/Regime de Okahara.canvas",
     "Factions/Celestiais/Lore.md",
     "Factions/Celestiais/Celestiais.canvas",
-    "Factions/Caçadores de Recompensas/Caçadores de Recompensas.canvas",
     "Factions/Caçadores de Recompensas/Lore.md",
     "Events/Concepção do Unknown.md",
     "Events/Criação do Universo.md",
     "Events/Regime de Okahara.md",
-    "Events/Timeline.canvas",
     "conflict-files-obsidian-git.md",
     "Events/Criação do Abismo.md",
     "Events/Criação do Coliseu.md",
@@ -224,7 +222,6 @@
     "Factions/Celestiais",
     "Factions/Caçadores de Recompensas",
     "Factions",
-    "Characters/Ren 187",
     "to-do.md",
     "changelog.md",
     "Characters/Sem título.md",
