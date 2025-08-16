@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1584e63d13adca16",
+            "id": "1aa0287575993481",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": 32.5,
                   "y": 220,
-                  "zoom": -0.6435671167066936
+                  "zoom": -0.9769004500400269
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -172,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1584e63d13adca16",
+  "active": "1aa0287575993481",
   "lastOpenFiles": [
-    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rust/Rust.canvas",
+    "conflict-files-obsidian-git.md",
+    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Rust/Manto do Mestre.png",
     "Characters/Rust/Carisma.md",
@@ -192,7 +193,6 @@
     "Characters/Tyrone",
     "Characters/Nova",
     "Characters/Interrogação (Vazio)",
-    "conflict-files-obsidian-git.md",
     "Characters/Fern 2/Lore.md",
     "Parts/Parte 2/Auverse Parte 2.md",
     "Characters/Zenith/Zenith.canvas",
