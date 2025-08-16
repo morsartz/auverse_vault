@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Haikai/Haikai.canvas",
+                "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -651,
-                  "zoom": 0
+                  "x": 255,
+                  "y": 825,
+                  "zoom": -0.5186329326303083
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Haikai"
+              "title": "Fern 2"
             }
           }
         ]
@@ -172,23 +172,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "1aa0287575993481",
   "lastOpenFiles": [
-    "Characters/Memphis 99",
-    "Characters/Redvil",
-    "Characters/Kamui",
-    "Characters/Nirestre",
-    "Characters/Nina",
-    "Characters/Nada-chan",
-    "Characters/Morthmer",
-    "Characters/Mordex",
-    "Characters/Memphis 1",
-    "Characters/Lõdric",
-    "Characters/Kaathe",
+    "Characters/Fern 4/Fern 4.canvas",
+    "Characters/Fern 2/Fern 2 Original.canvas",
+    "Characters/Dankiel/Dankiel.canvas",
+    "Characters/ATR 001/ATR 001.canvas",
+    "Characters/Dankiel/Sem título",
+    "Characters/Arthe 2/Arthe 2.canvas",
+    "Characters/Arthe 1/Arthe 1.canvas",
+    "Characters/Amelie/Amelie.canvas",
     "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Vanth",
+    "Characters/Vaius 187",
+    "Characters/Vaius 17",
+    "Characters/Vaius 6",
+    "Characters/Vaius 2",
+    "Characters/Vaius 1",
+    "Characters/Traken 5",
+    "Characters/Traken 2",
+    "Characters/Traken 1",
+    "Characters/Rust/Rust.canvas",
     "Characters/Haikai/Haikai.canvas",
     "Characters/Indetermined Fern/Indetermined Fern.canvas",
-    "Characters/Rust/Rust.canvas",
     "Characters/Rust/Lore.md",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "conflict-files-obsidian-git.md",
@@ -198,15 +204,9 @@
     "mandamentos.md",
     "Characters/Fern 2/Lore.md",
     "Parts/Parte 2/Auverse Parte 2.md",
-    "Characters/Zenith/Zenith.canvas",
-    "Characters/Lohan/Lohan.canvas",
     "Parts/Parte 1/Auverse Parte 1.md",
-    "Parts/Parte 1/Auverse Parte 1.canvas",
     "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
-    "Characters/Ren 187/Ren 187.canvas",
-    "Places/Realidade/Realidade.canvas",
     "Factions/Celestiais/Lore.md",
-    "Races/Arth/Arthe.canvas",
     "Factions/Regime de Okahara/Lore.md",
     "Races/Arthe/Culture.md",
     "Races/Arthe/Lore.md",
