@@ -11,10 +11,12 @@
 		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":350,"y":680,"width":250,"height":60},
 		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400},
 		{"id":"370c11a6e1eb7f13","type":"file","file":"Characters/Rust/Lore.md","x":360,"y":-240,"width":400,"height":400},
-		{"id":"04ccfa66ca645d7b","type":"text","text":"[[Lohan.canvas|Lohan]] *Membros da mesma facção*","x":-110,"y":860,"width":250,"height":60},
+		{"id":"04ccfa66ca645d7b","type":"text","text":"[[Lohan.canvas|Lohan]] *Membros da mesma facção*","x":-110,"y":860,"width":250,"height":100},
 		{"id":"aa40f4a24b474e57","type":"text","text":"Origem","x":-75,"y":-520,"width":250,"height":60},
 		{"id":"0620be740239c2aa","type":"text","text":"[[Realidade.canvas|Realidade]]","x":15,"y":-360,"width":250,"height":50},
-		{"id":"55c61cf2e3daa5a9","x":800,"y":650,"width":250,"height":60,"type":"text","text":"Durante *Parte 4* - *Fim*"}
+		{"id":"55c61cf2e3daa5a9","type":"text","text":"Durante *Parte 4* - *Fim*","x":800,"y":650,"width":250,"height":60},
+		{"id":"8e3df71a37aa0b6f","x":800,"y":830,"width":250,"height":60,"type":"text","text":"Durante *Parte 4* - *Fim do Regime Okahara*"},
+		{"id":"2a9f3f70cc08065d","x":800,"y":740,"width":300,"height":60,"type":"text","text":"Durante *Concepção* - *Parte 8*"}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -24,6 +26,9 @@
 		{"id":"d9530e0e5c552213","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"370c11a6e1eb7f13","toSide":"left"},
 		{"id":"022560e575c6bbf6","fromNode":"aa69cb8faa3b8157","fromSide":"left","toNode":"c41d5d168d2fe0b4","toSide":"right"},
 		{"id":"3f7b910b3f2bfd5b","fromNode":"aa69cb8faa3b8157","fromSide":"bottom","toNode":"d937cb0705f3cc77","toSide":"left"},
-		{"id":"794fd1634c4c5603","fromNode":"aa40f4a24b474e57","fromSide":"bottom","toNode":"0620be740239c2aa","toSide":"top"}
+		{"id":"794fd1634c4c5603","fromNode":"aa40f4a24b474e57","fromSide":"bottom","toNode":"0620be740239c2aa","toSide":"top"},
+		{"id":"972b1d0ed4129cb3","fromNode":"55c61cf2e3daa5a9","fromSide":"left","toNode":"822fd3683c0a3a96","toSide":"right","toEnd":"none"},
+		{"id":"7d01d529e179de53","fromNode":"944d744a1e6cf534","fromSide":"right","toNode":"8e3df71a37aa0b6f","toSide":"left","toEnd":"none"},
+		{"id":"53534f09ac22fbd4","fromNode":"2a9f3f70cc08065d","fromSide":"left","toNode":"8a44af51916743e3","toSide":"right","toEnd":"none"}
 	]
 }

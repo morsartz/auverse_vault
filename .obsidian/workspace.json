@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Races/Arth/Arth.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 723.7697898130357,
+                  "y": 800.4801579002102,
+                  "zoom": -0.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Arth"
+              "title": "Rust"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Arth/Arth.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arth"
+              "title": "Backlinks for Rust"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races/Arth/Arth.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arth"
+              "title": "Outgoing links from Rust"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races/Arth/Arth.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arth"
+              "title": "Outline of Rust"
             }
           }
         ]
@@ -201,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "582340e11a7e7044",
   "lastOpenFiles": [
-    "Races/Arth/Culture.md",
     "Races/Arth/Arth.canvas",
+    "Races/Arth/Culture.md",
     "Races/Arth/Lore.md",
     "mandamentos.md",
     "Races/Arth",
