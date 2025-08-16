@@ -8,8 +8,12 @@
 		{"id":"7cd7f839f9bf50b8","type":"text","text":"Relações","x":540,"y":980,"width":250,"height":60},
 		{"id":"0d3b26db60efdc5a","type":"text","text":"Primeira Aparição em","x":-580,"y":820,"width":250,"height":60},
 		{"id":"1160bc235068cb05","type":"file","file":"Parts/Parte 1/Auverse Parte 1.md","x":-800,"y":980,"width":400,"height":400},
-		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":860,"y":1140,"width":250,"height":60},
-		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":235,"y":1140,"width":250,"height":60}
+		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":235,"y":1140,"width":250,"height":60},
+		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":960,"y":1140,"width":250,"height":60},
+		{"id":"477b1134ecee10dc","type":"text","text":"Durante Parte 1 - *Fim*","x":1240,"y":1250,"width":250,"height":60},
+		{"id":"f469429e820e176f","type":"text","text":"Celestiais *Membro*","x":710,"y":1460,"width":250,"height":60},
+		{"id":"a51e6257d899dff9","type":"text","text":"Chroma 9 *Membro*","x":710,"y":1310,"width":250,"height":60},
+		{"id":"1a73a026cb7112a9","x":1240,"y":1400,"width":250,"height":60,"type":"text","text":"Durante Parte 8 - *Fim*"}
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},
@@ -20,6 +24,9 @@
 		{"id":"8875f274eb468dce","fromNode":"7cd7f839f9bf50b8","fromSide":"right","toNode":"c136e7489c45ff72","toSide":"top"},
 		{"id":"03c6b4dad04072b3","fromNode":"5eb7687b5c37c669","fromSide":"right","toNode":"0d3b26db60efdc5a","toSide":"right"},
 		{"id":"be0548baa4b785eb","fromNode":"0d3b26db60efdc5a","fromSide":"bottom","toNode":"1160bc235068cb05","toSide":"top"},
-		{"id":"46ae480214ef30dd","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"5eb7687b5c37c669","toSide":"top"}
+		{"id":"46ae480214ef30dd","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"5eb7687b5c37c669","toSide":"top"},
+		{"id":"487060719a6478dd","fromNode":"a51e6257d899dff9","fromSide":"right","toNode":"477b1134ecee10dc","toSide":"left","toEnd":"none"},
+		{"id":"b80337246ada5e6b","fromNode":"c136e7489c45ff72","fromSide":"bottom","toNode":"a51e6257d899dff9","toSide":"top"},
+		{"id":"747dd16ea2ee61e2","fromNode":"f469429e820e176f","fromSide":"right","toNode":"1a73a026cb7112a9","toSide":"left","toEnd":"none"}
 	]
 }
