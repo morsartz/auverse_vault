@@ -29,9 +29,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 723.7697898130357,
-                  "y": 800.4801579002102,
-                  "zoom": -0.3333333333333333
+                  "x": 878.6199376947037,
+                  "y": 783.8342428706958,
+                  "zoom": -0.34245549714394413
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -203,6 +203,8 @@
   },
   "active": "582340e11a7e7044",
   "lastOpenFiles": [
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Rust/Rust.canvas",
     "Races/Arth/Arth.canvas",
     "Races/Arth/Culture.md",
     "Races/Arth/Lore.md",
@@ -218,7 +220,6 @@
     "Artifacts",
     "Styles",
     "Power",
-    "Characters/Rust/Rust.canvas",
     "Characters/Lohan/Lore.md",
     "Characters/Lohan/Lohan.canvas",
     "Characters/Lohan",
@@ -227,7 +228,6 @@
     "Realidade.md",
     "Characters/Rust/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
-    "Characters/Fern 2/Fern 2.canvas",
     "Events/Concepção do Unknown.md",
     "Places/Vazio Experimental",
     "Places/Vale dos Corvos",
