@@ -3,6 +3,7 @@
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400},
 		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415},
 		{"id":"aa40f4a24b474e57","type":"text","text":"Origem","x":-110,"y":-535,"width":250,"height":60},
@@ -36,6 +37,8 @@
 		{"id":"04ccfa66ca645d7b","type":"text","text":"[[Lohan.canvas|Lohan]] *Membros da mesma facção*, *Companheiros de combate*","x":-940,"y":1060,"width":250,"height":100},
 		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-610,"y":1000,"width":250,"height":50}
 =======
+=======
+>>>>>>> origin/main
 		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-740,"y":220,"width":400,"height":400},
 		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":510,"y":510,"width":250,"height":60},
 		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-20,"y":510,"width":250,"height":60},
@@ -65,10 +68,13 @@
 <<<<<<< HEAD
 		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415},
 		{"id":"34c9bf99e9c6219d","type":"text","text":"[[Fern 2.canvas|Fern 2]] *Amigo*, *Parceiro Romântico ou Íntimo*, *Companheiro em combate*, *Membros da mesma facção*","x":-110,"y":680,"width":250,"height":150}
+<<<<<<< HEAD
 >>>>>>> origin/main
 =======
 		{"id":"dca7273f450c8482","x":-1035,"y":-505,"width":745,"height":415,"type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"}
 >>>>>>> parent of b0062dc (vault backup: 2025-08-16 19:23:30)
+=======
+>>>>>>> origin/main
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -84,31 +90,13 @@
 		{"id":"53534f09ac22fbd4","fromNode":"2a9f3f70cc08065d","fromSide":"left","toNode":"8a44af51916743e3","toSide":"right","toEnd":"none"},
 <<<<<<< HEAD
 		{"id":"2ba22bb7879253fe","fromNode":"dca7273f450c8482","fromSide":"left","toNode":"aa69cb8faa3b8157","toSide":"right"},
-<<<<<<< HEAD
-		{"id":"8b76ddf048362550","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"04ccfa66ca645d7b","toSide":"top"},
-		{"id":"bd10a1a82aedeba8","fromNode":"aa40f4a24b474e57","fromSide":"bottom","toNode":"aa69cb8faa3b8157","toSide":"top"},
-		{"id":"59bd349ec9558eee","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"370c11a6e1eb7f13","toSide":"left"},
-		{"id":"530994f180e8d2b4","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"372f46686ef1f07c","toSide":"left"},
-		{"id":"47fc10c36abf8540","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"bc75b7828f723647","toSide":"left"},
-		{"id":"94c864eabcfb000c","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"794b9919e459ea64","toSide":"left"},
-		{"id":"65fbcfdbfad8ad98","fromNode":"6f8e8541e050d1fb","fromSide":"right","toNode":"0c3462dc97029f8c","toSide":"left"},
-		{"id":"e83c041c3363fb9e","fromNode":"17f54a7f754d41e7","fromSide":"right","toNode":"0c3462dc97029f8c","toSide":"bottom","toEnd":"none"},
-		{"id":"68249dc964c65a44","fromNode":"372f46686ef1f07c","fromSide":"right","toNode":"6f8e8541e050d1fb","toSide":"left"},
-		{"id":"cdf888e9500f78b8","fromNode":"1fa7844dfe5e7f28","fromSide":"left","toNode":"fa5ef769079a22ee","toSide":"right","toEnd":"none"},
-		{"id":"55474a30f239f56a","fromNode":"6f8e8541e050d1fb","fromSide":"right","toNode":"89c959cd77f4241f","toSide":"bottom"},
-		{"id":"b68699adf5a3acfd","fromNode":"2a939919287b4f17","fromSide":"left","toNode":"fa5ef769079a22ee","toSide":"bottom","toEnd":"none"},
-		{"id":"5ccc55debd66663b","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"40198282752ed590","toSide":"top"},
-		{"id":"973a22186b6621a0","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"6c1486053a791d0d","toSide":"top"},
-		{"id":"4e6206b02e68553c","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"9be388f6f3ce4123","toSide":"top"},
-		{"id":"476860790951b4e4","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"d64c4de4867976c9","toSide":"top"},
-		{"id":"bcf6fe68e68b5d1a","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"80b550cc64b32b48","toSide":"top"},
-		{"id":"393afe0541e955b5","fromNode":"aa69cb8faa3b8157","fromSide":"bottom","toNode":"d937cb0705f3cc77","toSide":"top"},
-		{"id":"9ff50c8c369bae7d","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"8c52894eb4118c63","toSide":"top"}
-=======
 		{"id":"ec8af21eb463464e","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"80b550cc64b32b48","toSide":"top"}
+<<<<<<< HEAD
 >>>>>>> origin/main
 =======
 		{"id":"2ba22bb7879253fe","fromNode":"dca7273f450c8482","fromSide":"left","toNode":"aa69cb8faa3b8157","toSide":"right"}
 >>>>>>> parent of b0062dc (vault backup: 2025-08-16 19:23:30)
+=======
+>>>>>>> origin/main
 	]
 }

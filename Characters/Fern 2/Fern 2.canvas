@@ -9,17 +9,17 @@
 		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":290,"y":1140,"width":250,"height":60},
 		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":760,"y":1140,"width":250,"height":60},
 		{"id":"0d3b26db60efdc5a","type":"text","text":"Primeira Aparição em","x":-580,"y":820,"width":250,"height":60},
-		{"id":"1160bc235068cb05","x":-800,"y":980,"width":400,"height":400,"type":"file","file":"Parts/Parte 1/Auverse Parte 1.md"}
+		{"id":"1160bc235068cb05","type":"file","file":"Parts/Parte 1/Auverse Parte 1.md","x":-800,"y":980,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},
 		{"id":"78992ede994023f1","fromNode":"5eb7687b5c37c669","fromSide":"right","toNode":"6951459c14e26366","toSide":"left"},
-		{"id":"6924c28267180430","fromNode":"ce50b633392456ac","fromSide":"left","toNode":"5eb7687b5c37c669","toSide":"left"},
+		{"id":"6924c28267180430","fromNode":"ce50b633392456ac","fromSide":"left","toNode":"5eb7687b5c37c669","toSide":"left","color":"#4b1616"},
 		{"id":"151f83c1efb71f2f","fromNode":"5eb7687b5c37c669","fromSide":"bottom","toNode":"7cd7f839f9bf50b8","toSide":"top"},
 		{"id":"07d5dd9347f8adad","fromNode":"7cd7f839f9bf50b8","fromSide":"left","toNode":"7fd7f2280f6f33df","toSide":"top"},
 		{"id":"8875f274eb468dce","fromNode":"7cd7f839f9bf50b8","fromSide":"right","toNode":"c136e7489c45ff72","toSide":"top"},
-		{"id":"8e6b0475d2abfc83","fromNode":"edff0ce1ea1a950b","fromSide":"bottom","toNode":"5eb7687b5c37c669","toSide":"top"},
 		{"id":"03c6b4dad04072b3","fromNode":"5eb7687b5c37c669","fromSide":"right","toNode":"0d3b26db60efdc5a","toSide":"right"},
-		{"id":"be0548baa4b785eb","fromNode":"0d3b26db60efdc5a","fromSide":"bottom","toNode":"1160bc235068cb05","toSide":"top"}
+		{"id":"be0548baa4b785eb","fromNode":"0d3b26db60efdc5a","fromSide":"bottom","toNode":"1160bc235068cb05","toSide":"top"},
+		{"id":"46ae480214ef30dd","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"5eb7687b5c37c669","toSide":"top"}
 	]
 }
