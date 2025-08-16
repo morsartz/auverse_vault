@@ -1,0 +1,1 @@
+ocorreu quando o nirestre consumiu o suficiente pra se tornar sua propria dimensão
