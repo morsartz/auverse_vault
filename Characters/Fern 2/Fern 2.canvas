@@ -11,9 +11,9 @@
 		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":235,"y":1140,"width":250,"height":60},
 		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":960,"y":1140,"width":250,"height":60},
 		{"id":"477b1134ecee10dc","type":"text","text":"Durante Parte 1 - *Fim*","x":1240,"y":1250,"width":250,"height":60},
-		{"id":"f469429e820e176f","type":"text","text":"Celestiais *Membro*","x":710,"y":1460,"width":250,"height":60},
+		{"id":"f469429e820e176f","type":"text","text":"[[Celestiais.canvas|Celestiais]] *Membro*","x":710,"y":1460,"width":250,"height":60},
 		{"id":"a51e6257d899dff9","type":"text","text":"Chroma 9 *Membro*","x":710,"y":1310,"width":250,"height":60},
-		{"id":"1a73a026cb7112a9","x":1240,"y":1400,"width":250,"height":60,"type":"text","text":"Durante Parte 8 - *Fim*"}
+		{"id":"1a73a026cb7112a9","type":"text","text":"Durante Parte 8 - *Fim*","x":1240,"y":1400,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},
