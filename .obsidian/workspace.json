@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Ren 187"
             }
+          },
+          {
+            "id": "eb441a914a33ef43",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Fern 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Fern 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb0a97c4a3924b1b",
+  "active": "eb441a914a33ef43",
   "lastOpenFiles": [
-    "Characters/Fern 2.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Lore.md",
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "conflict-files-obsidian-git.md",
     "Characters/Ren 187.canvas",
+    "Characters/Rust",
+    "Characters/Fern 2.canvas",
     "Events/Timeline.canvas",
     "to-do.md",
     "changelog.md",
