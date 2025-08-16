@@ -29,9 +29,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 86.93455244274622,
+                  "y": -7.559526299369235,
+                  "zoom": -0.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,6 +190,7 @@
   "active": "582340e11a7e7044",
   "lastOpenFiles": [
     "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Lore.md",
     "Characters/Rust/Rust.canvas",
     "Characters/Rust",
     "Places/AU 2.canvas",
