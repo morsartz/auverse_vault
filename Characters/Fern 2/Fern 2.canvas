@@ -11,9 +11,13 @@
 		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":235,"y":1140,"width":250,"height":60},
 		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":960,"y":1140,"width":250,"height":60},
 		{"id":"477b1134ecee10dc","type":"text","text":"Durante Parte 1 - *Fim*","x":1240,"y":1250,"width":250,"height":60},
-		{"id":"f469429e820e176f","type":"text","text":"[[Celestiais.canvas|Celestiais]] *Membro*","x":710,"y":1460,"width":250,"height":60},
 		{"id":"a51e6257d899dff9","type":"text","text":"Chroma 9 *Membro*","x":710,"y":1310,"width":250,"height":60},
-		{"id":"1a73a026cb7112a9","type":"text","text":"Durante Parte 8 - *Fim*","x":1240,"y":1400,"width":250,"height":60}
+		{"id":"f469429e820e176f","type":"text","text":"[[Celestiais.canvas|Celestiais]] *Membro*","x":710,"y":1430,"width":250,"height":60},
+		{"id":"1a73a026cb7112a9","type":"text","text":"Durante Parte 8 - *Fim*","x":1240,"y":1350,"width":250,"height":60},
+		{"id":"6fd7024dcb5fbcec","type":"text","text":"[[Rust.canvas|Rust]]","x":160,"y":1340,"width":250,"height":60},
+		{"id":"743921ecc0b72cd1","type":"text","text":"[[Ren 187.canvas|Ren 187]]","x":160,"y":1430,"width":250,"height":60},
+		{"id":"4fcbb8977abacc9d","type":"text","text":"[[Indetermined Fern.canvas|Indetermined Fern]]","x":160,"y":1520,"width":250,"height":60},
+		{"id":"2ad3c5cc3bfcc3af","type":"text","text":"","x":160,"y":1620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},
@@ -27,6 +31,7 @@
 		{"id":"46ae480214ef30dd","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"5eb7687b5c37c669","toSide":"top"},
 		{"id":"487060719a6478dd","fromNode":"a51e6257d899dff9","fromSide":"right","toNode":"477b1134ecee10dc","toSide":"left","toEnd":"none"},
 		{"id":"b80337246ada5e6b","fromNode":"c136e7489c45ff72","fromSide":"bottom","toNode":"a51e6257d899dff9","toSide":"top"},
-		{"id":"747dd16ea2ee61e2","fromNode":"f469429e820e176f","fromSide":"right","toNode":"1a73a026cb7112a9","toSide":"left","toEnd":"none"}
+		{"id":"747dd16ea2ee61e2","fromNode":"f469429e820e176f","fromSide":"right","toNode":"1a73a026cb7112a9","toSide":"left","toEnd":"none"},
+		{"id":"0f0daf6ff3eef3bf","fromNode":"7fd7f2280f6f33df","fromSide":"bottom","toNode":"6fd7024dcb5fbcec","toSide":"top"}
 	]
 }
