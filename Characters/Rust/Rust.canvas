@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-160,"y":-200,"width":320,"height":400}
+		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-160,"y":-200,"width":320,"height":400},
+		{"id":"4fe670631a20f9e8","type":"file","file":"References/Rust Manto Reference.png","x":360,"y":-60,"width":400,"height":292}
 	],
 	"edges":[]
 }

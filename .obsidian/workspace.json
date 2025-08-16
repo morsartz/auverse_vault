@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "References/Rust Manto Reference.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rust"
+              "title": "Backlinks for Rust Manto Reference"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "References/Rust Manto Reference.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rust"
+              "title": "Outgoing links from Rust Manto Reference"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "References/Rust Manto Reference.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rust"
+              "title": "Outline of Rust Manto Reference"
             }
           }
         ]
@@ -187,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "582340e11a7e7044",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "References/Rust Manto Reference.png",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Rust/Lore.md",
     "Characters/Rust/Rust.canvas",
