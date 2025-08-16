@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "b3dd293e1e923fb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5235fb3902a8dd4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0a97c4a3924b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to-do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to-do"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdd1fd3e95e72a84",
+    "type": "split",
+    "children": [
+      {
+        "id": "b857b6536d308d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41cea2f8f4e38194",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf34573e54fdd423",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6180dce45e9e68ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80ecc5f6d5d98419",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4c87912b45d209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f04f10d7559763",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "to-do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for to-do"
+            }
+          },
+          {
+            "id": "814f5acadb045eed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "to-do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from to-do"
+            }
+          },
+          {
+            "id": "5c6560873b86723e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fed90a7836e90a77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "to-do.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of to-do"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "41cea2f8f4e38194",
+  "lastOpenFiles": [
+    "changelog.md",
+    "to-do.md",
+    "Main/to-do.canvas",
+    "Main",
+    "Places/AU 2.canvas",
+    "Events/Timeline.canvas",
+    "Characters/Untitled.md",
+    "Characters/Fern 2.canvas",
+    "Places",
+    "Characters",
+    "Events",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
