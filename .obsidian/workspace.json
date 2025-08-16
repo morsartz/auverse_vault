@@ -32,8 +32,8 @@
               "state": {
                 "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 64.61309977151564,
-                  "y": 1015.2041127189642,
+                  "x": 82.33206397562833,
+                  "y": 1027.016755521706,
                   "zoom": -0.24033177014320414
                 }
               },
@@ -190,24 +190,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a31334c6c5a5076",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Characters/Ren 6",
+    "Characters/Ren 2",
+    "Characters/Ren 1",
+    "Characters/Quinn 5",
+    "Characters/Guhen Alamankar",
+    "Characters/Nova Lum",
+    "Characters/Mestre",
+    "Characters/Memphis 6",
+    "Characters/Mateour",
+    "Characters/Malestre",
+    "Characters/Mago Fenrir",
     "Parts/Parte 1/Auverse Parte 1.md",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rust/Rust.canvas",
     "Parts/Parte 1/Auverse Parte 1.canvas",
     "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
     "Characters/Ren 187/Ren 187.canvas",
-    "Races/Demon",
-    "Races/Voidborn",
-    "Races/Senkor",
-    "Races/Kanashime",
-    "Races/Abyssal Being",
-    "Races/Human",
-    "Races/Robots",
-    "Races/Vaius",
-    "Races/Memphis",
-    "Races/Traken",
     "Places/Realidade/Realidade.canvas",
     "conflict-files-obsidian-git.md",
     "Factions/Celestiais/Lore.md",
