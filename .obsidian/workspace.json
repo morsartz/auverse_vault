@@ -25,14 +25,17 @@
             "id": "9953c1036d019d9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/Lohan/Lore.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Ren 187/Ren 187.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lore"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ren 187"
             }
           }
         ],
@@ -184,13 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9953c1036d019d9a",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
-    "Characters/Lohan/Lohan.canvas",
+    "Parts/Parte 7",
+    "Parts/Parte 6",
+    "Parts/Parte 5",
+    "Parts/Parte 4",
+    "Parts/Parte 3",
+    "Parts/Parte 2",
+    "Parts/Parte 1",
+    "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Lohan/Lore.md",
+    "Characters/Lohan/Lohan.canvas",
     "Characters/Rust/Rust.canvas",
     "Characters/Lohan",
-    "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Ren 187/Lore.md",
     "Characters/Ren 187/Ren 187.canvas",
     "Characters/Fern 2/Fern 2.canvas",
@@ -216,12 +226,6 @@
     "Places/Unknown",
     "Places/Realidade/AU 2",
     "Places/Realidade",
-    "Parts/Parte 8",
-    "Parts",
-    "Factions/Regime de Okahara",
-    "Factions/Celestiais",
-    "Factions/Caçadores de Recompensas",
-    "Factions",
     "to-do.md",
     "changelog.md",
     "Characters/Sem título.md",
