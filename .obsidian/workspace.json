@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Lore"
             }
+          },
+          {
+            "id": "46d2d3e86ab59788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,43 +184,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d5111eff6ab7c5a",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Places/Realidade/AU 006",
+    "Places/Realidade/AU 005",
+    "Places/Realidade/AU 004",
+    "Places/Realidade/AU 003",
+    "Places/Realidade/AU 001",
+    "Factions/Celestiais/Lore.md",
+    "conflict-files-obsidian-git.md",
+    "Races/Arth/Arth.canvas",
+    "Races/Arth",
     "Factions/Celestiais/Celestiais.canvas",
     "Factions/Regime de Okahara/Lore.md",
     "Factions/Regime de Okahara/Regime de Okahara.canvas",
-    "Places/Realidade/AU 2/AU 001.canvas",
+    "Places/Realidade/AU 001/AU 001.canvas",
     "Races/Arthe/Arthe.canvas",
     "Races/Arthe/Culture.md",
     "Races/Arthe/Lore.md",
     "Places/Unknown/Unknown.canvas",
     "to-do.md",
     "mandamentos.md",
-    "conflict-files-obsidian-git.md",
     "changelog.md",
     "Characters/Ren 187/Ren 187.canvas",
     "Events/Concepção do Unknown.md",
-    "Places/Realidade/AU 2/AU 003.canvas",
+    "Places/Realidade/AU 002/AU 003.canvas",
     "Races/Arthe",
     "Races",
-    "Places/Realidade/AU 2/AU 008.canvas",
-    "Places/Realidade/AU 2/AU 007.canvas",
-    "Places/Realidade/AU 2/AU 005.canvas",
-    "Places/Realidade/AU 2/AU 124.canvas",
+    "Places/Realidade/AU 002/AU 008.canvas",
+    "Places/Realidade/AU 002/AU 007.canvas",
     "Parts/Parte 7",
     "Parts/Parte 6",
     "Parts/Parte 5",
-    "Parts/Parte 4",
-    "Parts/Parte 3",
-    "Parts/Parte 2",
-    "Parts/Parte 1",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Lohan/Lore.md",
-    "Characters/Lohan",
     "Characters/Ren 187/Lore.md",
     "Characters/Fern 2/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
-    "Factions/Celestiais/Lore.md",
     "Factions/Caçadores de Recompensas/Lore.md",
     "Events/Criação do Universo.md",
     "Events/Regime de Okahara.md",
