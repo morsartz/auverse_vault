@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d5111eff6ab7c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Celestiais/Lore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lore"
-            }
-          },
-          {
             "id": "8dae16a801c5b7fc",
             "type": "leaf",
             "state": {
@@ -29,17 +15,16 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 696.464615705038,
-                  "y": 623.8685949239134,
-                  "zoom": -0.24026930522327555
+                  "x": 201.60078133056237,
+                  "y": 313.41599405890474,
+                  "zoom": -0.5736026385566089
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Rust"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,6 +174,8 @@
   },
   "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Characters/Arthe 46",
+    "Characters/Arthe 17",
     "Characters/Arthe 10",
     "Characters/Arthe 9",
     "conflict-files-obsidian-git.md",
@@ -200,8 +187,6 @@
     "Characters/Arthe 3",
     "Characters/Arthe 2",
     "Characters/Arthe 1",
-    "Characters/124",
-    "Characters/Memphis 187",
     "Races/Arth/Arthe.canvas",
     "Factions/Celestiais/Celestiais.canvas",
     "Factions/Regime de Okahara/Lore.md",
