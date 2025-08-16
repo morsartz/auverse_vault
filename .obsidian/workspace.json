@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rust/Lore.md",
+                "file": "Characters/Ren 187/Lore.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -169,16 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "435fd0903fad92d5",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
-    "Characters/Rust/Rust Apperance Reference 1.png",
-    "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Lore.md",
+    "Characters/Ren 187/Lore.md",
     "Characters/Rust/Lore.md",
     "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Ren 187/Ren 187.canvas",
     "Characters/Ren 187",
     "Characters/Fern 2",
-    "Sem título.md",
     "to-do.md",
     "changelog.md",
     "conflict-files-obsidian-git.md",
