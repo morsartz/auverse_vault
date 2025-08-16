@@ -3,14 +3,14 @@
 		{"id":"370c11a6e1eb7f13","type":"file","file":"Characters/Rust/Lore.md","x":360,"y":-200,"width":400,"height":400},
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60},
 		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-740,"y":220,"width":400,"height":400},
-		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-120,"y":-140,"width":320,"height":400},
 		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":510,"y":510,"width":250,"height":60},
 		{"id":"34c9bf99e9c6219d","type":"text","text":"[[Fern 2.canvas|Fern 2]] *Amigo*, *Parceiro Romântico ou Íntimo*, *Companheiro em combate*","x":-110,"y":680,"width":250,"height":120},
 		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-20,"y":510,"width":250,"height":60},
 		{"id":"d937cb0705f3cc77","type":"text","text":"Relações","x":230,"y":420,"width":250,"height":60},
-		{"id":"944d744a1e6cf534","x":350,"y":860,"width":320,"height":60,"type":"text","text":"Regime do Okahara *Contratado*"},
-		{"id":"8a44af51916743e3","x":350,"y":770,"width":280,"height":60,"type":"text","text":"Caçadores de Recompensas"},
-		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":350,"y":680,"width":250,"height":60}
+		{"id":"944d744a1e6cf534","type":"text","text":"Regime do Okahara *Contratado*","x":350,"y":860,"width":320,"height":60},
+		{"id":"8a44af51916743e3","type":"text","text":"Caçadores de Recompensas","x":350,"y":770,"width":280,"height":60},
+		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":350,"y":680,"width":250,"height":60},
+		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},

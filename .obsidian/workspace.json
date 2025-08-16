@@ -25,14 +25,10 @@
             "id": "582340e11a7e7044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mandamentos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mandamentos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -123,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mandamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for mandamentos"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mandamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from mandamentos"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mandamentos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mandamentos"
+              "title": "Outline"
             }
           }
         ]
@@ -200,25 +193,33 @@
   },
   "active": "582340e11a7e7044",
   "lastOpenFiles": [
-    "Events/Timeline.canvas",
-    "mandamentos.md",
-    "Raças",
+    "Parts/Parte 8/Auverse Parte 8.md",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Events/Concepção do Unknown.md",
+    "Places/Vazio Experimental",
+    "Places/Vale dos Corvos",
+    "Places/Sonhos",
+    "Places/Vazio",
+    "Places/Inferno",
+    "Places/Abismo",
+    "Places/Coliseu",
+    "Events/Criação do Coliseu.md",
+    "Events/Criação do Abismo.md",
     "Events/Criação do Universo.md",
+    "mandamentos.md",
+    "Events/Timeline.canvas",
+    "Raças",
     "to-do.md",
     "Places/Unknown/Unknown.canvas",
     "Places/Realidade/Realidade.canvas",
-    "Events/Concepção do Unknown.md",
     "Places/Realidade",
     "Places/Unknown",
     "Events/Regime de Okahara.md",
     "Factions/Regime de Okahara/Regime de Okahara.canvas",
     "Factions/Regime de Okahara/Lore.md",
     "Factions/Caçadores de Recompensas/Lore.md",
-    "Factions/Regime de Okahara/Untitled",
-    "Factions/Regime de Okahara",
     "Factions/Caçadores de Recompensas/Caçadores de Recompensas.canvas",
-    "Characters/Rust/Rust.canvas",
-    "Factions/Caçadores de Recompensas",
     "conflict-files-obsidian-git.md",
     "Characters/Ren 187/Lore.md",
     "Characters/Fern 2/Lore.md",
@@ -226,14 +227,8 @@
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Rust/Lore.md",
     "Characters/Ren 187/Ren 187.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
     "Factions/Celestiais/Lore.md",
-    "Factions/Celestiais",
-    "Factions",
     "Places/Realidade/AU 2/AU 2.canvas",
-    "Places/Realidade/AU 2",
-    "Parts/Parte 8/Auverse Parte 8.md",
-    "Characters/Ren 187",
     "AUVERSE PARTE 8.md",
     "().md",
     "References/Rust Manto Reference.png",
