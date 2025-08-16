@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2.canvas",
+                "file": "Characters/Ren 187.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
+              "title": "Ren 187"
             }
           }
         ]
@@ -172,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "eb0a97c4a3924b1b",
   "lastOpenFiles": [
-    "Characters/Ren 187.canvas",
     "Characters/Fern 2.canvas",
+    "Characters/Ren 187.canvas",
     "Events/Timeline.canvas",
     "to-do.md",
     "changelog.md",
