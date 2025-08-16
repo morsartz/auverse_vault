@@ -11,31 +11,10 @@
             "id": "eb0a97c4a3924b1b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Events/Timeline.canvas",
-                "viewState": {
-                  "x": 402.2371313365088,
-                  "y": 538.8717250203025,
-                  "zoom": -1.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "a6e29a221c580086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           },
           {
@@ -69,8 +48,7 @@
               "title": "Auverse Parte 8"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks"
             }
           },
           {
@@ -162,12 +139,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links"
             }
           },
           {
@@ -191,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline"
             }
           }
         ]
@@ -218,8 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6e29a221c580086",
+  "active": "eb0a97c4a3924b1b",
   "lastOpenFiles": [
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Carisma.md",
+    "Characters/Rust/Lore.md",
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Manto do Mestre.png",
+    "Characters/Fern 2/Fern 2.canvas",
     "Events/Timeline.canvas",
     "conflict-files-obsidian-git.md",
     "Parts/Parte 1/Auverse Parte 1.md",
@@ -228,14 +209,11 @@
     "Parts/Parte 2/Auverse Parte 2.md",
     "Parts/Parte 2/Untitled.canvas",
     "Parts/Parte 2",
-    "Characters/Rust/Rust.canvas",
     "mandamentos.md",
     "to-do.md",
     "Characters/Zenith/Zenith.canvas",
     "Characters/Zenith",
-    "Characters/Rust/Carisma.md",
     "Manto do Mestre 2.png",
-    "Characters/Rust/Manto do Mestre.png",
     "Races/Arth/Arthe.canvas",
     "Races/Arth",
     "Races/Arthe/Lore.md",
@@ -248,14 +226,12 @@
     "Places/Realidade/AU 124",
     "Places/Realidade/AU 008/AU 008.canvas",
     "Places/Realidade/AU 008",
-    "Places/Realidade/AU 007/AU 007.canvas",
     "Places/Realidade/AU 007",
     "Places/Realidade/AU 006",
     "Races/Arth/Culture.md",
     "Races/Arth/Lore.md",
     "Characters/Lohan/Lore.md",
     "Realidade.md",
-    "Characters/Rust/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
     "Events/Concepção do Unknown.md",
     "Events/Criação do Coliseu.md",
@@ -266,7 +242,6 @@
     "Factions/Caçadores de Recompensas/Lore.md",
     "Characters/Ren 187/Lore.md",
     "Characters/Fern 2/Lore.md",
-    "Characters/Rust/Rust Apperance Reference 1.png",
     "Factions/Celestiais/Lore.md",
     "AUVERSE PARTE 8.md",
     "References/Rust Manto Reference.png"
