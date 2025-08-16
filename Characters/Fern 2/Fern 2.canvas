@@ -6,10 +6,10 @@
 		{"id":"5eb7687b5c37c669","type":"file","file":"Characters/Fern 2/Fern 2 Apperance Reference 1.png","x":-40,"y":420,"width":400,"height":400},
 		{"id":"6951459c14e26366","type":"file","file":"Characters/Fern 2/Lore.md","x":560,"y":220,"width":400,"height":400},
 		{"id":"7cd7f839f9bf50b8","type":"text","text":"Relações","x":540,"y":980,"width":250,"height":60},
-		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":290,"y":1140,"width":250,"height":60},
-		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":760,"y":1140,"width":250,"height":60},
 		{"id":"0d3b26db60efdc5a","type":"text","text":"Primeira Aparição em","x":-580,"y":820,"width":250,"height":60},
-		{"id":"1160bc235068cb05","type":"file","file":"Parts/Parte 1/Auverse Parte 1.md","x":-800,"y":980,"width":400,"height":400}
+		{"id":"1160bc235068cb05","type":"file","file":"Parts/Parte 1/Auverse Parte 1.md","x":-800,"y":980,"width":400,"height":400},
+		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":860,"y":1140,"width":250,"height":60},
+		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":235,"y":1140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},

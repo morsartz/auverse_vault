@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 76.42574257425736,
-                  "y": 692.7189642041128,
-                  "zoom": -0.24033177014320414
+                  "x": 32.5,
+                  "y": 220,
+                  "zoom": -0.6435671167066936
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
+              "title": "Rust"
             }
           }
         ]
@@ -172,8 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "1584e63d13adca16",
   "lastOpenFiles": [
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Manto do Mestre.png",
+    "Characters/Rust/Carisma.md",
+    "Characters/Rust/Lore.md",
+    "Manto do Mestre 2.png",
+    "mandamentos.md",
     "Characters/Forsaken",
     "Characters/Fern 6",
     "Characters/Fern 3",
@@ -184,17 +192,9 @@
     "Characters/Tyrone",
     "Characters/Nova",
     "Characters/Interrogação (Vazio)",
-    "Characters/5167",
     "conflict-files-obsidian-git.md",
-    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Fern 2/Lore.md",
-    "Characters/Rust/Carisma.md",
-    "Characters/Rust/Lore.md",
-    "Characters/Rust/Manto do Mestre.png",
-    "Characters/Rust/Rust.canvas",
-    "Characters/Rust/Rust Apperance Reference 1.png",
     "Parts/Parte 2/Auverse Parte 2.md",
-    "Manto do Mestre 2.png",
     "Characters/Zenith/Zenith.canvas",
     "Characters/Lohan/Lohan.canvas",
     "Parts/Parte 1/Auverse Parte 1.md",
@@ -210,7 +210,6 @@
     "Races/Arthe/Culture.md",
     "Races/Arthe/Lore.md",
     "to-do.md",
-    "mandamentos.md",
     "changelog.md",
     "Events/Concepção do Unknown.md",
     "Characters/Lohan/Lore.md",
