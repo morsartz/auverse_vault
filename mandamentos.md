@@ -2,3 +2,4 @@
 2. deve-se seguir a formatação comum de todos itens na mesma pasta o máximo possível
 3. primeiras aparições de personagens devem levar em conta o momento que eles são expostos, não levando em consideração se foram apresentados como "foreshadowing" previamente.
 4. todos eventos meramente importantes devem ser adicionados no Events e organizados na timeline
+5. evitar usar palavras no feminino pra uma analise mais neutra e tal

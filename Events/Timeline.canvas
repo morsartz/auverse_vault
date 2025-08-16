@@ -1,9 +1,14 @@
 {
 	"nodes":[
-		{"id":"b848d8df255b1e48","x":-6,"y":18,"width":400,"height":400,"type":"file","file":"Events/Criação do Universo.md"},
-		{"id":"e2356c7ce53db347","x":69,"y":-140,"width":250,"height":60,"type":"text","text":"Genesis"}
+		{"id":"b848d8df255b1e48","type":"file","file":"Events/Criação do Universo.md","x":-6,"y":0,"width":400,"height":400},
+		{"id":"37e55f694e42fb43","type":"file","file":"Parts/Parte 2/Auverse Parte 2.md","x":-6,"y":720,"width":400,"height":400},
+		{"id":"36e319df39c1de0d","type":"text","text":"Genesis","x":69,"y":480,"width":250,"height":60,"color":"1"},
+		{"id":"e2356c7ce53db347","type":"text","text":"Estalo","x":69,"y":-240,"width":250,"height":60,"color":"1"},
+		{"id":"cf6f4de4b2217ed5","type":"text","text":"Kestre surge","x":69,"y":-120,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"fa3aa880d6dbacf5","fromNode":"e2356c7ce53db347","fromSide":"bottom","toNode":"b848d8df255b1e48","toSide":"top"}
+		{"id":"3283d488b9d71e44","fromNode":"b848d8df255b1e48","fromSide":"bottom","toNode":"36e319df39c1de0d","toSide":"top"},
+		{"id":"f3f8ba785c22cc5a","fromNode":"e2356c7ce53db347","fromSide":"bottom","toNode":"cf6f4de4b2217ed5","toSide":"top"},
+		{"id":"0e579f94408ed3f5","fromNode":"36e319df39c1de0d","fromSide":"bottom","toNode":"37e55f694e42fb43","toSide":"top"}
 	]
 }

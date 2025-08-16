@@ -11,14 +11,17 @@
             "id": "eb0a97c4a3924b1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "to-do.md",
-                "mode": "source",
-                "source": false
+                "file": "Events/Timeline.canvas",
+                "viewState": {
+                  "x": 402.2371313365088,
+                  "y": 538.8717250203025,
+                  "zoom": -1.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "to-do"
+              "icon": "lucide-layout-dashboard",
+              "title": "Timeline"
             }
           },
           {
@@ -27,29 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "Characters/Zenith/Zenith.canvas",
                 "viewState": {
-                  "x": -120.58556041119832,
-                  "y": -270.0091945564631,
-                  "zoom": -1.0091221638106107
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rust"
-            }
-          },
-          {
-            "id": "80f31ba27204c980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Zenith"
             }
           },
           {
@@ -66,8 +55,7 @@
               "title": "Auverse Parte 8"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Events/Timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Timeline"
             }
           },
           {
@@ -159,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Events/Timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from Timeline"
             }
           },
           {
@@ -188,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Events/Timeline.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Timeline"
             }
           }
         ]
@@ -215,9 +203,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80f31ba27204c980",
+  "active": "eb0a97c4a3924b1b",
   "lastOpenFiles": [
+    "Parts/Parte 2/Auverse Parte 2.md",
+    "Parts/Parte 2/Untitled.canvas",
+    "Events/Timeline.canvas",
+    "Parts/Parte 2",
     "Characters/Rust/Rust.canvas",
+    "mandamentos.md",
+    "to-do.md",
+    "Characters/Zenith/Zenith.canvas",
+    "Characters/Zenith",
+    "Characters/Rust/Carisma.md",
+    "Manto do Mestre 2.png",
+    "Characters/Rust/Manto do Mestre.png",
     "conflict-files-obsidian-git.md",
     "Races/Arth/Arthe.canvas",
     "Races/Arth",
@@ -233,18 +232,11 @@
     "Places/Realidade/AU 008",
     "Places/Realidade/AU 007/AU 007.canvas",
     "Places/Realidade/AU 007",
-    "Places/Realidade/AU 006/AU 006.canvas",
     "Places/Realidade/AU 006",
-    "Places/Realidade/AU 005/AU 005.canvas",
     "Places/Realidade/AU 005",
-    "Places/Realidade/AU 004/AU 004.canvas",
-    "Places/Realidade/AU 004",
-    "Places/Realidade/AU 003",
     "Races/Arth/Culture.md",
     "Races/Arth/Lore.md",
-    "mandamentos.md",
     "Characters/Lohan/Lore.md",
-    "to-do.md",
     "Realidade.md",
     "Characters/Rust/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
@@ -261,8 +253,6 @@
     "Factions/Celestiais/Lore.md",
     "AUVERSE PARTE 8.md",
     "().md",
-    "References/Rust Manto Reference.png",
-    "changelog.md",
-    "TEST/this should do somehting.md"
+    "References/Rust Manto Reference.png"
   ]
 }
