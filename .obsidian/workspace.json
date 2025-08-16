@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Fern 2"
             }
+          },
+          {
+            "id": "f71e0c768aeb2181",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Fern 2/Fern 2.canvas",
+                "viewState": {
+                  "x": 1325.9085513286761,
+                  "y": 2244.896797166582,
+                  "zoom": -1.1895118505838895
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Fern 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,34 +190,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aa0287575993481",
+  "active": "f71e0c768aeb2181",
   "lastOpenFiles": [
-    "Characters/Fern 4/Fern 4.canvas",
-    "Characters/Fern 2/Fern 2 Original.canvas",
-    "Characters/Dankiel/Dankiel.canvas",
-    "Characters/ATR 001/ATR 001.canvas",
-    "Characters/Dankiel/Sem título",
-    "Characters/Arthe 2/Arthe 2.canvas",
-    "Characters/Arthe 1/Arthe 1.canvas",
-    "Characters/Amelie/Amelie.canvas",
+    "Characters/Krokso/Krokso.canvas",
+    "Characters/Krokso.md",
+    "Characters/Krokso",
     "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Vaius 2/Vaius 2.canvas",
+    "Characters/Traken 17/Traken 17.canvas",
+    "Characters/Robô/Robô.canvas",
+    "Characters/Ren 17/Ren 17.canvas",
+    "Characters/Ren 2/Ren 2.canvas",
+    "Characters/Quinn 5/Quinn 5.canvas",
+    "Characters/Nova Lum/Nova Lum.canvas",
+    "Characters/Mago Fenrir/Mago Fenrir.canvas",
+    "conflict-files-obsidian-git.md",
+    "auverse_vault",
+    "Characters/Zenith",
+    "Characters/Rust/Carisma.md",
+    "Characters/Dankiel/Sem título",
     "Characters/Vanth",
     "Characters/Vaius 187",
     "Characters/Vaius 17",
     "Characters/Vaius 6",
     "Characters/Vaius 2",
     "Characters/Vaius 1",
-    "Characters/Traken 5",
-    "Characters/Traken 2",
-    "Characters/Traken 1",
-    "Characters/Rust/Rust.canvas",
-    "Characters/Haikai/Haikai.canvas",
-    "Characters/Indetermined Fern/Indetermined Fern.canvas",
     "Characters/Rust/Lore.md",
     "Characters/Rust/Rust Apperance Reference 1.png",
-    "conflict-files-obsidian-git.md",
     "Characters/Rust/Manto do Mestre.png",
-    "Characters/Rust/Carisma.md",
     "Manto do Mestre 2.png",
     "mandamentos.md",
     "Characters/Fern 2/Lore.md",
@@ -221,7 +239,6 @@
     "Events/Regime de Okahara.md",
     "Events/Criação do Abismo.md",
     "Events/Criação do Coliseu.md",
-    "Characters/Sem título.md",
     "Characters/Ren 187.md",
     "TEST/this should do somehting.md"
   ]
