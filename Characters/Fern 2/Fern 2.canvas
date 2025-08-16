@@ -3,10 +3,19 @@
 		{"id":"aa490fe42de4b38d","type":"text","text":"Origem","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"edff0ce1ea1a950b","type":"text","text":"Realidade","x":-20,"y":160,"width":250,"height":60},
 		{"id":"ce50b633392456ac","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2LTlO3NuNVN70lp2ZbVswF?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-980,"y":60,"width":700,"height":390},
-		{"id":"5eb7687b5c37c669","type":"file","file":"Characters/Fern 2/Fern 2 Apperance Reference 1.png","x":-75,"y":440,"width":400,"height":400}
+		{"id":"5eb7687b5c37c669","type":"file","file":"Characters/Fern 2/Fern 2 Apperance Reference 1.png","x":-40,"y":420,"width":400,"height":400},
+		{"id":"6951459c14e26366","type":"file","file":"Characters/Fern 2/Lore.md","x":560,"y":220,"width":400,"height":400},
+		{"id":"7cd7f839f9bf50b8","type":"text","text":"Relações","x":540,"y":980,"width":250,"height":60},
+		{"id":"7fd7f2280f6f33df","type":"text","text":"Social","x":290,"y":1140,"width":250,"height":60},
+		{"id":"c136e7489c45ff72","type":"text","text":"Facções","x":760,"y":1140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},
-		{"id":"6e877f1fb497ec79","fromNode":"5eb7687b5c37c669","fromSide":"left","toNode":"ce50b633392456ac","toSide":"left"}
+		{"id":"78992ede994023f1","fromNode":"5eb7687b5c37c669","fromSide":"right","toNode":"6951459c14e26366","toSide":"left"},
+		{"id":"6924c28267180430","fromNode":"ce50b633392456ac","fromSide":"left","toNode":"5eb7687b5c37c669","toSide":"left"},
+		{"id":"151f83c1efb71f2f","fromNode":"5eb7687b5c37c669","fromSide":"bottom","toNode":"7cd7f839f9bf50b8","toSide":"top"},
+		{"id":"07d5dd9347f8adad","fromNode":"7cd7f839f9bf50b8","fromSide":"left","toNode":"7fd7f2280f6f33df","toSide":"top"},
+		{"id":"8875f274eb468dce","fromNode":"7cd7f839f9bf50b8","fromSide":"right","toNode":"c136e7489c45ff72","toSide":"top"},
+		{"id":"8e6b0475d2abfc83","fromNode":"edff0ce1ea1a950b","fromSide":"bottom","toNode":"5eb7687b5c37c669","toSide":"top"}
 	]
 }

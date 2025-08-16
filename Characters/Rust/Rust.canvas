@@ -3,7 +3,6 @@
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60},
 		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-740,"y":220,"width":400,"height":400},
 		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":510,"y":510,"width":250,"height":60},
-		{"id":"34c9bf99e9c6219d","type":"text","text":"[[Fern 2.canvas|Fern 2]] *Amigo*, *Parceiro Romântico ou Íntimo*, *Companheiro em combate*, *Membros da mesma facção*","x":-110,"y":680,"width":250,"height":120},
 		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-20,"y":510,"width":250,"height":60},
 		{"id":"d937cb0705f3cc77","type":"text","text":"Relações","x":230,"y":420,"width":250,"height":60},
 		{"id":"944d744a1e6cf534","type":"text","text":"Regime do Okahara *Contratado*","x":350,"y":860,"width":320,"height":60},
@@ -17,7 +16,8 @@
 		{"id":"55c61cf2e3daa5a9","type":"text","text":"Durante *Parte 8* - *Fim*","x":800,"y":650,"width":250,"height":60},
 		{"id":"8e3df71a37aa0b6f","type":"text","text":"Durante *Parte 4* - *Fim do Regime Okahara*","x":800,"y":830,"width":250,"height":60},
 		{"id":"2a9f3f70cc08065d","type":"text","text":"Durante *Parte 4* - *Parte 8*","x":800,"y":740,"width":300,"height":60},
-		{"id":"dca7273f450c8482","x":-1035,"y":-505,"width":745,"height":415,"type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"}
+		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415},
+		{"id":"34c9bf99e9c6219d","type":"text","text":"[[Fern 2.canvas|Fern 2]] *Amigo*, *Parceiro Romântico ou Íntimo*, *Companheiro em combate*, *Membros da mesma facção*","x":-110,"y":680,"width":250,"height":150}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -31,6 +31,7 @@
 		{"id":"972b1d0ed4129cb3","fromNode":"55c61cf2e3daa5a9","fromSide":"left","toNode":"822fd3683c0a3a96","toSide":"right","toEnd":"none"},
 		{"id":"7d01d529e179de53","fromNode":"944d744a1e6cf534","fromSide":"right","toNode":"8e3df71a37aa0b6f","toSide":"left","toEnd":"none"},
 		{"id":"53534f09ac22fbd4","fromNode":"2a9f3f70cc08065d","fromSide":"left","toNode":"8a44af51916743e3","toSide":"right","toEnd":"none"},
-		{"id":"2ba22bb7879253fe","fromNode":"dca7273f450c8482","fromSide":"left","toNode":"aa69cb8faa3b8157","toSide":"right"}
+		{"id":"2ba22bb7879253fe","fromNode":"dca7273f450c8482","fromSide":"left","toNode":"aa69cb8faa3b8157","toSide":"right"},
+		{"id":"ec8af21eb463464e","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"80b550cc64b32b48","toSide":"top"}
 	]
 }
