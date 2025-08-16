@@ -32,9 +32,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": -348.3417020807693,
-                  "y": 1062.3416825411111,
-                  "zoom": -0.36833551803728354
+                  "x": -21.187996874742275,
+                  "y": 970.0155828421634,
+                  "zoom": -1.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -199,9 +199,19 @@
   },
   "active": "716a1f204e6b6c52",
   "lastOpenFiles": [
+    "Races/Humano/Culture.md",
+    "Races/Humano/Lore.md",
+    "Races/Humano/Culture",
+    "Races/Humano/Humano Puro.canvas",
+    "Races/Humano/Humano.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Races/Humano",
+    "Characters/Nina/Nina.canvas",
+    "Characters/Nina",
+    "Characters/Rad/Rad.canvas",
+    "Characters/Rad",
     "Characters/Rust/Carisma.md",
     "Characters/Zenith/Zenith.canvas",
-    "Characters/Rust/Rust.canvas",
     "Characters/Zenith",
     "Characters/Fern 2/Fern 2.canvas",
     "conflict-files-obsidian-git.md",
@@ -219,14 +229,6 @@
     "auverse_vault/Races/Arthe/Arthe.canvas",
     "auverse_vault/Races/Arthe",
     "auverse_vault/Races",
-    "auverse_vault/Places/Realidade/AU 187/AU 187.canvas",
-    "auverse_vault/Places/Realidade/AU 124/AU 124.canvas",
-    "auverse_vault/Places/Realidade/AU 008/AU 008.canvas",
-    "auverse_vault/Places/Realidade/AU 006/AU 006.canvas",
-    "auverse_vault/Places/Realidade/AU 187",
-    "auverse_vault/Places/Realidade/AU 124",
-    "auverse_vault/Places/Realidade/AU 008",
-    "auverse_vault/Places/Realidade/AU 006",
     "auverse_vault/Parts/Parte 8/Auverse Parte 8.md",
     "auverse_vault/Parts/Parte 1/Auverse Parte 1.md",
     "auverse_vault/Factions/Celestiais/Lore.md",
@@ -248,8 +250,6 @@
     "Parts/Parte 8/Auverse Parte 8.md",
     "Characters/Rust/Carisma.md",
     "Characters/Rust/Manto do Mestre.png",
-    "Parts/Parte 1/Auverse Parte 1.md",
-    "Parts/Parte 2/Auverse Parte 2.md",
     "Manto do Mestre 2.png",
     "References/Rust Manto Reference.png"
   ]
