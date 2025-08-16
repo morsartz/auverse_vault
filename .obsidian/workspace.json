@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "Lore"
             }
+          },
+          {
+            "id": "8dae16a801c5b7fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Rust/Rust.canvas",
+                "viewState": {
+                  "x": 696.464615705038,
+                  "y": 623.8685949239134,
+                  "zoom": -0.24026930522327555
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,6 +189,10 @@
   },
   "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Characters/Arthe 10",
+    "Characters/Arthe 9",
+    "conflict-files-obsidian-git.md",
+    "Factions/Celestiais/Lore.md",
     "Characters/Arthe 8",
     "Characters/Arthe 6",
     "Characters/Arthe 5",
@@ -180,10 +202,6 @@
     "Characters/Arthe 1",
     "Characters/124",
     "Characters/Memphis 187",
-    "Characters/Dankiel",
-    "Characters/Fern 1",
-    "Factions/Celestiais/Lore.md",
-    "conflict-files-obsidian-git.md",
     "Races/Arth/Arthe.canvas",
     "Factions/Celestiais/Celestiais.canvas",
     "Factions/Regime de Okahara/Lore.md",
