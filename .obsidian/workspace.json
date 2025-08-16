@@ -11,14 +11,17 @@
             "id": "eb0a97c4a3924b1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TEST/this should do somehting.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Fern 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "this should do somehting"
+              "icon": "lucide-layout-dashboard",
+              "title": "Fern 2"
             }
           }
         ]
@@ -44,7 +47,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -160,27 +163,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "eb0a97c4a3924b1b",
   "lastOpenFiles": [
-    "changelog.md",
-    "TEST/this should do somehting.md",
+    "Events/Timeline.canvas",
     "to-do.md",
+    "changelog.md",
+    "Characters/Fern 2.canvas",
+    "TEST/this should do somehting.md",
     "TEST",
     "Main/to-do.canvas",
     "Main",
     "Places/AU 2.canvas",
-    "Events/Timeline.canvas",
     "Characters/Untitled.md",
-    "Characters/Fern 2.canvas",
     "Places",
     "Characters",
     "Events",
