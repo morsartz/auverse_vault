@@ -1,1 +1,1 @@
-quando a entidade kestre começou a fazer coisa
+quando a entidade kestre surgiu
