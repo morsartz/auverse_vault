@@ -174,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "b66a47c1840411d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +206,11 @@
   "active": "eb0a97c4a3924b1b",
   "lastOpenFiles": [
     "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rust/Carisma.md",
     "Characters/Rust/Lore.md",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Rust/Manto do Mestre.png",
-    "Characters/Fern 2/Fern 2.canvas",
     "Events/Timeline.canvas",
     "conflict-files-obsidian-git.md",
     "Parts/Parte 1/Auverse Parte 1.md",
