@@ -1,0 +1,1 @@
+escrever todo roteiro da parte 8 aqui
