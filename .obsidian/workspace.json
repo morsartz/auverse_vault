@@ -8,32 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8dae16a801c5b7fc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Rust/Rust.canvas",
-                "viewState": {
-                  "x": 201.60078133056237,
-                  "y": 313.41599405890474,
-                  "zoom": -0.5736026385566089
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Rust"
-            }
-          },
-          {
-            "id": "8a31334c6c5a5076",
+            "id": "1584e63d13adca16",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 168.56435643564362,
-                  "y": 534.4295506473725,
+                  "x": 76.42574257425736,
+                  "y": 692.7189642041128,
                   "zoom": -0.24033177014320414
                 }
               },
@@ -41,8 +24,7 @@
               "title": "Fern 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +172,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a31334c6c5a5076",
+  "active": "1584e63d13adca16",
   "lastOpenFiles": [
+    "Characters/Fern 2/Lore.md",
+    "Characters/Rust/Carisma.md",
+    "Characters/Rust/Lore.md",
+    "Characters/Rust/Manto do Mestre.png",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "conflict-files-obsidian-git.md",
+    "Parts/Parte 2/Auverse Parte 2.md",
+    "Manto do Mestre 2.png",
+    "Characters/Zenith/Zenith.canvas",
+    "Characters/Zenith",
     "Characters/Iru",
     "Characters/Hira",
     "Characters/Kakushi",
@@ -201,44 +195,33 @@
     "Characters/Sora",
     "Characters/Tenshi",
     "Characters/Raze",
-    "Characters/Nick",
-    "Characters/Taichi",
     "Characters/Lohan/Lohan.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
     "Parts/Parte 1/Auverse Parte 1.md",
-    "Characters/Rust/Rust.canvas",
     "Parts/Parte 1/Auverse Parte 1.canvas",
     "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
     "Characters/Ren 187/Ren 187.canvas",
     "Places/Realidade/Realidade.canvas",
-    "conflict-files-obsidian-git.md",
     "Factions/Celestiais/Lore.md",
     "Races/Arth/Arthe.canvas",
     "Factions/Celestiais/Celestiais.canvas",
     "Factions/Regime de Okahara/Lore.md",
     "Factions/Regime de Okahara/Regime de Okahara.canvas",
-    "Places/Realidade/AU 001/AU 001.canvas",
     "Races/Arthe/Culture.md",
     "Races/Arthe/Lore.md",
     "to-do.md",
     "mandamentos.md",
     "changelog.md",
     "Events/Concepção do Unknown.md",
-    "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Lohan/Lore.md",
     "Characters/Ren 187/Lore.md",
-    "Characters/Fern 2/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
     "Factions/Caçadores de Recompensas/Lore.md",
     "Events/Criação do Universo.md",
     "Events/Regime de Okahara.md",
     "Events/Criação do Abismo.md",
     "Events/Criação do Coliseu.md",
-    "Characters/Rust/Lore.md",
     "Characters/Sem título.md",
     "Characters/Ren 187.md",
-    "TEST/this should do somehting.md",
-    "Characters/Untitled.md",
-    "create a link.md"
+    "TEST/this should do somehting.md"
   ]
 }
