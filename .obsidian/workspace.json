@@ -37,9 +37,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Rust"
             }
+          },
+          {
+            "id": "ec1cf2a0f805134a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Ren 187.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ren 187"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Rust Manto Reference.png",
+                "file": "Characters/Ren 187.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rust Manto Reference"
+              "title": "Backlinks for Ren 187"
             }
           },
           {
@@ -131,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Rust Manto Reference.png",
+                "file": "Characters/Ren 187.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rust Manto Reference"
+              "title": "Outgoing links from Ren 187"
             }
           },
           {
@@ -160,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/Rust Manto Reference.png",
+                "file": "Characters/Ren 187.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rust Manto Reference"
+              "title": "Outline of Ren 187"
             }
           }
         ]
@@ -189,18 +206,18 @@
   },
   "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Characters/Fern 2.canvas",
+    "conflict-files-obsidian-git.md",
+    "Characters/Rust/Rust.canvas",
     "References/Rust Manto Reference.png",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Rust/Lore.md",
-    "Characters/Rust/Rust.canvas",
     "Characters/Rust",
     "Places/AU 2.canvas",
     "References",
     "changelog.md",
     "to-do.md",
-    "Characters/Fern 2.canvas",
     "Characters/Ren 187.canvas",
-    "conflict-files-obsidian-git.md",
     "Events/Timeline.canvas",
     "Characters",
     "TEST/this should do somehting.md",
