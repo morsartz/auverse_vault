@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60},
+<<<<<<< HEAD
 		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400},
 		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415},
 		{"id":"aa40f4a24b474e57","type":"text","text":"Origem","x":-110,"y":-535,"width":250,"height":60},
@@ -33,6 +34,25 @@
 		{"id":"34c9bf99e9c6219d","type":"text","text":"[[Fern 2.canvas|Fern 2]] *Amigo*, *Parceiro Romântico ou Íntimo*, *Companheiro em combate*, *Membros da mesma facção*","x":-940,"y":880,"width":250,"height":150},
 		{"id":"04ccfa66ca645d7b","type":"text","text":"[[Lohan.canvas|Lohan]] *Membros da mesma facção*, *Companheiros de combate*","x":-940,"y":1060,"width":250,"height":100},
 		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-610,"y":1000,"width":250,"height":50}
+=======
+		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-740,"y":220,"width":400,"height":400},
+		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":510,"y":510,"width":250,"height":60},
+		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-20,"y":510,"width":250,"height":60},
+		{"id":"d937cb0705f3cc77","type":"text","text":"Relações","x":230,"y":420,"width":250,"height":60},
+		{"id":"944d744a1e6cf534","type":"text","text":"Regime do Okahara *Contratado*","x":350,"y":860,"width":320,"height":60},
+		{"id":"8a44af51916743e3","type":"text","text":"Caçadores de Recompensas","x":350,"y":770,"width":280,"height":60},
+		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":350,"y":680,"width":250,"height":60},
+		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400},
+		{"id":"370c11a6e1eb7f13","type":"file","file":"Characters/Rust/Lore.md","x":360,"y":-240,"width":400,"height":400},
+		{"id":"04ccfa66ca645d7b","type":"text","text":"[[Lohan.canvas|Lohan]] *Membros da mesma facção*","x":-110,"y":860,"width":250,"height":100},
+		{"id":"aa40f4a24b474e57","type":"text","text":"Origem","x":-75,"y":-520,"width":250,"height":60},
+		{"id":"0620be740239c2aa","type":"text","text":"[[Realidade.canvas|Realidade]]","x":15,"y":-360,"width":250,"height":50},
+		{"id":"55c61cf2e3daa5a9","type":"text","text":"Durante *Parte 8* - *Fim*","x":800,"y":650,"width":250,"height":60},
+		{"id":"8e3df71a37aa0b6f","type":"text","text":"Durante *Parte 4* - *Fim do Regime Okahara*","x":800,"y":830,"width":250,"height":60},
+		{"id":"2a9f3f70cc08065d","type":"text","text":"Durante *Parte 4* - *Parte 8*","x":800,"y":740,"width":300,"height":60},
+		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415},
+		{"id":"34c9bf99e9c6219d","type":"text","text":"[[Fern 2.canvas|Fern 2]] *Amigo*, *Parceiro Romântico ou Íntimo*, *Companheiro em combate*, *Membros da mesma facção*","x":-110,"y":680,"width":250,"height":150}
+>>>>>>> origin/main
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -45,6 +65,7 @@
 		{"id":"7d01d529e179de53","fromNode":"944d744a1e6cf534","fromSide":"right","toNode":"8e3df71a37aa0b6f","toSide":"left","toEnd":"none"},
 		{"id":"53534f09ac22fbd4","fromNode":"2a9f3f70cc08065d","fromSide":"left","toNode":"8a44af51916743e3","toSide":"right","toEnd":"none"},
 		{"id":"2ba22bb7879253fe","fromNode":"dca7273f450c8482","fromSide":"left","toNode":"aa69cb8faa3b8157","toSide":"right"},
+<<<<<<< HEAD
 		{"id":"8b76ddf048362550","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"04ccfa66ca645d7b","toSide":"top"},
 		{"id":"bd10a1a82aedeba8","fromNode":"aa40f4a24b474e57","fromSide":"bottom","toNode":"aa69cb8faa3b8157","toSide":"top"},
 		{"id":"59bd349ec9558eee","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"370c11a6e1eb7f13","toSide":"left"},
@@ -64,5 +85,8 @@
 		{"id":"bcf6fe68e68b5d1a","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"80b550cc64b32b48","toSide":"top"},
 		{"id":"393afe0541e955b5","fromNode":"aa69cb8faa3b8157","fromSide":"bottom","toNode":"d937cb0705f3cc77","toSide":"top"},
 		{"id":"9ff50c8c369bae7d","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"8c52894eb4118c63","toSide":"top"}
+=======
+		{"id":"ec8af21eb463464e","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"80b550cc64b32b48","toSide":"top"}
+>>>>>>> origin/main
 	]
 }
