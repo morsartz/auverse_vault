@@ -25,32 +25,21 @@
             "id": "582340e11a7e7044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "changelog.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Rust/Rust.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "changelog"
-            }
-          },
-          {
-            "id": "b5f58a4be7f966c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to-do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "to-do"
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to-do.md",
+                "file": "Characters/Rust/Rust.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for to-do"
+              "title": "Backlinks for Rust"
             }
           },
           {
@@ -142,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to-do.md",
+                "file": "Characters/Rust/Rust.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from to-do"
+              "title": "Outgoing links from Rust"
             }
           },
           {
@@ -171,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to-do.md",
+                "file": "Characters/Rust/Rust.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of to-do"
+              "title": "Outline of Rust"
             }
           }
         ]
@@ -198,12 +187,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5f58a4be7f966c2",
+  "active": "582340e11a7e7044",
   "lastOpenFiles": [
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rust",
+    "Places/AU 2.canvas",
+    "References",
     "changelog.md",
+    "to-do.md",
     "Characters/Fern 2.canvas",
     "Characters/Ren 187.canvas",
-    "to-do.md",
     "conflict-files-obsidian-git.md",
     "Events/Timeline.canvas",
     "Characters",
@@ -211,7 +205,6 @@
     "TEST",
     "Main/to-do.canvas",
     "Main",
-    "Places/AU 2.canvas",
     "Characters/Untitled.md",
     "Places",
     "Characters",
