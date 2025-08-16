@@ -1,0 +1,1 @@
+quando a entidade kestre surgiu
