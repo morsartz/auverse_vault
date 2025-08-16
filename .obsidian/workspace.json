@@ -4,27 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5235fb3902a8dd4b",
+        "id": "bd7c7d1e29d7da9b",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa0287575993481",
+            "id": "a35a3116117bca00",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 698.1576542269613,
-                  "y": 1156.955826351866,
-                  "zoom": -0.24033177014320414
+                  "x": -93.22306921703284,
+                  "y": 752.6146810912867,
+                  "zoom": -1.9335345456271085
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Fern 2"
             }
+          },
+          {
+            "id": "716a1f204e6b6c52",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Rust/Rust.canvas",
+                "viewState": {
+                  "x": 131.46713160509,
+                  "y": 883.9454631911232,
+                  "zoom": -0.36833551803728354
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,11 +61,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -97,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST/this should do somehting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for this should do somehting"
+              "title": "Backlinks"
             }
           },
           {
@@ -116,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEST/this should do somehting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from this should do somehting"
+              "title": "Outgoing links"
             }
           },
           {
@@ -145,83 +161,95 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST/this should do somehting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of this should do somehting"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b66a47c1840411d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aa0287575993481",
+  "active": "716a1f204e6b6c52",
   "lastOpenFiles": [
-    "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Rust.canvas",
     "conflict-files-obsidian-git.md",
-    "Characters/Rust/Manto do Mestre.png",
-    "Characters/Rust/Carisma.md",
-    "Characters/Rust/Lore.md",
-    "Manto do Mestre 2.png",
-    "mandamentos.md",
-    "Characters/Forsaken",
-    "Characters/Fern 6",
-    "Characters/Fern 3",
-    "Characters/Lich",
-    "Characters/Fion",
-    "Characters/Ran",
-    "Characters/Stan",
-    "Characters/Tyrone",
-    "Characters/Nova",
-    "Characters/Interrogação (Vazio)",
-    "Characters/Fern 2/Lore.md",
-    "Parts/Parte 2/Auverse Parte 2.md",
-    "Characters/Zenith/Zenith.canvas",
-    "Characters/Lohan/Lohan.canvas",
-    "Parts/Parte 1/Auverse Parte 1.md",
-    "Parts/Parte 1/Auverse Parte 1.canvas",
     "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
-    "Characters/Ren 187/Ren 187.canvas",
-    "Places/Realidade/Realidade.canvas",
-    "Factions/Celestiais/Lore.md",
-    "Races/Arth/Arthe.canvas",
-    "Factions/Celestiais/Celestiais.canvas",
-    "Factions/Regime de Okahara/Lore.md",
-    "Factions/Regime de Okahara/Regime de Okahara.canvas",
-    "Races/Arthe/Culture.md",
-    "Races/Arthe/Lore.md",
-    "to-do.md",
-    "changelog.md",
-    "Events/Concepção do Unknown.md",
-    "Characters/Lohan/Lore.md",
-    "Characters/Ren 187/Lore.md",
+    "Characters/Rust/Rust.canvs",
+    "auverse_vault/to-do.md",
+    "auverse_vault/mandamentos.md",
+    "auverse_vault/changelog.md",
+    "auverse_vault/Races/Arthe/Lore.md",
+    "auverse_vault/Races/Arthe/Culture.md",
+    "auverse_vault/Races/Arthe/Arthe.canvas",
+    "auverse_vault/Races/Arthe",
+    "auverse_vault/Races",
+    "auverse_vault/Places/Realidade/AU 187/AU 187.canvas",
+    "auverse_vault/Places/Realidade/AU 124/AU 124.canvas",
+    "auverse_vault/Places/Realidade/AU 008/AU 008.canvas",
+    "auverse_vault/Places/Realidade/AU 006/AU 006.canvas",
+    "auverse_vault/Places/Realidade/AU 004/AU 004.canvas",
+    "auverse_vault/Places/Realidade/AU 007/AU 007.canvas",
+    "auverse_vault/Places/Realidade/AU 003/AU 003.canvas",
+    "auverse_vault/Places/Realidade/AU 187",
+    "auverse_vault/Places/Realidade/AU 124",
+    "auverse_vault/Places/Realidade/AU 008",
+    "auverse_vault/Places/Realidade/AU 006",
+    "auverse_vault/Places/Realidade/AU 007",
+    "auverse_vault/Places/Realidade/AU 004",
+    "auverse_vault/Places/Realidade/AU 005",
+    "auverse_vault/Parts/Parte 8/Auverse Parte 8.md",
+    "auverse_vault/Parts/Parte 1/Auverse Parte 1.md",
+    "auverse_vault/Factions/Celestiais/Lore.md",
+    "auverse_vault/Factions/Regime de Okahara/Lore.md",
+    "auverse_vault/Factions/Caçadores de Recompensas/Lore.md",
+    "auverse_vault/Events/Regime de Okahara.md",
+    "auverse_vault/Events/Criação do Abismo.md",
+    "auverse_vault/Events/Criação do Coliseu.md",
+    "auverse_vault/Events/Criação do Universo.md",
+    "auverse_vault/Events/Concepção do Unknown.md",
+    "auverse_vault/Characters/Rust/Lore.md",
+    "auverse_vault/Characters/Rust/Rust Apperance Reference 1.png",
+    "auverse_vault/Characters/Fern 2/Fern 2 Apperance Reference 1.png",
+    "auverse_vault/Characters/Fern 2/Lore.md",
+    "auverse_vault/Characters/Lohan/Lore.md",
+    "auverse_vault/Characters/Ren 187/Lore.md",
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
-    "Factions/Caçadores de Recompensas/Lore.md",
-    "Events/Criação do Universo.md",
-    "Events/Regime de Okahara.md",
-    "Events/Criação do Abismo.md",
-    "Events/Criação do Coliseu.md",
-    "Characters/Sem título.md",
-    "Characters/Ren 187.md",
-    "TEST/this should do somehting.md"
+    "Characters/Rust/Carisma.md",
+    "Characters/Rust/Manto do Mestre.png",
+    "Parts/Parte 1/Auverse Parte 1.md",
+    "Parts/Parte 2/Auverse Parte 2.md",
+    "Manto do Mestre 2.png",
+    "References/Rust Manto Reference.png"
   ]
 }
