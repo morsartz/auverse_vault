@@ -29,9 +29,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": -105.70110077183702,
-                  "y": -6.394310281339173,
-                  "zoom": -0.6666666666666667
+                  "x": 307.8358920003237,
+                  "y": 563.039400553344,
+                  "zoom": -0.7768583212897189
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -203,18 +203,27 @@
   },
   "active": "582340e11a7e7044",
   "lastOpenFiles": [
-    "Parts/Parte 8/Auverse Parte 8.md",
+    "Factions/Celestiais/Celestiais.canvas",
     "Characters/Rust/Rust.canvas",
     "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Lore.md",
+    "Characters/Ren 187/Ren 187.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Factions/Celestiais/Lore.md",
+    "Factions/Celestiais",
+    "Factions",
+    "Places/AU 2/AU 2.canvas",
+    "Places/AU 2",
+    "Parts/Parte 8/Auverse Parte 8.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/Ren 187",
+    "Characters/Fern 2",
     "AUVERSE PARTE 8.md",
-    "Places/AU 2.canvas",
     "().md",
     "Parts/Parte 8",
     "Parts",
-    "Characters/Rust/Lore.md",
     "Characters/Ren 187.canvas",
     "Characters/Fern 2.canvas",
-    "conflict-files-obsidian-git.md",
     "References/Rust Manto Reference.png",
     "Characters/Rust",
     "References",
@@ -223,13 +232,8 @@
     "Events/Timeline.canvas",
     "Characters",
     "TEST/this should do somehting.md",
-    "TEST",
     "Main/to-do.canvas",
-    "Main",
     "Characters/Untitled.md",
-    "Places",
-    "Characters",
-    "Events",
     "create a link.md",
     "Welcome.md"
   ]
