@@ -37,9 +37,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Ren 187"
             }
+          },
+          {
+            "id": "f5f090df54d2d413",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Places/Realidade/AU 2/AU 003.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "AU 003"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,6 +206,18 @@
   },
   "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Places/Realidade/AU 2/AU 008.canvas",
+    "Places/Realidade/AU 2/AU 007.canvas",
+    "Places/Realidade/AU 2/AU 005.canvas",
+    "Places/Realidade/AU 2/AU 124.canvas",
+    "Places/Realidade/AU 2/AU 004.canvas",
+    "Places/Realidade/AU 2/AU 006.canvas",
+    "Places/Realidade/AU 2/AU 003.canvas",
+    "Places/Unknown/Unknown.canvas",
+    "Places/Realidade/Realidade.canvas",
+    "Places/Realidade/AU 2/AU 187.canvas",
+    "Places/Realidade/AU 2/AU 002.canvas",
+    "conflict-files-obsidian-git.md",
     "Parts/Parte 7",
     "Parts/Parte 6",
     "Parts/Parte 5",
@@ -198,34 +227,22 @@
     "Parts/Parte 1",
     "Characters/Rust/Rust Apperance Reference 1.png",
     "Characters/Lohan/Lore.md",
-    "Characters/Lohan/Lohan.canvas",
-    "Characters/Rust/Rust.canvas",
     "Characters/Lohan",
     "Characters/Ren 187/Lore.md",
-    "Characters/Ren 187/Ren 187.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Fern 2/Lore.md",
-    "Places/Realidade/AU 2/AU 187.canvas",
-    "Places/Realidade/AU 2/AU 001.canvas",
-    "Places/Unknown/Unknown.canvas",
-    "Places/Realidade/AU 2/AU 002.canvas",
     "Parts/Parte 8/Auverse Parte 8.md",
     "Factions/Regime de Okahara/Lore.md",
-    "Factions/Regime de Okahara/Regime de Okahara.canvas",
     "Factions/Celestiais/Lore.md",
-    "Factions/Celestiais/Celestiais.canvas",
     "Factions/Caçadores de Recompensas/Lore.md",
     "Events/Concepção do Unknown.md",
     "Events/Criação do Universo.md",
     "Events/Regime de Okahara.md",
-    "conflict-files-obsidian-git.md",
     "Events/Criação do Abismo.md",
     "Events/Criação do Coliseu.md",
     "Characters/Rust/Lore.md",
     "mandamentos.md",
     "Places/Unknown",
     "Places/Realidade/AU 2",
-    "Places/Realidade",
     "to-do.md",
     "changelog.md",
     "Characters/Sem título.md",
