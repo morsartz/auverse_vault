@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 207.08670543279962,
-                  "y": 496.7830066633614,
-                  "zoom": -0.2574809911239792
+                  "x": 1037.0453160700683,
+                  "y": 564.1843107387662,
+                  "zoom": -0.8422474041455574
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
+              "title": "Rust"
             }
           },
           {
@@ -32,17 +32,16 @@
               "state": {
                 "file": "Characters/Rad/Rad.canvas",
                 "viewState": {
-                  "x": -204,
-                  "y": 329,
-                  "zoom": 0
+                  "x": 2465.9269130704974,
+                  "y": 1175.3669115765006,
+                  "zoom": -0.8091531824246687
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Rad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,16 +196,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8b124077d152a62",
+  "active": "a35a3116117bca00",
   "lastOpenFiles": [
-    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rad/Rad.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rad/Mídia/Manto 2.jpg",
+    "Characters/Rad/Mídia/Manto.jpg",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Rad/Mídia/Olho Artificial.png",
+    "Characters/Rad/Mídia/Rad Katanas.png",
+    "Characters/Rad/Carisma.md",
+    "Characters/Rad/Lore.md",
+    "Characters/Rad/Mídia/Rad Apperance Reference 2.png",
     "Characters/Rad/Mídia",
     "Characters/Rad/Mídia/Rad Apperance Reference 1.png",
     "Characters/Rabisco/Rabisco.canvas",
     "Events/Fim do Mundo.md",
     "Events/Timeline.canvas",
-    "Characters/Rust/Rust.canvas",
     "States of Being",
     "Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif",
     "Elements/Vidari/Lore & Funcionamento.md",
@@ -231,8 +237,6 @@
     "Elements/Maldição/Lore & Funcionamento.md",
     "Elements/Luz/Lore & Funcionamento.md",
     "Elements/Azatroth/Lore & Funcionamento.md",
-    "Elements/Abismo/Lore & Funcionamento.md",
-    "Elements/Água/Lore & Funcionamento.md",
     "Races/Voidborn/Voidborn.canvas",
     "Races/Vaius/Vaius.canvas",
     "Races/Traken/Traken.canvas",
@@ -248,11 +252,6 @@
     "Factions/Voidworm Children",
     "Factions/Chroma 9/Chroma 9.png",
     "Characters/Rust/Foice da Rust.png",
-    "Characters/Rust/Manto do Mestre.png",
-    "Characters/Rust/Manto do Mestre 2.png",
-    "Characters/Rust/Outfit 2 Rust.png",
-    "Characters/Rust/Outfit Rust 1.png",
-    "Characters/Rust/Rust Apperance Reference 1.png",
-    "Characters/Rust/Rust Reference 2.png"
+    "Characters/Rust/Manto do Mestre.png"
   ]
 }
