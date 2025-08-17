@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "Places/Unknown/Unknown.canvas",
                 "viewState": {
-                  "x": 522.5,
-                  "y": 410,
-                  "zoom": -2.2466649447741283
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "title": "Unknown"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "a35a3116117bca00",
   "lastOpenFiles": [
-    "Characters/Rust/Rust Reference 2.png",
     "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Rust Reference 2.png",
     "Characters/Rust/Manto do Mestre 2.png",
     "Characters/Rust/Outfit 2 Rust.png",
     "auverse_vault",
@@ -208,7 +208,6 @@
     "Places/Vale dos Corvos/Vale dos Corvos.canvas",
     "Places/Vale dos Corvos",
     "Characters/Ren 187/Ren 187.canvas",
-    "Characters/Rust/Foice da Rust.png",
     "Rad.md",
     "Factions/Chroma 9/Chroma 9.canvas",
     "Factions/Chroma 9",
