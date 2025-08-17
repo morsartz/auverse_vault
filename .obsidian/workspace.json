@@ -28,10 +28,14 @@
             "id": "9776973fb7d41669",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Fern 17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fern 17"
             }
           }
         ],
@@ -202,7 +206,13 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
+    "Characters/Guhen Alamankar/Guhen Alamankar.canvas",
+    "Fern 17.md",
+    "to-do.md",
     "mandamentos.md",
+    "Characters/Seven/Sinestre.canvas",
+    "Characters/Seven/Seven.canvas",
+    "Characters/Arthe 9/Arthe 9.canvas",
     "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Ren 187/Ren 187.canvas",
@@ -212,10 +222,6 @@
     "Characters/Rad/Rad.canvas",
     "Characters/Lazarus/Lore.md",
     "changelog.md",
-    "to-do.md",
-    "Races/Ser Antigo/Ser Antigo.canvas",
-    "Races/Tenarch/Tenarch.canvas",
-    "Places/Realidade/AU 470/AU 470.canvas",
     "Races/Tenarch",
     "Races/Untitled",
     "Races/Ser Antigo",
@@ -255,7 +261,6 @@
     "Factions/Voidworm Children/Lore.md",
     "Factions/Seguidores do Fogo Eterno/Lore.md",
     "Races/Voidborn/Lore.md",
-    "Races/Voidborn/Culture.md",
-    "Races/Vaius/Lore.md"
+    "Races/Voidborn/Culture.md"
   ]
 }
