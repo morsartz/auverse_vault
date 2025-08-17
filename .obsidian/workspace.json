@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e72918653b39ad0",
+        "id": "9439bc2cb9834875",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa9dd02709cf94f",
+            "id": "48e3a46c9530d4f4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,14 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fa9dd02709cf94f",
+  "active": "48e3a46c9530d4f4",
   "lastOpenFiles": [
-    "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Fern 2/Fern 2 Original.canvas",
-    "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Characters/Fern 2/External Content.md",
     "Characters/Lilith/Lilith.canvas",
+    "Characters/Fern 2/Carisma.md",
+    "Characters/Fern 2/Carisma Fern 2 Original.md",
+    "Characters/Fern 2/Fern 2 Original.canvas",
+    "Characters/Rust/Rust.canvas",
     "mandamentos.md",
     "to-do.md",
     "Elements/Abismo/Abismo.gif",
@@ -214,14 +215,12 @@
     "Characters/Vaius 17/Vaius 17.canvas",
     "Races/Tenarch/Tenarch.canvas",
     "Races/Tenarch",
-    "Races/Ser Antigo/Ser Antigo.canvas",
     "Races/Ser Antigo",
     "Characters/Rust/Mídia",
     "Characters/Rust/External Content.md",
     "Characters/Lazarus/Lore.md",
     "Characters/Lazarus",
     "Characters/Fern 17",
-    "Characters/Fern 2/Carisma.md",
     "Characters/Vaius 17/Carisma.md",
     "Characters/Vaius 17/Lore.md",
     "Characters/Nova Lum/Carisma.md",
