@@ -16,6 +16,13 @@
 		{"id":"9fa1e1f8d0ecb20c","type":"text","text":"[[Parts/Parte 8/Auverse Parte 8|Auverse Parte 8]] Crew","x":-145,"y":710,"width":250,"height":60},
 		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":240,"y":710,"width":250,"height":60},
 		{"id":"88ab8d314927d06e","type":"file","file":"Characters/Rust/Carisma.md","x":-340,"y":880,"width":400,"height":400},
+<<<<<<< HEAD
+=======
+		{"id":"aacd2f55942b6d5e","type":"text","text":"[[Rad]] *Figura Paterna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1300,"width":250,"height":80}
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/main
 		{"id":"aacd2f55942b6d5e","type":"text","text":"[[Rad.canvas|Rad]] *Figura Paterna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1300,"width":250,"height":80},
 		{"id":"3a9a8a0b14699b31","type":"text","text":"[[Nina.canvas|Nina]] *Figura Materna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1400,"width":250,"height":80},
 		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":115,"y":1040,"width":250,"height":60},
@@ -42,10 +49,20 @@
 		{"id":"0928eee30f74daf3","type":"text","text":"*Humano*, *Pele clara*, *Cabelo preto*, *Magra*, *Estatura média-alta*,\n*Olhos escuros*, *Coberta de Cicatrizes*, *Aparenta não ter a melhor higiene do mundo...*","x":641,"y":262,"width":250,"height":208},
 		{"id":"18e0230b62f2b6e1","type":"file","file":"Characters/Rust/Foice da Rust.png","x":783,"y":-631,"width":283,"height":400},
 		{"id":"12a68e08cdbca510","type":"text","text":"Foice *Arma Principal*","x":641,"y":-85,"width":250,"height":60},
+<<<<<<< HEAD
 		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a [[Places/Vale dos Corvos/Culture|cultura Corviana]] e por extenção [[Races/Arthe/Culture|cultura dos Arthes]]","x":1110,"y":-631,"width":250,"height":100},
 		{"id":"f91ca54a83a6c840","type":"text","text":"Calor dos Sete Sufocamentos","x":1115,"y":1015,"width":285,"height":60},
 		{"id":"5c961fd2defa3584","type":"text","text":"Cinzas","x":1440,"y":1015,"width":250,"height":60},
 		{"id":"d5991f50c3b313bf","type":"file","file":"Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif","x":1115,"y":1105,"width":285,"height":160}
+=======
+<<<<<<< HEAD
+		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a [[Places/Vale dos Corvos/Culture|cultura Corviana]] e por extenção [[Races/Arthe/Culture|cultura dos Arthes]]","x":1110,"y":-631,"width":250,"height":100}
+=======
+		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a cultura Corviana e por extenção cultura dos Arthes","x":1110,"y":-660,"width":250,"height":100}
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
