@@ -15,34 +15,16 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 262.0163747143945,
-                  "y": 253.31302361005322,
+                  "x": 109.20601675552166,
+                  "y": 332.90175171363285,
                   "zoom": -0.6706360260753581
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Rust"
             }
-          },
-          {
-            "id": "3b97b65c31460e13",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Mujika/Mujika.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mujika"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,26 +172,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b97b65c31460e13",
+  "active": "f71e0c768aeb2181",
   "lastOpenFiles": [
-    "Characters/Rust/Rust.canvas",
-    "conflict-files-obsidian-git.md",
+    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Mujika/Mujika.canvas",
-    "Characters/Rust/Rust Reference 2.png",
-    "Characters/Rust/Outfit Rust 1.png",
-    "Characters/Rust/Outfit 2 Rust.png",
+    "Characters/Fern 2/Fern 2 Apperance Reference 2.png",
+    "Characters/Sem título",
+    "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
+    "Characters/Rust/Carisma.md",
+    "Characters/Rust/Foice da Rust.png",
+    "Characters/Rust/Lore.md",
     "Characters/Rust/Manto do Mestre.png",
     "Characters/Rust/Manto do Mestre 2.png",
-    "Characters/Rust/Foice da Rust.png",
+    "Characters/Rust/Outfit 2 Rust.png",
+    "Characters/Rust/Outfit Rust 1.png",
+    "Characters/Rust/Rust Apperance Reference 1.png",
+    "Characters/Rust/Rust Reference 2.png",
+    "Characters/Rust/Rust.canvas",
+    "conflict-files-obsidian-git.md",
     "Characters/Mujika/Mujika Apperance Reference 1.png",
-    "Characters/Haven/Haven Apperance Reference 1.png",
-    "Characters/Lilith/Lilith Apperance Reference 1.png",
-    "Characters/Lohan/Lohan Apperance Reference 1.png",
     "Characters/Haven/Haven.canvas",
     "Characters/Fem/Fem.canvas",
     "Characters/Fern 2/Fern 2 Original.canvas",
     "Characters/Enyo/Enyo.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
     "Races/Humano/Humano.canvas",
     "Races/Humano/Lore.md",
     "Races/Humano/Humano Puro.canvas",
@@ -220,17 +205,14 @@
     "Characters/Fern 17",
     "Characters/Fern 2/Carisma.md",
     "Rad.md",
-    "Characters/Rust/Carisma.md",
     "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Characters/Fern 2/Sem título",
-    "Characters/Rust/Lore.md",
     "Characters/Krokso.md",
     "Characters/Krokso",
     "auverse_vault",
     "Characters/Zenith",
     "Characters/Dankiel/Sem título",
     "Characters/Vanth",
-    "Characters/Vaius 187",
     "mandamentos.md",
     "Characters/Fern 2/Lore.md",
     "Parts/Parte 2/Auverse Parte 2.md",
