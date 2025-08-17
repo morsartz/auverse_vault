@@ -3,6 +3,8 @@
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60},
 		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-740,"y":220,"width":400,"height":400},
 		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400},
+		{"id":"370c11a6e1eb7f13","type":"file","file":"Characters/Rust/Lore.md","x":360,"y":-240,"width":400,"height":400},
+		{"id":"aa40f4a24b474e57","type":"text","text":"Origem","x":-75,"y":-520,"width":250,"height":60},
 		{"id":"0620be740239c2aa","type":"text","text":"[[Realidade.canvas|Realidade]]","x":15,"y":-360,"width":250,"height":50},
 		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415},
 		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-520,"y":710,"width":250,"height":60},
@@ -12,10 +14,16 @@
 		{"id":"55c61cf2e3daa5a9","type":"text","text":"Durante *Parte 8* - *Fim*","x":530,"y":865,"width":250,"height":60},
 		{"id":"2a9f3f70cc08065d","type":"text","text":"Durante *Parte 4* - *Parte 8*","x":530,"y":955,"width":300,"height":60},
 		{"id":"8e3df71a37aa0b6f","type":"text","text":"Durante *Parte 4* - *Fim do Regime Okahara*","x":530,"y":1045,"width":250,"height":60},
+		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":80,"y":895,"width":250,"height":60},
+		{"id":"8a44af51916743e3","type":"text","text":"Caçadores de Recompensas","x":80,"y":985,"width":280,"height":60},
+		{"id":"944d744a1e6cf534","type":"text","text":"Regime do Okahara *Contratado*","x":80,"y":1075,"width":320,"height":60},
 		{"id":"d937cb0705f3cc77","type":"text","text":"Relações","x":-145,"y":390,"width":250,"height":60},
 		{"id":"9fa1e1f8d0ecb20c","type":"text","text":"[[Parts/Parte 8/Auverse Parte 8|Auverse Parte 8]] Crew","x":-145,"y":710,"width":250,"height":60},
 		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":240,"y":710,"width":250,"height":60},
 		{"id":"88ab8d314927d06e","type":"file","file":"Characters/Rust/Carisma.md","x":-340,"y":880,"width":400,"height":400},
+<<<<<<< HEAD
+		{"id":"aacd2f55942b6d5e","type":"text","text":"[[Rad]] *Figura Paterna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1300,"width":250,"height":80}
+=======
 		{"id":"aacd2f55942b6d5e","type":"text","text":"[[Rad.canvas|Rad]] *Figura Paterna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1300,"width":250,"height":80},
 		{"id":"3a9a8a0b14699b31","type":"text","text":"[[Nina.canvas|Nina]] *Figura Materna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1400,"width":250,"height":80},
 		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":115,"y":1040,"width":250,"height":60},
@@ -42,14 +50,19 @@
 		{"id":"0928eee30f74daf3","type":"text","text":"*Humano*, *Pele clara*, *Cabelo preto*, *Magra*, *Estatura média-alta*,\n*Olhos escuros*, *Coberta de Cicatrizes*, *Aparenta não ter a melhor higiene do mundo...*","x":641,"y":262,"width":250,"height":208},
 		{"id":"18e0230b62f2b6e1","type":"file","file":"Characters/Rust/Foice da Rust.png","x":783,"y":-631,"width":283,"height":400},
 		{"id":"12a68e08cdbca510","type":"text","text":"Foice *Arma Principal*","x":641,"y":-85,"width":250,"height":60},
+<<<<<<< HEAD
 		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a [[Places/Vale dos Corvos/Culture|cultura Corviana]] e por extenção [[Races/Arthe/Culture|cultura dos Arthes]]","x":1110,"y":-631,"width":250,"height":100}
+=======
+		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a cultura Corviana e por extenção cultura dos Arthes","x":1110,"y":-660,"width":250,"height":100}
+>>>>>>> origin/main
+>>>>>>> origin/main
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
 		{"id":"073f4718c10c4549","fromNode":"d937cb0705f3cc77","fromSide":"right","toNode":"05ddd3e078a42072","toSide":"left"},
 		{"id":"9fb3fb4657ab034e","fromNode":"05ddd3e078a42072","fromSide":"bottom","toNode":"822fd3683c0a3a96","toSide":"top"},
 		{"id":"f08f2f0a956238a2","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"34c9bf99e9c6219d","toSide":"top"},
-		{"id":"d9530e0e5c552213","fromNode":"aa69cb8faa3b8157","fromSide":"top","toNode":"370c11a6e1eb7f13","toSide":"left","toEnd":"none"},
+		{"id":"d9530e0e5c552213","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"370c11a6e1eb7f13","toSide":"left"},
 		{"id":"022560e575c6bbf6","fromNode":"aa69cb8faa3b8157","fromSide":"left","toNode":"c41d5d168d2fe0b4","toSide":"right"},
 		{"id":"794fd1634c4c5603","fromNode":"aa40f4a24b474e57","fromSide":"bottom","toNode":"0620be740239c2aa","toSide":"top"},
 		{"id":"972b1d0ed4129cb3","fromNode":"55c61cf2e3daa5a9","fromSide":"left","toNode":"822fd3683c0a3a96","toSide":"right","toEnd":"none"},
@@ -61,6 +74,7 @@
 		{"id":"e62fd667e8b65641","fromNode":"aa69cb8faa3b8157","fromSide":"bottom","toNode":"d937cb0705f3cc77","toSide":"top"},
 		{"id":"ee21136a06d147ff","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"88ab8d314927d06e","toSide":"top"},
 		{"id":"87af6edf036fff71","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"04ccfa66ca645d7b","toSide":"top"},
+<<<<<<< HEAD
 		{"id":"e1e56bf2d8e48072","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"4c97f8bd3858f276","toSide":"top"},
 		{"id":"8a647555154b6412","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"aacd2f55942b6d5e","toSide":"top"},
 		{"id":"71f0a30388ae4666","fromNode":"aa40f4a24b474e57","fromSide":"bottom","toNode":"aa69cb8faa3b8157","toSide":"top"},
@@ -84,5 +98,8 @@
 		{"id":"a0b57cef3d3a2f24","fromNode":"d97f14431f2ca321","fromSide":"top","toNode":"12a68e08cdbca510","toSide":"bottom"},
 		{"id":"73a3df60af68ddf8","fromNode":"12a68e08cdbca510","fromSide":"top","toNode":"18e0230b62f2b6e1","toSide":"bottom","toEnd":"none"},
 		{"id":"41501d4f2d3296f1","fromNode":"18e0230b62f2b6e1","fromSide":"right","toNode":"a661351083dcbde7","toSide":"left","toEnd":"none"}
+=======
+		{"id":"e1e56bf2d8e48072","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"4c97f8bd3858f276","toSide":"top"}
+>>>>>>> origin/main
 	]
 }
