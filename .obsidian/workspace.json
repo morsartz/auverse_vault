@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "Characters/Lilith/Lilith.canvas",
                 "viewState": {
-                  "x": 1158.3069979956113,
-                  "y": 1442.4427508950807,
-                  "zoom": -1.3333333333333333
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "title": "Lilith"
             }
           }
         ],
@@ -209,8 +209,10 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
-    "Marks/Marca Artificial.png",
+    "Characters/Lilith/Lilith Apperance Reference 1.png",
+    "Characters/Lilith/Lilith.canvas",
     "Characters/Rust/Rust.canvas",
+    "Marks/Marca Artificial.png",
     "Characters/Fern 2/Fern 2.canvas",
     "Marks/Marks.canvas",
     "Marks/Marca da Estrela.png",
@@ -237,7 +239,6 @@
     "Characters/Guhen Alamankar/Guhen Alamankar.canvas",
     "to-do.md",
     "Characters/Seven/Sinestre.canvas",
-    "Characters/Seven/Seven.canvas",
     "Characters/Lazarus/Lore.md",
     "changelog.md",
     "Races/Tenarch",
