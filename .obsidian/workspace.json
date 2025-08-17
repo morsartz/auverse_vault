@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 780.2151184483791,
-                  "y": 885.2881004409419,
-                  "zoom": -0.9241476577906458
+                  "x": 692.710574832591,
+                  "y": 552.9922496744259,
+                  "zoom": -1.3422474041455574
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
+              "title": "Rust"
             }
           },
           {
@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rad/Rad.canvas",
+                "file": "Characters/Nova Lum/Nova Lum.canvas",
                 "viewState": {
-                  "x": -27.367121629342876,
-                  "y": 531.6130837071752,
-                  "zoom": -0.7302902034290493
+                  "x": 472.87211931097863,
+                  "y": 1001.0393082729631,
+                  "zoom": -1.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rad"
+              "title": "Nova Lum"
             }
           }
         ],
@@ -199,24 +199,29 @@
   },
   "active": "d8b124077d152a62",
   "lastOpenFiles": [
+    "Characters/Rust/Rust.canvas",
+    "Characters/Nova Lum/Nova Lum.canvas",
+    "Characters/Nova Lum/Carisma.md",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rad/Rad.canvas",
+    "Elements/Sanguite/Sanguite 3.gif",
+    "Elements/Sanguite/Sanguite 2.gif",
+    "sangui.md",
+    "Elements/Sanguite/Sanguite.gif",
+    "Characters/Nova Lum/Mídia/Vestido.jpg",
+    "Characters/Nova Lum/Mídia/Manto.png",
+    "Characters/Nova Lum/Lore.md",
+    "Characters/Nova Lum/Mídia",
+    "Characters/Nova Lum/Mídia/Nova Lum.png",
     "Characters/Fern 2/Carisma.md",
     "Characters/Rad/Carisma.md",
     "naruto-jace.gif",
     "Characters/Rust/Carisma.md",
-    "Characters/Rust/Rust.canvas",
     "Characters/Rad/Mídia/Roupa por Baixo.jpg",
     "Characters/Rad/Mídia/Cura Lenta.jpg",
     "Characters/Rad/Mídia/Manto 2.png",
-    "Characters/Rad/Mídia/Manto 2.jpg",
-    "Characters/Rad/Mídia/Manto.jpg",
-    "Characters/Rad/Mídia/Olho Artificial.png",
-    "Characters/Rad/Mídia/Rad Katanas.png",
     "Characters/Rad/Lore.md",
-    "Characters/Rad/Mídia/Rad Apperance Reference 2.png",
     "Characters/Rad/Mídia",
-    "Characters/Rad/Mídia/Rad Apperance Reference 1.png",
     "Characters/Rabisco/Rabisco.canvas",
     "Events/Fim do Mundo.md",
     "Events/Timeline.canvas",
@@ -238,21 +243,16 @@
     "Elements/Ritual de Sangue/Lore & Funcionamento.md",
     "Elements/Raio/Lore & Funcionamento.md",
     "Elements/Poeira Estelar/Lore & Funcionamento.md",
-    "Elements/Necromância/Lore & Funcionamento.md",
-    "Elements/Natureza/Lore & Funcionamento.md",
-    "Elements/Maldição/Lore & Funcionamento.md",
     "Races/Voidborn/Voidborn.canvas",
     "Races/Vaius/Vaius.canvas",
     "Races/Traken/Traken.canvas",
     "Races/Ser Abissal/Ser Abissal.canvas",
-    "Races/Senkor/Sekor.canvas",
     "Events/F",
     "Factions/Clã da Sanguite/Clã da",
     "Factions/AU Primeira Avançada/Sem título",
     "Factions/Amygdala",
     "Factions/Estres",
     "Factions/AU Segunda Avançada",
-    "Factions/AU Primeira Avançada",
-    "Factions/Voidworm Children"
+    "Factions/AU Primeira Avançada"
   ]
 }
