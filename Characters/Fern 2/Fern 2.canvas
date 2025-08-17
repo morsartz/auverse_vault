@@ -74,6 +74,7 @@
 		{"id":"25187054bf30281b","type":"text","text":"Cura Absoluta","x":1100,"y":1675,"width":250,"height":60,"color":"5"},
 		{"id":"8fac7d512ab00d7c","type":"text","text":"[[Fern 2 Original.canvas|Fern 2]] + [[Fern 17.canvas|Fern 17]]","x":-245,"y":-185,"width":250,"height":60,"color":"1"},
 		{"id":"0c8cb98bad0ac1e9","type":"text","text":"A única ainda não destruída após o Mundo dos Sonhos ser consumido pelo Abismo","x":1520,"y":-185,"width":250,"height":131},
+<<<<<<< HEAD
 		{"id":"6951459c14e26366","type":"file","file":"Characters/Fern 2/Lore.md","x":415,"y":-185,"width":445,"height":645,"color":"6"},
 		{"id":"1426e6ac144cfa96","type":"text","text":"[[Kestre.canvas|Kestre]]","x":-165,"y":-400,"width":250,"height":60,"color":"5"},
 		{"id":"ca113053b9390273","type":"text","text":"[[Vaius 6.canvas|Vaius 6]]","x":-640,"y":-245,"width":250,"height":60,"color":"3"},
@@ -103,6 +104,14 @@
 		{"id":"743921ecc0b72cd1","type":"text","text":"[[Ren 187.canvas|Ren 187]] *Mestre, Comandante, Amigo, Líder, Companheiro de combate, Membros da mesma facção*","x":-370,"y":1700,"width":250,"height":150},
 		{"id":"4fcbb8977abacc9d","type":"text","text":"[[Indetermined Fern.canvas|Indetermined Fern]]\n\n*De Início:* \n\n*Mestre, Comandante, Amigo, Líder, Companheiro de combate*\n\n*Final:* \n\n*Inimigos, Rivais, Adversários*","x":-370,"y":1880,"width":250,"height":320},
 		{"id":"0595178fc43694ea","type":"text","text":"Locais","x":-670,"y":1605,"width":250,"height":60,"color":"6"}
+=======
+		{"id":"6951459c14e26366","type":"file","file":"Characters/Fern 2/Lore.md","x":415,"y":-185,"width":445,"height":645},
+		{"id":"0f331301c45f3391","type":"text","text":"[[ATR 001.canvas|ATR 001]] *Amigo,* *Companheiro em combate*, *Membros da mesma facção*","x":-355,"y":4360,"width":250,"height":120},
+		{"id":"8696fe067c31e1e9","type":"text","text":"[[Vaius 17.canvas|Vaius 17]] *Amigo,* *Companheiro em combate*, *Membros da mesma facção*","x":-355,"y":4500,"width":250,"height":120},
+		{"id":"1426e6ac144cfa96","type":"text","text":"[[Kestre.canvas|Kestre]]","x":-165,"y":-400,"width":250,"height":60},
+		{"id":"ca113053b9390273","type":"text","text":"[[Vaius 6.canvas|Vaius 6]]","x":-640,"y":-245,"width":250,"height":60},
+		{"id":"9de7c3383501627d","type":"text","text":"Auverse Parte 1 Crew","x":360,"y":1105,"width":250,"height":60}
+>>>>>>> origin/main
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},

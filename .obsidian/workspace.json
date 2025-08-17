@@ -15,8 +15,8 @@
               "state": {
                 "file": "Characters/Lilith/Lilith.canvas",
                 "viewState": {
-                  "x": 849,
-                  "y": 954,
+                  "x": 1057,
+                  "y": 1189,
                   "zoom": 0
                 }
               },
@@ -32,8 +32,8 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 409.0142773851102,
-                  "y": 335.42046056088657,
+                  "x": 1149.0142773851103,
+                  "y": 535.4204605608866,
                   "zoom": 1.1102230246251565e-16
                 }
               },
@@ -41,7 +41,8 @@
               "title": "Rust"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,15 +197,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "d8b124077d152a62",
   "lastOpenFiles": [
-    "Characters/Lilith/Mídia",
-    "Characters/Lilith/Lilith Apperance Refere.webp",
-    "Characters/Rust/Rust.canvas",
     "Characters/Lilith/Lilith.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Lilith/Mídia/Korviblade.png",
+    "conflict-files-obsidian-git.md",
+    "Marca da Estrela.md",
+    "Absorção.md",
+    "Marks/Marks.canvas",
+    "Marks/Marca da Estrela.png",
+    "Marks",
+    "Lineages/Lineages.canvas",
+    "Lineages",
+    "Characters/Rust/Habilidades.md",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Flesh Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 2.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 2.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Kakyrius Malestre Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia",
+    "Characters/Kakyrius Marrazi'er/Malestre.canvas",
+    "Characters/Kakyrius Marrazi'er/Lore.md",
+    "Characters/Kakyrius Marrazi'er/Kakyrius Marrazi'er.canvas",
+    "Characters/Kakyrius Marrazi'er",
+    "Characters/Lilith/Mídia",
+    "Characters/Lilith/Mídia/Lilith Apperance Reference 2.webp",
     "Characters/Lilith/Carisma.md",
     "Characters/Lilith/Lore.md",
-    "Characters/Lilith/Lilith Apperance Reference 1.png",
+    "Characters/Lilith/Mídia/Lilith Apperance Reference 1.png",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Fern 2/External Content.md",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
@@ -215,44 +237,22 @@
     "Races/Tenarch",
     "Races/Ser Antigo/Ser Antigo.canvas",
     "Races/Ser Antigo",
-    "Places/Realidade/AU 470/AU 470.canvas",
-    "Characters/Seven/Sinestre.canvas",
-    "Characters/Rust/Mídia/Suposta Filha da Rust.png",
-    "Characters/Rust/Mídia/Rust Sangreste Vessel 1.png",
-    "Characters/Rust/Mídia/Rust Reference 2.png",
-    "Characters/Rust/Mídia/Rust Outfit 4.png",
-    "Characters/Rust/Mídia/Rust Outfit 3.png",
-    "Characters/Rust/Mídia/Rust na Esquerda Ilustração.png",
-    "Characters/Rust/Mídia/Rust Ilustração kfc_002.png",
-    "Characters/Rust/Mídia/Rust Casual.png",
     "Characters/Rust/Mídia",
     "Characters/Rust/External Content.md",
-    "Characters/Ren 1/Sangrestre.canvas",
-    "Characters/Lazarus/Plaestre.canvas",
     "Characters/Lazarus/Lore.md",
     "Characters/Lazarus",
     "Characters/Fern 17",
     "Characters/Fern 2/Carisma.md",
     "Characters/Vaius 17/Carisma.md",
     "Characters/Vaius 17/Lore.md",
-    "Characters/Vaius 17/Sem título",
-    "Characters/Vaius 17/Mídia",
     "Characters/Nova Lum/Carisma.md",
     "sangui.md",
     "Characters/Nova Lum/Lore.md",
-    "Characters/Nova Lum/Mídia",
     "Characters/Rad/Carisma.md",
     "Characters/Rust/Carisma.md",
     "Characters/Rad/Lore.md",
-    "Characters/Rad/Mídia",
     "Events/Fim do Mundo.md",
-    "States of Being",
     "Elements/Vidari/Lore & Funcionamento.md",
-    "Elements/Verdadeira Chama/Lore & Funcionamento.md",
-    "Elements/Vento/Lore & Funcionamento.md",
-    "Elements/Veneno/Lore & Funcionamento.md",
-    "Elements/Vazio/Lore & Funcionamento.md",
-    "Elements/Vacuum Inani/Lore & Funcionamento.md",
-    "Elements/Terra/Lore & Funcionamento.md"
+    "Elements/Verdadeira Chama/Lore & Funcionamento.md"
   ]
 }
