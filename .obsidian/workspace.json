@@ -8,41 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c4d895559a33510",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Marks/Marks.canvas",
-                "viewState": {
-                  "x": 170,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Marks"
-            }
-          },
-          {
             "id": "c37c7f67b78e8e81",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": -609,
-                  "y": 635.5,
-                  "zoom": -2.2699538197735847
+                  "x": 1521.0533130236104,
+                  "y": 2135.047220106626,
+                  "zoom": -2.138327371706589
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "title": "Fern 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,6 +181,7 @@
   },
   "active": "c37c7f67b78e8e81",
   "lastOpenFiles": [
+    "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Fern 2/Fern 2 Original.canvas",
     "conflict-files-obsidian-git.md",
@@ -206,7 +189,6 @@
     "Marks/Marca da Estrela.png",
     "Lineages/Lineages.canvas",
     "mandamentos.md",
-    "Characters/Rust/Rust.canvas",
     "Characters/Lilith/Lilith.canvas",
     "Characters/Fern 2/External Content.md",
     "Characters/Fern 2/Carisma.md",
