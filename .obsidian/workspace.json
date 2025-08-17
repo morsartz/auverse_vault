@@ -15,9 +15,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 448.45900410494096,
-                  "y": 37.7766367625365,
-                  "zoom": -1.6706360260753579
+                  "x": 524.0128845118231,
+                  "y": 542.8795374753113,
+                  "zoom": -1.0039693594086914
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,18 +30,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Fem/Fem.canvas",
                 "viewState": {
-                  "x": 858.6900228484385,
-                  "y": 1412.098248286367,
-                  "zoom": -1.8984419435981703
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
+              "title": "Fem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,14 +190,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f71e0c768aeb2181",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
+    "Characters/Fem/Fem Apperance Reference 1.png",
+    "Characters/Enyo/Enyo.canvas",
+    "Characters/Fem/Fem.canvas",
+    "Characters/Rust/Rust.canvas",
+    "conflict-files-obsidian-git.md",
+    "Characters/Enyo/Enyo Apperance Reference 1.png",
     "Characters/Fern 2/Fern 2.canvas",
+    "Races/Humano/Humano.canvas",
+    "Races/Humano/Lore.md",
+    "Races/Humano/Humano Puro.canvas",
+    "Races/Humano/Culture.md",
+    "Races/Humano",
+    "Pasted image 20250816204759.png",
+    "Outfit Rust 1.png",
+    "Outfit 2 Rust.png",
+    "Manto do Mestre.png",
+    "Manto do Mestre 2.png",
+    "Foice da Rust.png",
     "Characters/Dankiel/Dankiel Apperance Reference 2.png",
     "Characters/Dankiel/Dankiel Apperance Reference 1.png",
     "Factions/Chroma 9/Chroma 9.canvas",
     "Factions/Chroma 9",
-    "Characters/Rust/Rust.canvas",
     "Characters/Fern 17",
     "Characters/Fern 2/Carisma.md",
     "Characters/Nina/Nina.canvas",
@@ -209,25 +226,16 @@
     "Characters/Krokso/Krokso.canvas",
     "Characters/Krokso.md",
     "Characters/Krokso",
-    "Characters/Vaius 2/Vaius 2.canvas",
-    "Characters/Traken 17/Traken 17.canvas",
-    "Characters/Robô/Robô.canvas",
-    "Characters/Ren 17/Ren 17.canvas",
-    "conflict-files-obsidian-git.md",
     "auverse_vault",
     "Characters/Zenith",
     "Characters/Dankiel/Sem título",
     "Characters/Vanth",
     "Characters/Vaius 187",
-    "Characters/Vaius 17",
     "Characters/Rust/Rust Apperance Reference 1.png",
-    "Characters/Rust/Manto do Mestre.png",
-    "Manto do Mestre 2.png",
     "mandamentos.md",
     "Characters/Fern 2/Lore.md",
     "Parts/Parte 2/Auverse Parte 2.md",
     "Parts/Parte 1/Auverse Parte 1.md",
-    "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
     "Factions/Celestiais/Lore.md",
     "Factions/Regime de Okahara/Lore.md",
     "Races/Arthe/Culture.md",
@@ -239,8 +247,6 @@
     "Characters/Ren 187/Lore.md",
     "Parts/Parte 8/Auverse Parte 8.md",
     "Factions/Caçadores de Recompensas/Lore.md",
-    "Events/Criação do Universo.md",
-    "Events/Regime de Okahara.md",
-    "Events/Criação do Abismo.md"
+    "Events/Criação do Universo.md"
   ]
 }
