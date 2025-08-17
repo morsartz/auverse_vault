@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 493.1315678433175,
-                  "y": 3078.914200147448,
-                  "zoom": -3.597330324035421
+                  "x": 718.6336522394744,
+                  "y": 1143.680219459072,
+                  "zoom": -2.2466649447741283
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
+              "title": "Rust"
             }
           }
         ]
@@ -181,6 +181,10 @@
   },
   "active": "a35a3116117bca00",
   "lastOpenFiles": [
+    "Characters/Lohan/Lohan.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
+    "Characters/Fern 2/Fern 2 Original.canvas",
     "Characters/Rust/Rust.canvas",
     "Places/Unknown/Unknown.canvas",
     "Characters/Rust/Rust Reference 2.png",
@@ -203,8 +207,6 @@
     "Characters/Haven/Haven Apperance Reference 1.png",
     "Characters/Haven/Haven.canvas",
     "Characters/Haven",
-    "Characters/Fern 2/Fern 2 Apperance Reference 2.png",
-    "Characters/Fern 2/Fern 2.canvas",
     "Places/Vale dos Corvos/Culture.md",
     "Places/Vale dos Corvos/Vale dos Corvos.canvas",
     "Places/Vale dos Corvos",
@@ -214,10 +216,8 @@
     "Factions/Chroma 9",
     "Characters/Fem/Fem.canvas",
     "Characters/Fem",
-    "Characters/Enyo/Enyo.canvas",
     "Characters/Enyo",
     "mandamentos.md",
-    "Characters/Vaius 2/Vaius 2.canvas",
     "Characters/Fern 2/Carisma.md",
     "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Races/Humano/Culture.md",
