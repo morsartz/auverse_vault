@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Marks/Marks.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 183.5,
-                  "y": 0,
-                  "zoom": -1
+                  "x": 1158.3069979956113,
+                  "y": 1442.4427508950807,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Marks"
+              "title": "Rust"
             }
           }
         ],
@@ -209,17 +209,18 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
+    "Marks/Marca Artificial.png",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Marks/Marks.canvas",
     "Marks/Marca da Estrela.png",
     "Marca da Estrela.md",
     "Lineages/Lineages.canvas",
-    "Marks/Marks.canvas",
     "Marks",
     "Absorção.md",
-    "Characters/Rust/Rust.canvas",
     "Lineages",
     "Styles",
     "Characters/Rust/Habilidades.md",
-    "Characters/Fern 2/Fern 2.canvas",
     "mandamentos.md",
     "Characters/Dankiel/Dankiel.canvas",
     "Characters/Kakyrius Marrazi'er/Kakyrius Marrazi'er.canvas",
@@ -248,8 +249,6 @@
     "Characters/Seven 1",
     "Characters/Rust/Mídia/Rust Outfit 4.png",
     "Aestre.md",
-    "Characters/Rust/Mídia/arththereaper rust & f2 desenho 3.png",
-    "Characters/Rust/Mídia/arththereaper rust & f2 desenho 2.png",
     "Characters/Rust/External Content.md",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
     "conflict-files-obsidian-git.md",

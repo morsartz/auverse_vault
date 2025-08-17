@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"fd3043b2aac30b14","x":1233,"y":1180,"width":400,"height":400,"type":"file","file":"Characters/Rust/Habilidades.md"},
+		{"id":"fd3043b2aac30b14","type":"file","file":"Characters/Rust/Habilidades.md","x":1240,"y":1180,"width":393,"height":400},
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60,"color":"3"},
 		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Mídia/Rust Apperance Reference 1.png","x":-200,"y":-205,"width":375,"height":469,"color":"6"},
 		{"id":"0620be740239c2aa","type":"text","text":"[[Realidade.canvas|Realidade]]","x":15,"y":-360,"width":250,"height":50,"color":"6"},
@@ -90,8 +90,13 @@
 		{"id":"5c961fd2defa3584","type":"text","text":"Cinzas","x":2131,"y":1210,"width":250,"height":60,"color":"5"},
 		{"id":"f91ca54a83a6c840","type":"text","text":"Calor dos Sete Sufocamentos","x":1806,"y":1210,"width":285,"height":60,"color":"5"},
 		{"id":"d5991f50c3b313bf","type":"file","file":"Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif","x":1806,"y":1305,"width":284,"height":160},
-		{"id":"7f4e27377552901f","x":1720,"y":1020,"width":250,"height":60,"color":"5","type":"text","text":"Elementos"},
-		{"id":"5c27774fb29177ed","x":1240,"y":1020,"width":250,"height":60,"color":"5","type":"text","text":"Tecnicas"}
+		{"id":"7f4e27377552901f","type":"text","text":"Elementos","x":1720,"y":1020,"width":250,"height":60,"color":"5"},
+		{"id":"5c27774fb29177ed","type":"text","text":"Tecnicas","x":1240,"y":1020,"width":250,"height":60,"color":"5"},
+		{"id":"94a5c782815fea2b","type":"text","text":"Marcas Artificiais","x":897,"y":1520,"width":250,"height":60},
+		{"id":"3661a2610d7aba1f","type":"file","file":"Marks/Marca Artificial.png","x":457,"y":1350,"width":400,"height":400},
+		{"id":"2f79fa9777a51408","type":"text","text":"Nome da marca 1\n","x":920,"y":1600,"width":250,"height":60},
+		{"id":"9505805cc4d9a33e","type":"text","text":"Etc","x":920,"y":1770,"width":250,"height":60},
+		{"id":"bf7e863ed51d8568","type":"text","text":"Nome da marca 2\n","x":920,"y":1690,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -181,6 +186,13 @@
 		{"id":"7732de98c92583ff","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"29f08e9743474acb","toSide":"top"},
 		{"id":"5d127fe7169e60e5","fromNode":"7f4e27377552901f","fromSide":"bottom","toNode":"f91ca54a83a6c840","toSide":"top"},
 		{"id":"23fdb04c87d0c87e","fromNode":"7f4e27377552901f","fromSide":"bottom","toNode":"5c961fd2defa3584","toSide":"top"},
-		{"id":"bfdae211a9a181b8","fromNode":"4237123602170853","fromSide":"right","toNode":"5c27774fb29177ed","toSide":"left"}
+		{"id":"bfdae211a9a181b8","fromNode":"4237123602170853","fromSide":"right","toNode":"5c27774fb29177ed","toSide":"left"},
+		{"id":"c1471cdd5891df88","fromNode":"4237123602170853","fromSide":"right","toNode":"fd3043b2aac30b14","toSide":"left","toEnd":"none"},
+		{"id":"595c23dcb1458844","fromNode":"dbe35f86955c88c9","fromSide":"right","toNode":"94a5c782815fea2b","toSide":"left","toEnd":"none"},
+		{"id":"1489d6d3026eaccb","fromNode":"3661a2610d7aba1f","fromSide":"right","toNode":"94a5c782815fea2b","toSide":"left"},
+		{"id":"3b7b0f5477d3d2bb","fromNode":"94a5c782815fea2b","fromSide":"bottom","toNode":"2f79fa9777a51408","toSide":"left"},
+		{"id":"30d39e33bf5e35c6","fromNode":"94a5c782815fea2b","fromSide":"bottom","toNode":"bf7e863ed51d8568","toSide":"left"},
+		{"id":"f84c9b709e4d0b41","fromNode":"94a5c782815fea2b","fromSide":"bottom","toNode":"9505805cc4d9a33e","toSide":"left"},
+		{"id":"49f2b26445c41f61","fromNode":"94a5c782815fea2b","fromSide":"right","toNode":"fd3043b2aac30b14","toSide":"left"}
 	]
 }
