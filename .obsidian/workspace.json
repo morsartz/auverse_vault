@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Arthe 1/Aestre.canvas",
+                "file": "Places/Realidade/AU 470/AU 470.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -21,22 +21,28 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Aestre"
+              "title": "AU 470"
             }
           },
           {
             "id": "9776973fb7d41669",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Mídia/Foice da Rust.png"
+                "file": "Characters/Rust/Rust.canvas",
+                "viewState": {
+                  "x": -327.5510075987969,
+                  "y": 1509.177200730119,
+                  "zoom": -0.5314858023342734
+                }
               },
-              "icon": "lucide-image",
-              "title": "Foice da Rust"
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +197,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cea2f8f4e38194",
+  "active": "9776973fb7d41669",
   "lastOpenFiles": [
+    "Characters/Lazarus/Lore.md",
+    "changelog.md",
+    "to-do.md",
+    "Races/Ser Antigo/Ser Antigo.canvas",
+    "Races/Tenarch/Tenarch.canvas",
+    "Places/Realidade/AU 470/AU 470.canvas",
+    "Races/Tenarch",
+    "Races/Untitled",
+    "Races/Ser Antigo",
+    "mandamentos.md",
+    "Characters/Rust/Mídia/Foice da Rust.png",
+    "Places/Realidade/Realidade.canvas",
+    "Places/Realidade/AU 470",
+    "Characters/Lazarus/Plaestre.canvas",
+    "Characters/Lazarus/Lazarus.canvas",
+    "Characters/Seven/Sinestre.canvas",
+    "Characters/Lazarus",
+    "Characters/Arthe 1/Aestre.canvas",
     "Characters/Seven 1",
     "Characters/Ren 1/Sangrestre.canvas",
-    "Characters/Arthe 1/Aestre.canvas",
     "Characters/Rust/Mídia/Rust Outfit 4.png",
     "Aestre.md",
     "Characters/Rust/Rust.canvas",
@@ -204,40 +227,26 @@
     "Characters/Rust/Mídia/arththereaper rust & f2 desenho.png",
     "Characters/Rust/Mídia/Rust Ilustração kfc_002.png",
     "Characters/Rust/Mídia/Rust Apperance Reference 2.png",
-    "Characters/Rust/Mídia/Foice da Rust.png",
     "Characters/Rust/External Content.md",
     "Pasted image 20250817095259.png",
     "Characters/Rust/Mídia/Rust Sangreste Vessel 1.png",
     "Pasted image 20250817094847.png",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
-    "Characters/Fern 2/Fern 2.canvas",
     "conflict-files-obsidian-git.md",
-    "Characters/Fern 2/Fern 2 Original.canvas",
     "Characters/Rust/Carisma.md",
     "Characters/Rust/Mídia",
-    "Places/Vazio/Vazio.canvas",
     "Places/Vazio/Culture.md",
     "Places/Vazio",
     "Places/Sonhos/Culture.md",
-    "Places/Sonhos/Sonhos.canvas",
     "Places/Sonhos",
-    "Places/Inferno/Inferno.canvas",
     "Places/Inferno/Culture.md",
     "Places/Inferno",
     "Places/Coliseu/Culture.md",
-    "Places/Coliseu/Coliseu.canvas",
-    "Places/Coliseu",
     "Places/Abismo/Culture.md",
-    "Places/Abismo/Abismo.canvas",
-    "Places/Abismo",
     "Parts/Parte 7/Auverse Parte 7.md",
-    "Parts/Parte 7",
     "Parts/Parte 6/Auverse Parte 6.md",
-    "Parts/Parte 6",
     "Parts/Parte 5/Auverse Parte 5.md",
-    "Parts/Parte 5",
     "Parts/Parte 4/Auverse Parte 4.md",
-    "Parts/Parte 4",
     "Parts/Parte 3/Auverse Parte 3.md",
     "Parts/Parte 2/Auverse Parte 2.md",
     "Factions/Voidworm Children/Lore.md",
@@ -245,9 +254,6 @@
     "Races/Voidborn/Lore.md",
     "Races/Voidborn/Culture.md",
     "Races/Vaius/Lore.md",
-    "Races/Vaius/Culture.md",
-    "Races/Traken/Culture.md",
-    "Races/Traken/Lore.md",
-    "Races/Ser Abissal/Lore.md"
+    "Races/Vaius/Culture.md"
   ]
 }

@@ -1,1 +1,3 @@
 - [x] colocar em um repositório do github
+- [ ] reescrever lore do plaestre
+- [ ] escrever lore da rust
