@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bd7c7d1e29d7da9b",
+        "id": "2f2aacc19f2e11f3",
         "type": "tabs",
         "children": [
           {
-            "id": "a35a3116117bca00",
+            "id": "3c4d895559a33510",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Places/Realidade/AU 470/AU 470.canvas",
+                "file": "Marks/Marks.canvas",
                 "viewState": {
-                  "x": 0,
+                  "x": 170,
                   "y": 0,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AU 470"
+              "title": "Marks"
             }
           },
           {
-            "id": "9776973fb7d41669",
+            "id": "c37c7f67b78e8e81",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 696.8546518608229,
-                  "y": 366.2428745020113,
-                  "zoom": -2.9999999999999996
+                  "x": -609,
+                  "y": 635.5,
+                  "zoom": -2.2699538197735847
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
+              "title": "Rust"
             }
           }
         ],
@@ -65,7 +65,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -178,91 +178,81 @@
               "icon": "history",
               "title": "History"
             }
-          },
-          {
-            "id": "7e05df26eff5afba",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9776973fb7d41669",
+  "active": "c37c7f67b78e8e81",
   "lastOpenFiles": [
     "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Lilith/Lilith.canvas",
+    "Characters/Fern 2/Fern 2 Original.canvas",
     "conflict-files-obsidian-git.md",
-    "Elements/Azatroth/Azatroth.gif",
-    "Elements/Abismo/Abismo.gif",
-    "Characters/Lilith/Mídia/Lilith Apperance Reference 2.webp",
-    "Characters/Lilith/Mídia/Lilith Apperance Reference 3.png",
-    "Characters/Lilith/Mídia/Lilith Apperance Reference 1.png",
-    "Characters/Lilith/Mídia/Korviblade.png",
-    "Characters/Lilith/Mídia/Braço Robótico.png",
-    "Characters/Lilith/Mídia",
-    "Characters/Lilith/Lore.md",
-    "Characters/Lilith/Habilidades.md",
-    "Characters/Lilith/Carisma.md",
-    "Characters/Fern 2/External Content.md",
-    "mandamentos.md",
-    "Characters/Lilith/Lilith Apperance Reference 1.png",
-    "Characters/Rust/Rust.canvas",
-    "Marks/Marca Artificial.png",
     "Marks/Marks.canvas",
     "Marks/Marca da Estrela.png",
-    "Marca da Estrela.md",
     "Lineages/Lineages.canvas",
-    "Marks",
+    "mandamentos.md",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Lilith/Lilith.canvas",
+    "Characters/Fern 2/External Content.md",
+    "Characters/Fern 2/Carisma.md",
+    "Characters/Fern 2/Carisma Fern 2 Original.md",
+    "to-do.md",
+    "Elements/Abismo/Abismo.gif",
+    "Elements/Azatroth/Azatroth.gif",
+    "Characters/Lilith/Mídia/Braço Robótico.png",
+    "Characters/Lilith/Habilidades.md",
+    "Characters/Lilith/Mídia/Lilith Apperance Reference 3.png",
+    "Marks/Marca Artificial.png",
+    "Characters/Lilith/Mídia/Korviblade.png",
+    "Marca da Estrela.md",
     "Absorção.md",
+    "Marks",
     "Lineages",
-    "Styles",
     "Characters/Rust/Habilidades.md",
-    "Characters/Dankiel/Dankiel.canvas",
-    "Characters/Kakyrius Marrazi'er/Kakyrius Marrazi'er.canvas",
-    "Characters/Kakyrius Marrazi'er/Lore.md",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Flesh Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 2.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 1.png",
     "Characters/Kakyrius Marrazi'er/Mídia",
     "Characters/Kakyrius Marrazi'er/Malestre.canvas",
-    "Fern 17.md",
-    "Characters/Guhen Alamankar/Guhen Alamankar.canvas",
-    "to-do.md",
-    "Characters/Seven/Sinestre.canvas",
-    "Characters/Lazarus/Lore.md",
-    "changelog.md",
-    "Races/Tenarch",
-    "Races/Untitled",
-    "Races/Ser Antigo",
-    "Places/Realidade/AU 470",
-    "Characters/Lazarus",
-    "Aestre.md",
-    "Characters/Rust/External Content.md",
+    "Characters/Kakyrius Marrazi'er/Lore.md",
+    "Characters/Kakyrius Marrazi'er/Kakyrius Marrazi'er.canvas",
+    "Characters/Kakyrius Marrazi'er",
+    "Characters/Lilith/Mídia",
+    "Characters/Lilith/Carisma.md",
+    "Characters/Lilith/Lore.md",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
+    "Fern 17.md",
+    "Characters/Vaius 17/Vaius 17.canvas",
+    "Races/Tenarch/Tenarch.canvas",
+    "Races/Tenarch",
+    "Races/Ser Antigo",
+    "Characters/Rust/Mídia",
+    "Characters/Rust/External Content.md",
+    "Characters/Lazarus/Lore.md",
+    "Characters/Lazarus",
+    "Characters/Fern 17",
+    "Characters/Vaius 17/Carisma.md",
+    "Characters/Vaius 17/Lore.md",
+    "Characters/Nova Lum/Carisma.md",
+    "sangui.md",
+    "Characters/Nova Lum/Lore.md",
+    "Characters/Rad/Carisma.md",
     "Characters/Rust/Carisma.md",
-    "Places/Vazio/Culture.md",
-    "Places/Sonhos/Culture.md",
-    "Places/Inferno/Culture.md",
-    "Places/Coliseu/Culture.md",
-    "Places/Abismo/Culture.md",
-    "Parts/Parte 7/Auverse Parte 7.md",
-    "Parts/Parte 6/Auverse Parte 6.md"
+    "Characters/Rad/Lore.md"
   ]
 }
