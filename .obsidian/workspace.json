@@ -28,10 +28,17 @@
             "id": "9776973fb7d41669",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Fern 2/Fern 2.canvas",
+                "viewState": {
+                  "x": 931.9631058024366,
+                  "y": 1224.81993449306,
+                  "zoom": -1.1705490854771725
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Fern 2"
             }
           }
         ],
