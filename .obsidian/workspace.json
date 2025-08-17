@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "Characters/Arthe 1/Aestre.canvas",
                 "viewState": {
-                  "x": -2167.848575467576,
-                  "y": 488.9948611566517,
-                  "zoom": -2.6666666666666665
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "title": "Aestre"
             }
           },
           {
@@ -191,21 +191,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a35a3116117bca00",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
-    "arththereaper rust & f2 desenho 3.png",
-    "arththereaper rust & f2 desenho 2.png",
-    "arththereaper rust & f2 desenho.png",
-    "Rust Outfit 4.png",
-    "Rust Ilustração kfc_002.png",
+    "Characters/Seven 1",
+    "Characters/Ren 1/Sangrestre.canvas",
+    "Characters/Arthe 1/Aestre.canvas",
+    "Characters/Rust/Mídia/Rust Outfit 4.png",
+    "Aestre.md",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Mídia/arththereaper rust & f2 desenho 3.png",
+    "Characters/Rust/Mídia/arththereaper rust & f2 desenho 2.png",
+    "Characters/Rust/Mídia/arththereaper rust & f2 desenho.png",
+    "Characters/Rust/Mídia/Rust Ilustração kfc_002.png",
     "Characters/Rust/Mídia/Rust Apperance Reference 2.png",
     "Characters/Rust/Mídia/Foice da Rust.png",
-    "Characters/Rust/Rust.canvas",
     "Characters/Rust/External Content.md",
     "Pasted image 20250817095259.png",
     "Characters/Rust/Mídia/Rust Sangreste Vessel 1.png",
     "Pasted image 20250817094847.png",
-    "Characters/Rust/Mídia/Foice da Rust Alternative.png",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
     "Characters/Fern 2/Fern 2.canvas",
     "conflict-files-obsidian-git.md",
@@ -237,9 +240,7 @@
     "Parts/Parte 4",
     "Parts/Parte 3/Auverse Parte 3.md",
     "Parts/Parte 2/Auverse Parte 2.md",
-    "Factions/Voidworm Children/Voidworm Children.canvas",
     "Factions/Voidworm Children/Lore.md",
-    "Factions/Seguidores do Fogo Eterno/Seguidores do Fogo Eterno.canvas",
     "Factions/Seguidores do Fogo Eterno/Lore.md",
     "Races/Voidborn/Lore.md",
     "Races/Voidborn/Culture.md",
@@ -247,7 +248,6 @@
     "Races/Vaius/Culture.md",
     "Races/Traken/Culture.md",
     "Races/Traken/Lore.md",
-    "Races/Ser Abissal/Lore.md",
-    "Races/Ser Abissal/Culture.md"
+    "Races/Ser Abissal/Lore.md"
   ]
 }
