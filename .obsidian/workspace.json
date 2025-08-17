@@ -11,10 +11,14 @@
             "id": "48e3a46c9530d4f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -174,6 +178,7 @@
   },
   "active": "48e3a46c9530d4f4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Fern 2/External Content.md",
     "Characters/Lilith/Lilith.canvas",
@@ -185,7 +190,6 @@
     "to-do.md",
     "Elements/Abismo/Abismo.gif",
     "Elements/Azatroth/Azatroth.gif",
-    "conflict-files-obsidian-git.md",
     "Characters/Lilith/Mídia/Braço Robótico.png",
     "Characters/Lilith/Habilidades.md",
     "Characters/Lilith/Mídia/Lilith Apperance Reference 3.png",
