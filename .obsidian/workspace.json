@@ -15,9 +15,9 @@
               "state": {
                 "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 1521.0533130236104,
-                  "y": 2135.047220106626,
-                  "zoom": -2.138327371706589
+                  "x": 141.69557460298586,
+                  "y": 80.54981549878869,
+                  "zoom": -0.13832737170658926
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -181,10 +181,10 @@
   },
   "active": "c37c7f67b78e8e81",
   "lastOpenFiles": [
-    "Characters/Rust/Rust.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Fern 2/Fern 2 Original.canvas",
     "conflict-files-obsidian-git.md",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Fern 2 Original.canvas",
     "Marks/Marks.canvas",
     "Marks/Marca da Estrela.png",
     "Lineages/Lineages.canvas",

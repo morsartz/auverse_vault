@@ -104,5 +104,8 @@
 		{"id":"4fcbb8977abacc9d","type":"text","text":"[[Indetermined Fern.canvas|Indetermined Fern]]\n\n*De Início:* \n\n*Mestre, Comandante, Amigo, Líder, Companheiro de combate*\n\n*Final:* \n\n*Inimigos, Rivais, Adversários*","x":-370,"y":1880,"width":250,"height":320},
 		{"id":"0595178fc43694ea","type":"text","text":"Locais","x":-670,"y":1605,"width":250,"height":60,"color":"6"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b405f99e8871dffc","fromNode":"1426e6ac144cfa96","fromSide":"bottom","toNode":"8fac7d512ab00d7c","toSide":"top","toEnd":"none"},
+		{"id":"3a70a8f68b84124a","fromNode":"ca113053b9390273","fromSide":"right","toNode":"8fac7d512ab00d7c","toSide":"left"}
+	]
 }
