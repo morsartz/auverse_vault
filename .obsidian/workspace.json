@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 692.710574832591,
-                  "y": 552.9922496744259,
-                  "zoom": -1.3422474041455574
+                  "x": 1524.1393185958345,
+                  "y": 1709.792827142036,
+                  "zoom": -1.633180355262836
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "title": "Fern 2"
             }
           },
           {
@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Nova Lum/Nova Lum.canvas",
+                "file": "Characters/Vaius 17/Vaius 17.canvas",
                 "viewState": {
-                  "x": 472.87211931097863,
-                  "y": 1001.0393082729631,
-                  "zoom": -1.6666666666666667
+                  "x": 344.529151820778,
+                  "y": 1084.4901718276783,
+                  "zoom": -1.5939850878561332
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Nova Lum"
+              "title": "Vaius 17"
             }
           }
         ],
@@ -199,11 +199,25 @@
   },
   "active": "d8b124077d152a62",
   "lastOpenFiles": [
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Vaius 17/Vaius 17.canvas",
+    "Fern 17.md",
+    "Characters/Fern 17/Fern 17.canvas",
+    "Characters/Fern 17",
+    "Characters/Fern 2/Carisma.md",
+    "Characters/Vaius 17/Carisma.md",
     "Characters/Rust/Rust.canvas",
+    "Characters/Vaius 17/Mídia/Técnica.gif",
+    "Characters/Vaius 17/Lore.md",
+    "Characters/Vaius 17/Sem título",
+    "Characters/Rad/Rad.canvas",
+    "Characters/Rad/Mídia/naruto-jace.gif",
+    "Characters/Vaius 17/Mídia/Espada.webp",
+    "Characters/Vaius 17/Mídia/Roupas.webp",
+    "Characters/Vaius 17/Mídia/Vaius 17 Apperance Reference 1.webp",
+    "Characters/Vaius 17/Mídia",
     "Characters/Nova Lum/Nova Lum.canvas",
     "Characters/Nova Lum/Carisma.md",
-    "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Rad/Rad.canvas",
     "Elements/Sanguite/Sanguite 3.gif",
     "Elements/Sanguite/Sanguite 2.gif",
     "sangui.md",
@@ -212,14 +226,8 @@
     "Characters/Nova Lum/Mídia/Manto.png",
     "Characters/Nova Lum/Lore.md",
     "Characters/Nova Lum/Mídia",
-    "Characters/Nova Lum/Mídia/Nova Lum.png",
-    "Characters/Fern 2/Carisma.md",
     "Characters/Rad/Carisma.md",
-    "naruto-jace.gif",
     "Characters/Rust/Carisma.md",
-    "Characters/Rad/Mídia/Roupa por Baixo.jpg",
-    "Characters/Rad/Mídia/Cura Lenta.jpg",
-    "Characters/Rad/Mídia/Manto 2.png",
     "Characters/Rad/Lore.md",
     "Characters/Rad/Mídia",
     "Characters/Rabisco/Rabisco.canvas",
@@ -240,19 +248,11 @@
     "Elements/Singularidade/Lore & Funcionamento.md",
     "Elements/Sanguite/Lore & Funcionamento.md",
     "Elements/Sangue/Lore & Funcionamento.md",
-    "Elements/Ritual de Sangue/Lore & Funcionamento.md",
-    "Elements/Raio/Lore & Funcionamento.md",
-    "Elements/Poeira Estelar/Lore & Funcionamento.md",
     "Races/Voidborn/Voidborn.canvas",
     "Races/Vaius/Vaius.canvas",
-    "Races/Traken/Traken.canvas",
-    "Races/Ser Abissal/Ser Abissal.canvas",
     "Events/F",
     "Factions/Clã da Sanguite/Clã da",
     "Factions/AU Primeira Avançada/Sem título",
-    "Factions/Amygdala",
-    "Factions/Estres",
-    "Factions/AU Segunda Avançada",
-    "Factions/AU Primeira Avançada"
+    "Factions/Amygdala"
   ]
 }

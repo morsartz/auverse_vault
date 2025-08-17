@@ -18,8 +18,6 @@
 		{"id":"aacd2f55942b6d5e","type":"text","text":"[[Rad.canvas|Rad]] *Figura Paterna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1300,"width":250,"height":80},
 		{"id":"3a9a8a0b14699b31","type":"text","text":"[[Nina.canvas|Nina]] *Figura Materna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1400,"width":250,"height":80},
 		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":115,"y":1040,"width":250,"height":60},
-		{"id":"8a44af51916743e3","type":"text","text":"Caçadores de Recompensas","x":115,"y":1130,"width":280,"height":60},
-		{"id":"944d744a1e6cf534","type":"text","text":"Regime do Okahara *Contratado*","x":115,"y":1220,"width":320,"height":60},
 		{"id":"aa40f4a24b474e57","type":"text","text":"Origem","x":-235,"y":-505,"width":250,"height":60},
 		{"id":"370c11a6e1eb7f13","type":"file","file":"Characters/Rust/Lore.md","x":290,"y":-535,"width":400,"height":400},
 		{"id":"78fccc7113282dd5","type":"text","text":"Progenitores","x":15,"y":-640,"width":250,"height":60},
@@ -45,7 +43,9 @@
 		{"id":"f91ca54a83a6c840","type":"text","text":"Calor dos Sete Sufocamentos","x":1115,"y":1015,"width":285,"height":60},
 		{"id":"5c961fd2defa3584","type":"text","text":"Cinzas","x":1440,"y":1015,"width":250,"height":60},
 		{"id":"d5991f50c3b313bf","type":"file","file":"Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif","x":1115,"y":1110,"width":284,"height":160},
-		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-940,"y":227,"width":400,"height":488}
+		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-940,"y":227,"width":400,"height":488},
+		{"id":"8a44af51916743e3","type":"text","text":"Caçadores de Recompensas","x":100,"y":1130,"width":280,"height":60},
+		{"id":"944d744a1e6cf534","type":"text","text":"Regime do Okahara *Contratado*","x":80,"y":1220,"width":320,"height":60}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -89,6 +89,8 @@
 		{"id":"41501d4f2d3296f1","fromNode":"18e0230b62f2b6e1","fromSide":"right","toNode":"a661351083dcbde7","toSide":"left","toEnd":"none"},
 		{"id":"f32c58ffdfff54e4","fromNode":"4237123602170853","fromSide":"right","toNode":"f91ca54a83a6c840","toSide":"left"},
 		{"id":"3ad942023d2c147a","fromNode":"4237123602170853","fromSide":"right","toNode":"5c961fd2defa3584","toSide":"left"},
-		{"id":"72353f0e882e56f6","fromNode":"f91ca54a83a6c840","fromSide":"bottom","toNode":"d5991f50c3b313bf","toSide":"top","toEnd":"none"}
+		{"id":"72353f0e882e56f6","fromNode":"f91ca54a83a6c840","fromSide":"bottom","toNode":"d5991f50c3b313bf","toSide":"top","toEnd":"none"},
+		{"id":"12dc11ce83023e0c","fromNode":"822fd3683c0a3a96","fromSide":"bottom","toNode":"8a44af51916743e3","toSide":"top","toEnd":"none"},
+		{"id":"901b326045d7dcf7","fromNode":"8a44af51916743e3","fromSide":"bottom","toNode":"944d744a1e6cf534","toSide":"top","toEnd":"none"}
 	]
 }
