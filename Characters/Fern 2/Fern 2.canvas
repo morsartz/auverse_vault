@@ -101,7 +101,7 @@
 		{"id":"8696fe067c31e1e9","type":"text","text":"[[Vaius 17.canvas|Vaius 17]] *Amigo,* *Companheiro em combate*, *Membros da mesma facção*","x":-355,"y":4500,"width":250,"height":120},
 		{"id":"1426e6ac144cfa96","type":"text","text":"[[Kestre.canvas|Kestre]]","x":-165,"y":-400,"width":250,"height":60},
 		{"id":"ca113053b9390273","type":"text","text":"[[Vaius 6.canvas|Vaius 6]]","x":-640,"y":-245,"width":250,"height":60},
-		{"id":"9de7c3383501627d","x":360,"y":1105,"width":250,"height":60,"type":"text","text":"Auverse Parte 1 Crew"}
+		{"id":"9de7c3383501627d","type":"text","text":"Auverse Parte 1 Crew","x":360,"y":1105,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8d48ce07e57e11c7","fromNode":"aa490fe42de4b38d","fromSide":"bottom","toNode":"edff0ce1ea1a950b","toSide":"top"},

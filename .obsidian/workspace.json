@@ -32,9 +32,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": -327.5510075987969,
-                  "y": 1509.177200730119,
-                  "zoom": -0.5314858023342734
+                  "x": -759.5,
+                  "y": 635.5,
+                  "zoom": -3.19815246900094
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -199,6 +199,13 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Ren 187/Ren 187.canvas",
+    "Characters/Vaius 17/Vaius 17.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Nova Lum/Nova Lum.canvas",
+    "Characters/Nova/Nova.canvas",
+    "Characters/Rad/Rad.canvas",
     "Characters/Lazarus/Lore.md",
     "changelog.md",
     "to-do.md",
@@ -212,16 +219,10 @@
     "Characters/Rust/Mídia/Foice da Rust.png",
     "Places/Realidade/Realidade.canvas",
     "Places/Realidade/AU 470",
-    "Characters/Lazarus/Plaestre.canvas",
-    "Characters/Lazarus/Lazarus.canvas",
-    "Characters/Seven/Sinestre.canvas",
     "Characters/Lazarus",
-    "Characters/Arthe 1/Aestre.canvas",
     "Characters/Seven 1",
-    "Characters/Ren 1/Sangrestre.canvas",
     "Characters/Rust/Mídia/Rust Outfit 4.png",
     "Aestre.md",
-    "Characters/Rust/Rust.canvas",
     "Characters/Rust/Mídia/arththereaper rust & f2 desenho 3.png",
     "Characters/Rust/Mídia/arththereaper rust & f2 desenho 2.png",
     "Characters/Rust/Mídia/arththereaper rust & f2 desenho.png",
@@ -253,7 +254,6 @@
     "Factions/Seguidores do Fogo Eterno/Lore.md",
     "Races/Voidborn/Lore.md",
     "Races/Voidborn/Culture.md",
-    "Races/Vaius/Lore.md",
-    "Races/Vaius/Culture.md"
+    "Races/Vaius/Lore.md"
   ]
 }
