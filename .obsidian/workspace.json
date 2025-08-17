@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Places/Unknown/Unknown.canvas",
+                "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 493.1315678433175,
+                  "y": 3078.914200147448,
+                  "zoom": -3.597330324035421
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Unknown"
+              "title": "Fern 2"
             }
           }
         ]
@@ -182,6 +182,7 @@
   "active": "a35a3116117bca00",
   "lastOpenFiles": [
     "Characters/Rust/Rust.canvas",
+    "Places/Unknown/Unknown.canvas",
     "Characters/Rust/Rust Reference 2.png",
     "Characters/Rust/Manto do Mestre 2.png",
     "Characters/Rust/Outfit 2 Rust.png",
