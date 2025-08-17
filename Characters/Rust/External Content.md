@@ -31,6 +31,8 @@ Contexto: Ideias sobre o final do Auverse Parte 3
 "Ela é o avatar do Sangreste do milênio, dps do F2 foi ela. A mãe dela é cultista do Sangrestre e teve o filho pra isso" *06/07/2025 23:20*
 
 "Tipo o bgl é ativar viado. tlgd o livro dela? eu já mandei antes em rp, mas é um livro c olho do Sangrestre, tudo q ta ali ele lê. Por isso a batalha é difícil, ele lê todas anotações sobre as estratégias de vcs" *06/07/2025 23:23*
+
+"Rust se torna receptáculo do Sangrestre e a ultima luta é F2 e Rust"
 ## Planejamento de Cenas
 
 "Nesse RP novo do inferno, os protagonistas vão seguir o mapa na cabeça do antigo robo ATR, levando eles a áreas muito velhas do inferno, e diferentemente daonde atualmente é a "saída" do inferno, eles vão para a antiga saída, que é o lar do sangrestre.
