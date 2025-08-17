@@ -15,9 +15,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 386.50671346403385,
-                  "y": 1143.869448854769,
-                  "zoom": -0.9133316114407952
+                  "x": -1545.421134141082,
+                  "y": 819.8005329580564,
+                  "zoom": -0.6666666666666659
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -193,10 +193,19 @@
   },
   "active": "a35a3116117bca00",
   "lastOpenFiles": [
+    "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
+    "Foice da Rust Alternative.png",
+    "Rust Sangreste Vessel 1.png",
+    "Characters/Rust/Mídia/Mestre Mulher.png",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Rust/Mídia/Rust na Esquerda Ilustração.png",
+    "Characters/Rust/Mídia/Rust Outfit 3.png",
+    "Characters/Rust/Mídia/Suposta Filha da Rust.png",
+    "Characters/Rust/Mídia/Rust Casual.png",
+    "Characters/Rust/External Content.md",
     "Characters/Fern 2/Fern 2.canvas",
     "conflict-files-obsidian-git.md",
     "Characters/Fern 2/Fern 2 Original.canvas",
-    "Characters/Rust/Rust.canvas",
     "Characters/Rust/Mídia/Foice da Rust.png",
     "Characters/Rust/Carisma.md",
     "Characters/Rust/Mídia",
@@ -238,15 +247,7 @@
     "Races/Ser Abissal/Lore.md",
     "Races/Ser Abissal/Culture.md",
     "Races/Senkor/Lore.md",
-    "Races/Senkor/Culture.md",
     "Factions/Chroma 9/Chroma 9.png",
-    "Factions/Celestiais/Celestiais.png",
-    "Elements/Sanguite/Sanguite 3.gif",
-    "Elements/Sanguite/Sanguite.gif",
-    "Elements/Sanguite/Sanguite 2.gif",
-    "Characters/Vaius 17/Mídia/Técnica.gif",
-    "Characters/Vaius 17/Mídia/Vaius 17 Apperance Reference 1.webp",
-    "Characters/Vaius 17/Mídia/Roupas.webp",
-    "Characters/Vaius 17/Mídia/Espada.webp"
+    "Factions/Celestiais/Celestiais.png"
   ]
 }
