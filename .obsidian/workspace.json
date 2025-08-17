@@ -28,14 +28,17 @@
             "id": "9776973fb7d41669",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "mandamentos.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Rust/Rust.canvas",
+                "viewState": {
+                  "x": -334.9807114920342,
+                  "y": 2015.1373036763152,
+                  "zoom": -0.6666666666666667
+                }
               },
-              "icon": "lucide-file",
-              "title": "mandamentos"
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
             }
           }
         ],
@@ -206,6 +209,7 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
+    "mandamentos.md",
     "Characters/Rust/Rust.canvas",
     "Characters/Dankiel/Dankiel.canvas",
     "Characters/Kakyrius Marrazi'er/Kakyrius Marrazi'er.canvas",
@@ -221,13 +225,11 @@
     "Fern 17.md",
     "Characters/Guhen Alamankar/Guhen Alamankar.canvas",
     "to-do.md",
-    "mandamentos.md",
     "Characters/Seven/Sinestre.canvas",
     "Characters/Seven/Seven.canvas",
     "Characters/Arthe 9/Arthe 9.canvas",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Ren 187/Ren 187.canvas",
-    "Characters/Vaius 17/Vaius 17.canvas",
     "Characters/Lazarus/Lore.md",
     "changelog.md",
     "Races/Tenarch",

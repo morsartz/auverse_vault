@@ -79,12 +79,13 @@
 		{"id":"4c97f8bd3858f276","type":"text","text":"[[Zenith.canvas|Zenith]] *Dono*, *Condutor de Experimentos*","x":-610,"y":1220,"width":250,"height":100},
 		{"id":"aacd2f55942b6d5e","type":"text","text":"[[Rad.canvas|Rad]] *Figura Paterna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1340,"width":250,"height":80},
 		{"id":"3a9a8a0b14699b31","type":"text","text":"[[Nina.canvas|Nina]] *Figura Materna*, *Cuidador*, *Figura Familiar*","x":-610,"y":1440,"width":250,"height":80},
-		{"id":"ee24ae3bf3307a76","type":"text","text":"[[Aestre | Arthe 1]] *Membros da mesma facção*","x":-610,"y":1540,"width":250,"height":80},
+		{"id":"ee24ae3bf3307a76","type":"text","text":"[[Aestre.canvas| Arthe 1 \"Aestre\"]] *Membros da mesma facção*","x":-610,"y":1540,"width":250,"height":80},
 		{"id":"d516d1228d47c3cf","type":"text","text":"[[Dankiel.canvas| Dankiel]] *Membros da mesma facção*, *Amigo*","x":-610,"y":1640,"width":250,"height":80},
 		{"id":"49fdc4370505333d","type":"text","text":"[[Haikai.canvas|Haikai]] *Membros da mesma facção*, *Amigo*","x":-610,"y":1740,"width":250,"height":80},
 		{"id":"243ee1eeed55c08c","type":"text","text":"[[Lilith.canvas|Lilith]] *Membros da mesma facção*","x":-610,"y":1840,"width":250,"height":80},
 		{"id":"1cbd0e341c4b41d4","type":"text","text":"[[Mestre.canvas|Mestre]] *Morto em combate*, *Respeito mutúo*","x":-610,"y":1940,"width":250,"height":80},
-		{"id":"1f597aa9dad76b3c","type":"text","text":"[[Nova Lum.png|Nova]] *Membros da mesma facção*","x":-610,"y":2040,"width":250,"height":80}
+		{"id":"1f597aa9dad76b3c","type":"text","text":"[[Nova Lum.png|Nova]] *Membros da mesma facção*","x":-610,"y":2040,"width":250,"height":80},
+		{"id":"3b2381c3c0b9b38f","type":"text","text":"[[Sangrestre.canvas| Ren 1 \"Sangrestre\"]] *Membros da mesma facção*","x":-610,"y":2140,"width":250,"height":100}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
