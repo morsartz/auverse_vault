@@ -13,36 +13,35 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Places/Realidade/AU 470/AU 470.canvas",
+                "file": "Characters/Lilith/Lilith.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 849,
+                  "y": 954,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AU 470"
+              "title": "Lilith"
             }
           },
           {
-            "id": "9776973fb7d41669",
+            "id": "d8b124077d152a62",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": -327.5510075987969,
-                  "y": 1509.177200730119,
-                  "zoom": -0.5314858023342734
+                  "x": 409.0142773851102,
+                  "y": 335.42046056088657,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Rust"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +64,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -188,72 +187,72 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9776973fb7d41669",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
-    "Characters/Lazarus/Lore.md",
-    "changelog.md",
-    "to-do.md",
-    "Races/Ser Antigo/Ser Antigo.canvas",
-    "Races/Tenarch/Tenarch.canvas",
-    "Places/Realidade/AU 470/AU 470.canvas",
-    "Races/Tenarch",
-    "Races/Untitled",
-    "Races/Ser Antigo",
-    "mandamentos.md",
-    "Characters/Rust/Mídia/Foice da Rust.png",
-    "Places/Realidade/Realidade.canvas",
-    "Places/Realidade/AU 470",
-    "Characters/Lazarus/Plaestre.canvas",
-    "Characters/Lazarus/Lazarus.canvas",
-    "Characters/Seven/Sinestre.canvas",
-    "Characters/Lazarus",
-    "Characters/Arthe 1/Aestre.canvas",
-    "Characters/Seven 1",
-    "Characters/Ren 1/Sangrestre.canvas",
-    "Characters/Rust/Mídia/Rust Outfit 4.png",
-    "Aestre.md",
+    "Characters/Lilith/Mídia",
+    "Characters/Lilith/Lilith Apperance Refere.webp",
     "Characters/Rust/Rust.canvas",
-    "Characters/Rust/Mídia/arththereaper rust & f2 desenho 3.png",
-    "Characters/Rust/Mídia/arththereaper rust & f2 desenho 2.png",
-    "Characters/Rust/Mídia/arththereaper rust & f2 desenho.png",
-    "Characters/Rust/Mídia/Rust Ilustração kfc_002.png",
-    "Characters/Rust/Mídia/Rust Apperance Reference 2.png",
-    "Characters/Rust/External Content.md",
-    "Pasted image 20250817095259.png",
-    "Characters/Rust/Mídia/Rust Sangreste Vessel 1.png",
-    "Pasted image 20250817094847.png",
+    "Characters/Lilith/Lilith.canvas",
+    "Characters/Lilith/Carisma.md",
+    "Characters/Lilith/Lore.md",
+    "Characters/Lilith/Lilith Apperance Reference 1.png",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Characters/Fern 2/External Content.md",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
-    "conflict-files-obsidian-git.md",
-    "Characters/Rust/Carisma.md",
+    "Fern 17.md",
+    "mandamentos.md",
+    "Characters/Vaius 17/Vaius 17.canvas",
+    "Races/Tenarch/Tenarch.canvas",
+    "Races/Tenarch",
+    "Races/Ser Antigo/Ser Antigo.canvas",
+    "Races/Ser Antigo",
+    "Places/Realidade/AU 470/AU 470.canvas",
+    "Characters/Seven/Sinestre.canvas",
+    "Characters/Rust/Mídia/Suposta Filha da Rust.png",
+    "Characters/Rust/Mídia/Rust Sangreste Vessel 1.png",
+    "Characters/Rust/Mídia/Rust Reference 2.png",
+    "Characters/Rust/Mídia/Rust Outfit 4.png",
+    "Characters/Rust/Mídia/Rust Outfit 3.png",
+    "Characters/Rust/Mídia/Rust na Esquerda Ilustração.png",
+    "Characters/Rust/Mídia/Rust Ilustração kfc_002.png",
+    "Characters/Rust/Mídia/Rust Casual.png",
     "Characters/Rust/Mídia",
-    "Places/Vazio/Culture.md",
-    "Places/Vazio",
-    "Places/Sonhos/Culture.md",
-    "Places/Sonhos",
-    "Places/Inferno/Culture.md",
-    "Places/Inferno",
-    "Places/Coliseu/Culture.md",
-    "Places/Abismo/Culture.md",
-    "Parts/Parte 7/Auverse Parte 7.md",
-    "Parts/Parte 6/Auverse Parte 6.md",
-    "Parts/Parte 5/Auverse Parte 5.md",
-    "Parts/Parte 4/Auverse Parte 4.md",
-    "Parts/Parte 3/Auverse Parte 3.md",
-    "Parts/Parte 2/Auverse Parte 2.md",
-    "Factions/Voidworm Children/Lore.md",
-    "Factions/Seguidores do Fogo Eterno/Lore.md",
-    "Races/Voidborn/Lore.md",
-    "Races/Voidborn/Culture.md",
-    "Races/Vaius/Lore.md",
-    "Races/Vaius/Culture.md"
+    "Characters/Rust/External Content.md",
+    "Characters/Ren 1/Sangrestre.canvas",
+    "Characters/Lazarus/Plaestre.canvas",
+    "Characters/Lazarus/Lore.md",
+    "Characters/Lazarus",
+    "Characters/Fern 17",
+    "Characters/Fern 2/Carisma.md",
+    "Characters/Vaius 17/Carisma.md",
+    "Characters/Vaius 17/Lore.md",
+    "Characters/Vaius 17/Sem título",
+    "Characters/Vaius 17/Mídia",
+    "Characters/Nova Lum/Carisma.md",
+    "sangui.md",
+    "Characters/Nova Lum/Lore.md",
+    "Characters/Nova Lum/Mídia",
+    "Characters/Rad/Carisma.md",
+    "Characters/Rust/Carisma.md",
+    "Characters/Rad/Lore.md",
+    "Characters/Rad/Mídia",
+    "Events/Fim do Mundo.md",
+    "States of Being",
+    "Elements/Vidari/Lore & Funcionamento.md",
+    "Elements/Verdadeira Chama/Lore & Funcionamento.md",
+    "Elements/Vento/Lore & Funcionamento.md",
+    "Elements/Veneno/Lore & Funcionamento.md",
+    "Elements/Vazio/Lore & Funcionamento.md",
+    "Elements/Vacuum Inani/Lore & Funcionamento.md",
+    "Elements/Terra/Lore & Funcionamento.md"
   ]
 }
