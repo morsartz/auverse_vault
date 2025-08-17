@@ -11,30 +11,13 @@
             "id": "a35a3116117bca00",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif"
-              },
-              "icon": "lucide-image",
-              "title": "Calor dos Sete Sufocamentos Reference Gif"
-            }
-          },
-          {
-            "id": "3747c0786627a1d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,12 +172,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3747c0786627a1d4",
+  "active": "a35a3116117bca00",
   "lastOpenFiles": [
-    "Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif",
-    "conflict-files-obsidian-git.md",
-    "Elements/Calor dos Sete Sufocamentos/Lore & Funcionamento.md",
     "Characters/Rust/Rust.canvas",
+    "Elements/Cinzas/Lore & Funcionamento.md",
+    "Elements/Calor dos Sete Sufocamentos/Lore & Funcionamento.md",
+    "Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif",
+    "Elements/Cinzas",
+    "conflict-files-obsidian-git.md",
     "Elements/Calor dos Sete Sufocamentos",
     "Elements",
     "Characters/Mujika/Mujika Apperance Reference 1.png",
@@ -225,7 +210,6 @@
     "mandamentos.md",
     "Characters/Vaius 2/Vaius 2.canvas",
     "Characters/Vaius 2",
-    "Characters/Traken 17",
     "Characters/Fern 2/Carisma.md",
     "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Races/Humano/Culture.md",
@@ -244,7 +228,6 @@
     "auverse_vault/Events/Regime de Okahara.md",
     "auverse_vault/Events/Criação do Abismo.md",
     "auverse_vault/Events/Criação do Coliseu.md",
-    "auverse_vault/Events/Criação do Universo.md",
-    "auverse_vault/Events/Concepção do Unknown.md"
+    "auverse_vault/Events/Criação do Universo.md"
   ]
 }
