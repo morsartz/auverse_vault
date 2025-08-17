@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd7c7d1e29d7da9b",
+        "id": "53cc085a01da0b62",
         "type": "tabs",
         "children": [
           {
-            "id": "a35a3116117bca00",
+            "id": "1e50291396d50871",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,13 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a35a3116117bca00",
+  "active": "1e50291396d50871",
   "lastOpenFiles": [
     "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Rust/Rust.canvas",
-    "mandamentos.md",
+    "Characters/Fern 2/Fern 2 Original.canvas",
+    "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Characters/Fern 2/External Content.md",
     "Characters/Lilith/Lilith.canvas",
+    "Characters/Rust/Rust.canvas",
+    "mandamentos.md",
     "to-do.md",
     "Elements/Abismo/Abismo.gif",
     "Elements/Azatroth/Azatroth.gif",
@@ -227,7 +229,6 @@
     "Characters/Nova Lum/Lore.md",
     "Characters/Rad/Carisma.md",
     "Characters/Rust/Carisma.md",
-    "Characters/Rad/Lore.md",
-    "Events/Fim do Mundo.md"
+    "Characters/Rad/Lore.md"
   ]
 }
