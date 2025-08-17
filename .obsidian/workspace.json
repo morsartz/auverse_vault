@@ -11,52 +11,13 @@
             "id": "a35a3116117bca00",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Lilith/Lilith.canvas",
-                "viewState": {
-                  "x": -403.5437955103965,
-                  "y": 1776.8239223609107,
-                  "zoom": -1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lilith"
-            }
-          },
-          {
-            "id": "e75aa609d826bf56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "d8b124077d152a62",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Rust/Rust.canvas",
-                "viewState": {
-                  "x": 1044.0045131954778,
-                  "y": 185.7379848012739,
-                  "zoom": -0.3333333333333332
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e75aa609d826bf56",
+  "active": "a35a3116117bca00",
   "lastOpenFiles": [
-    "Characters/Lilith/Lilith.canvas",
+    "Characters/Fern 2/Fern 2.canvas",
     "Characters/Rust/Rust.canvas",
+    "mandamentos.md",
+    "Characters/Fern 2/External Content.md",
+    "Characters/Lilith/Lilith.canvas",
+    "to-do.md",
+    "Elements/Abismo/Abismo.gif",
+    "Elements/Azatroth/Azatroth.gif",
     "conflict-files-obsidian-git.md",
     "Characters/Lilith/Mídia/Braço Robótico.png",
     "Characters/Lilith/Habilidades.md",
@@ -232,8 +199,6 @@
     "Characters/Kakyrius Marrazi'er/Mídia/Malestre Flesh Reference 1.png",
     "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 2.png",
     "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 1.png",
-    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 2.png",
-    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 1.png",
     "Characters/Kakyrius Marrazi'er/Mídia",
     "Characters/Kakyrius Marrazi'er/Malestre.canvas",
     "Characters/Kakyrius Marrazi'er/Lore.md",
@@ -242,11 +207,8 @@
     "Characters/Lilith/Mídia",
     "Characters/Lilith/Carisma.md",
     "Characters/Lilith/Lore.md",
-    "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Fern 2/External Content.md",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
     "Fern 17.md",
-    "mandamentos.md",
     "Characters/Vaius 17/Vaius 17.canvas",
     "Races/Tenarch/Tenarch.canvas",
     "Races/Tenarch",
@@ -266,7 +228,6 @@
     "Characters/Rad/Carisma.md",
     "Characters/Rust/Carisma.md",
     "Characters/Rad/Lore.md",
-    "Events/Fim do Mundo.md",
-    "Elements/Vidari/Lore & Funcionamento.md"
+    "Events/Fim do Mundo.md"
   ]
 }
