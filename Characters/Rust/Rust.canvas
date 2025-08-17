@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60},
-		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-740,"y":220,"width":400,"height":400},
 		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400},
 		{"id":"0620be740239c2aa","type":"text","text":"[[Realidade.canvas|Realidade]]","x":15,"y":-360,"width":250,"height":50},
 		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415},
@@ -45,7 +44,8 @@
 		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a cultura Corviana e por extenção cultura dos Arthes","x":1110,"y":-660,"width":250,"height":100},
 		{"id":"f91ca54a83a6c840","type":"text","text":"Calor dos Sete Sufocamentos","x":1115,"y":1015,"width":285,"height":60},
 		{"id":"5c961fd2defa3584","type":"text","text":"Cinzas","x":1440,"y":1015,"width":250,"height":60},
-		{"id":"d5991f50c3b313bf","type":"file","file":"Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif","x":1115,"y":1105,"width":284,"height":160}
+		{"id":"d5991f50c3b313bf","type":"file","file":"Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif","x":1115,"y":1110,"width":284,"height":160},
+		{"id":"deef2a12e8dbbafd","type":"file","file":"Parts/Parte 8/Auverse Parte 8.md","x":-940,"y":227,"width":400,"height":488}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},

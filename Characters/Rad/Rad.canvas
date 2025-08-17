@@ -1,8 +1,13 @@
-<<<<<<< HEAD
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"f6b889aa080f9a75","type":"text","text":"Origem","x":-160,"y":-40,"width":250,"height":60},
+		{"id":"6f89dd3b960779c6","type":"text","text":"Cestre e Zenith","x":-320,"y":-260,"width":250,"height":60},
+		{"id":"3c78c6e0372a1b58","type":"text","text":"[[Realidade.canvas|Realidade]]","x":132,"y":135,"width":250,"height":60},
+		{"id":"448eaf6b40d43254","type":"file","file":"Characters/Rad/Mídia/Rad Apperance Reference 1.png","x":-240,"y":320,"width":531,"height":326}
+	],
+	"edges":[
+		{"id":"83f266e577ead522","fromNode":"6f89dd3b960779c6","fromSide":"bottom","toNode":"f6b889aa080f9a75","toSide":"top","toEnd":"none"},
+		{"id":"9ed5e3aa288bfbb6","fromNode":"f6b889aa080f9a75","fromSide":"bottom","toNode":"3c78c6e0372a1b58","toSide":"top"},
+		{"id":"12397ae8a4e83b40","fromNode":"f6b889aa080f9a75","fromSide":"bottom","toNode":"448eaf6b40d43254","toSide":"top"}
+	]
 }
-=======
-{}
->>>>>>> origin/main

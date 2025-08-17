@@ -1,0 +1,1 @@
+escrever todo o roteiro da Parte 4 aqui
