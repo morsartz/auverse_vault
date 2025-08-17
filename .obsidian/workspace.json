@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53cc085a01da0b62",
+        "id": "2e72918653b39ad0",
         "type": "tabs",
         "children": [
           {
-            "id": "1e50291396d50871",
+            "id": "7fa9dd02709cf94f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,14 +172,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e50291396d50871",
+  "active": "7fa9dd02709cf94f",
   "lastOpenFiles": [
+    "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Fern 2/Fern 2 Original.canvas",
     "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Characters/Fern 2/External Content.md",
     "Characters/Lilith/Lilith.canvas",
-    "Characters/Rust/Rust.canvas",
     "mandamentos.md",
     "to-do.md",
     "Elements/Abismo/Abismo.gif",
