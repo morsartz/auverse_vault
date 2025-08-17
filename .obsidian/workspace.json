@@ -13,29 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": -291.3064048402317,
-                  "y": 246.45943197544472,
-                  "zoom": -1.4378790187990993
+                  "x": 386.50671346403385,
+                  "y": 1143.869448854769,
+                  "zoom": -0.9133316114407952
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
-            }
-          },
-          {
-            "id": "f531c89c58bf3524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Rust"
             }
           },
           {
@@ -50,8 +36,7 @@
               "title": "Foice da Rust"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,15 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f531c89c58bf3524",
+  "active": "a35a3116117bca00",
   "lastOpenFiles": [
     "Characters/Fern 2/Fern 2.canvas",
+    "conflict-files-obsidian-git.md",
     "Characters/Fern 2/Fern 2 Original.canvas",
     "Characters/Rust/Rust.canvas",
     "Characters/Rust/Mídia/Foice da Rust.png",
     "Characters/Rust/Carisma.md",
     "Characters/Rust/Mídia",
-    "conflict-files-obsidian-git.md",
     "Places/Vazio/Vazio.canvas",
     "Places/Vazio/Culture.md",
     "Places/Vazio",
@@ -245,7 +230,6 @@
     "Factions/Seguidores do Fogo Eterno/Seguidores do Fogo Eterno.canvas",
     "Factions/Seguidores do Fogo Eterno/Lore.md",
     "Races/Voidborn/Lore.md",
-    "Races/Voidborn/Voidborn.canvas",
     "Races/Voidborn/Culture.md",
     "Races/Vaius/Lore.md",
     "Races/Vaius/Culture.md",
