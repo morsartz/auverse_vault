@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"abfd520283c459fb","x":-300,"y":-240,"width":400,"height":400,"type":"file","file":"Marca da Estrela.md"},
+		{"id":"36fc1a0404bc79ea","x":240,"y":-160,"width":400,"height":400,"type":"file","file":"Marks/Marca da Estrela.png"}
+	],
+	"edges":[
+		{"id":"d59808865c5741c7","fromNode":"36fc1a0404bc79ea","fromSide":"left","toNode":"abfd520283c459fb","toSide":"right"}
+	]
+}

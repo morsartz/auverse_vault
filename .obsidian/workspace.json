@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Rust/Rust.canvas",
+                "file": "Marks/Marks.canvas",
                 "viewState": {
-                  "x": 1141.4358040480518,
-                  "y": 1103.2604420968132,
-                  "zoom": -1.666666666666666
+                  "x": 183.5,
+                  "y": 0,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "title": "Marks"
             }
           }
         ],
@@ -209,8 +209,18 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
-    "mandamentos.md",
+    "Marks/Marca da Estrela.png",
+    "Marca da Estrela.md",
+    "Lineages/Lineages.canvas",
+    "Marks/Marks.canvas",
+    "Marks",
+    "Absorção.md",
     "Characters/Rust/Rust.canvas",
+    "Lineages",
+    "Styles",
+    "Characters/Rust/Habilidades.md",
+    "Characters/Fern 2/Fern 2.canvas",
+    "mandamentos.md",
     "Characters/Dankiel/Dankiel.canvas",
     "Characters/Kakyrius Marrazi'er/Kakyrius Marrazi'er.canvas",
     "Characters/Kakyrius Marrazi'er/Mídia/Malestre Flesh Reference 1.png",
@@ -227,9 +237,6 @@
     "to-do.md",
     "Characters/Seven/Sinestre.canvas",
     "Characters/Seven/Seven.canvas",
-    "Characters/Arthe 9/Arthe 9.canvas",
-    "Characters/Fern 2/Fern 2.canvas",
-    "Characters/Ren 187/Ren 187.canvas",
     "Characters/Lazarus/Lore.md",
     "changelog.md",
     "Races/Tenarch",
@@ -247,11 +254,8 @@
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
     "conflict-files-obsidian-git.md",
     "Characters/Rust/Carisma.md",
-    "Characters/Rust/Mídia",
     "Places/Vazio/Culture.md",
-    "Places/Vazio",
     "Places/Sonhos/Culture.md",
-    "Places/Sonhos",
     "Places/Inferno/Culture.md",
     "Places/Coliseu/Culture.md",
     "Places/Abismo/Culture.md",
@@ -260,9 +264,6 @@
     "Parts/Parte 5/Auverse Parte 5.md",
     "Parts/Parte 4/Auverse Parte 4.md",
     "Parts/Parte 3/Auverse Parte 3.md",
-    "Parts/Parte 2/Auverse Parte 2.md",
-    "Factions/Voidworm Children/Lore.md",
-    "Factions/Seguidores do Fogo Eterno/Lore.md",
-    "Races/Voidborn/Lore.md"
+    "Parts/Parte 2/Auverse Parte 2.md"
   ]
 }

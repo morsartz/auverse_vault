@@ -1,7 +1,8 @@
 {
 	"nodes":[
+		{"id":"fd3043b2aac30b14","x":1233,"y":1180,"width":400,"height":400,"type":"file","file":"Characters/Rust/Habilidades.md"},
 		{"id":"c41d5d168d2fe0b4","type":"text","text":"Primeira Aparição em","x":-540,"y":40,"width":250,"height":60,"color":"3"},
-		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Mídia/Rust Apperance Reference 1.png","x":-145,"y":-180,"width":320,"height":400,"color":"6"},
+		{"id":"aa69cb8faa3b8157","type":"file","file":"Characters/Rust/Mídia/Rust Apperance Reference 1.png","x":-200,"y":-205,"width":375,"height":469,"color":"6"},
 		{"id":"0620be740239c2aa","type":"text","text":"[[Realidade.canvas|Realidade]]","x":15,"y":-360,"width":250,"height":50,"color":"6"},
 		{"id":"dca7273f450c8482","type":"text","text":"<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6S7qPKFaHfotXNN52NixcN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","x":-1035,"y":-505,"width":745,"height":415,"color":"1"},
 		{"id":"80b550cc64b32b48","type":"text","text":"Social","x":-520,"y":710,"width":250,"height":60,"color":"6"},
@@ -31,9 +32,6 @@
 		{"id":"0928eee30f74daf3","type":"text","text":"*Humano*, *Pele clara*, *Cabelo preto*, *Magra*, *Estatura média-alta*,\n*Olhos escuros*, *Coberta de Cicatrizes*, *Aparenta não ter a melhor higiene do mundo...*","x":641,"y":262,"width":250,"height":208,"color":"5"},
 		{"id":"18e0230b62f2b6e1","type":"file","file":"Characters/Rust/Mídia/Foice da Rust.png","x":783,"y":-631,"width":283,"height":400},
 		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a cultura Corviana e por extenção cultura dos Arthes","x":1110,"y":-660,"width":250,"height":100},
-		{"id":"f91ca54a83a6c840","type":"text","text":"Calor dos Sete Sufocamentos","x":1115,"y":1015,"width":285,"height":60,"color":"5"},
-		{"id":"5c961fd2defa3584","type":"text","text":"Cinzas","x":1440,"y":1015,"width":250,"height":60,"color":"5"},
-		{"id":"d5991f50c3b313bf","type":"file","file":"Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif","x":1115,"y":1110,"width":284,"height":160},
 		{"id":"e272a61658c4fa74","type":"text","text":"Miki Sacromance\n*Membro do Culto de Yarharam*","x":15,"y":-760,"width":305,"height":60,"color":"1"},
 		{"id":"55fb3126816a754b","type":"text","text":"Emsid O'Kain\n*Membro do Culto de Yarharam*","x":-535,"y":-760,"width":300,"height":60,"color":"5"},
 		{"id":"822fd3683c0a3a96","type":"text","text":"[[Celestiais.canvas|Celestiais]]  *Membro*","x":163,"y":1020,"width":294,"height":60},
@@ -88,7 +86,12 @@
 		{"id":"3b2381c3c0b9b38f","type":"text","text":"[[Sangrestre.canvas| Ren 1 \"Sangrestre\"]] *Membros da mesma facção*","x":-610,"y":2140,"width":250,"height":100},
 		{"id":"d00e4cf5276cda45","type":"text","text":"[[ATR 001.canvas|ATR 001]] *Membros da mesma facção*","x":-610,"y":2260,"width":250,"height":80},
 		{"id":"68e249fb21449931","type":"text","text":"[[Lõdric.canvas|Lõdric]] *Membros da mesma facção*","x":-610,"y":2360,"width":250,"height":80},
-		{"id":"29f08e9743474acb","x":-610,"y":2460,"width":250,"height":80,"type":"text","text":"[[Okahara.canvas|Okahara]] *Contratante*, *Autoridade*"}
+		{"id":"29f08e9743474acb","type":"text","text":"[[Okahara.canvas|Okahara]] *Contratante*, *Autoridade*","x":-610,"y":2460,"width":250,"height":80},
+		{"id":"5c961fd2defa3584","type":"text","text":"Cinzas","x":2131,"y":1210,"width":250,"height":60,"color":"5"},
+		{"id":"f91ca54a83a6c840","type":"text","text":"Calor dos Sete Sufocamentos","x":1806,"y":1210,"width":285,"height":60,"color":"5"},
+		{"id":"d5991f50c3b313bf","type":"file","file":"Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif","x":1806,"y":1305,"width":284,"height":160},
+		{"id":"7f4e27377552901f","x":1720,"y":1020,"width":250,"height":60,"color":"5","type":"text","text":"Elementos"},
+		{"id":"5c27774fb29177ed","x":1240,"y":1020,"width":250,"height":60,"color":"5","type":"text","text":"Tecnicas"}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -129,8 +132,7 @@
 		{"id":"a0b57cef3d3a2f24","fromNode":"d97f14431f2ca321","fromSide":"top","toNode":"12a68e08cdbca510","toSide":"bottom"},
 		{"id":"73a3df60af68ddf8","fromNode":"12a68e08cdbca510","fromSide":"top","toNode":"18e0230b62f2b6e1","toSide":"bottom","toEnd":"none"},
 		{"id":"41501d4f2d3296f1","fromNode":"18e0230b62f2b6e1","fromSide":"right","toNode":"a661351083dcbde7","toSide":"left","toEnd":"none"},
-		{"id":"f32c58ffdfff54e4","fromNode":"4237123602170853","fromSide":"right","toNode":"f91ca54a83a6c840","toSide":"left"},
-		{"id":"3ad942023d2c147a","fromNode":"4237123602170853","fromSide":"right","toNode":"5c961fd2defa3584","toSide":"left"},
+		{"id":"f32c58ffdfff54e4","fromNode":"4237123602170853","fromSide":"right","toNode":"7f4e27377552901f","toSide":"left"},
 		{"id":"72353f0e882e56f6","fromNode":"f91ca54a83a6c840","fromSide":"bottom","toNode":"d5991f50c3b313bf","toSide":"top","toEnd":"none"},
 		{"id":"12dc11ce83023e0c","fromNode":"822fd3683c0a3a96","fromSide":"bottom","toNode":"8a44af51916743e3","toSide":"top","toEnd":"none"},
 		{"id":"901b326045d7dcf7","fromNode":"8a44af51916743e3","fromSide":"bottom","toNode":"944d744a1e6cf534","toSide":"top","toEnd":"none"},
@@ -176,6 +178,9 @@
 		{"id":"07806ef632692336","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"3b2381c3c0b9b38f","toSide":"top"},
 		{"id":"33c2dd29b1dfc47d","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"d00e4cf5276cda45","toSide":"top"},
 		{"id":"b70cd04fc7f19aac","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"68e249fb21449931","toSide":"top"},
-		{"id":"7732de98c92583ff","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"29f08e9743474acb","toSide":"top"}
+		{"id":"7732de98c92583ff","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"29f08e9743474acb","toSide":"top"},
+		{"id":"5d127fe7169e60e5","fromNode":"7f4e27377552901f","fromSide":"bottom","toNode":"f91ca54a83a6c840","toSide":"top"},
+		{"id":"23fdb04c87d0c87e","fromNode":"7f4e27377552901f","fromSide":"bottom","toNode":"5c961fd2defa3584","toSide":"top"},
+		{"id":"bfdae211a9a181b8","fromNode":"4237123602170853","fromSide":"right","toNode":"5c27774fb29177ed","toSide":"left"}
 	]
 }
