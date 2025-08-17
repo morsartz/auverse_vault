@@ -28,17 +28,14 @@
             "id": "9776973fb7d41669",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Characters/Lilith/Lilith.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "mandamentos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lilith"
+              "icon": "lucide-file",
+              "title": "mandamentos"
             }
           }
         ],
@@ -209,8 +206,8 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
-    "Characters/Lilith/Lilith Apperance Reference 1.png",
     "Characters/Lilith/Lilith.canvas",
+    "Characters/Lilith/Lilith Apperance Reference 1.png",
     "Characters/Rust/Rust.canvas",
     "Marks/Marca Artificial.png",
     "Characters/Fern 2/Fern 2.canvas",
