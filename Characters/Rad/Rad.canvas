@@ -32,9 +32,9 @@
 		{"id":"0e6d7b221130d5a0","type":"text","text":"Manto","x":1740,"y":890,"width":250,"height":60},
 		{"id":"404925699dffba24","type":"text","text":"Velha, Rasgada, Podre","x":1990,"y":685,"width":250,"height":60},
 		{"id":"5c87dae18462c15d","type":"file","file":"Characters/Rad/Mídia/Rad Apperance Reference 2.png","x":785,"y":1170,"width":400,"height":400},
-		{"id":"9326d62be1327230","x":2115,"y":1085,"width":400,"height":400,"type":"file","file":"Characters/Rad/Mídia/Manto 2.jpg"},
 		{"id":"7f0cec9f7724a37a","type":"file","file":"Characters/Rad/Mídia/Manto.jpg","x":2540,"y":540,"width":360,"height":641},
-		{"id":"2b00b0b5fad79173","x":3060,"y":921,"width":250,"height":60,"type":"text","text":"Por Baixo"}
+		{"id":"2b00b0b5fad79173","x":3060,"y":921,"width":250,"height":60,"type":"text","text":"Por Baixo"},
+		{"id":"ab82217dacd92ecb","x":2180,"y":1220,"width":459,"height":500,"type":"file","file":"Characters/Rad/Mídia/Manto 2.png"}
 	],
 	"edges":[
 		{"id":"83f266e577ead522","fromNode":"6f89dd3b960779c6","fromSide":"bottom","toNode":"f6b889aa080f9a75","toSide":"top","toEnd":"none"},
@@ -70,7 +70,7 @@
 		{"id":"cb619a7241de7f30","fromNode":"0e6d7b221130d5a0","fromSide":"right","toNode":"404925699dffba24","toSide":"bottom"},
 		{"id":"0c297afaab99f8da","fromNode":"448eaf6b40d43254","fromSide":"right","toNode":"5c87dae18462c15d","toSide":"left","toEnd":"none"},
 		{"id":"0b5824a71ccbfc89","fromNode":"0e6d7b221130d5a0","fromSide":"right","toNode":"7f0cec9f7724a37a","toSide":"left"},
-		{"id":"eb3d9b96cf8f06c9","fromNode":"0e6d7b221130d5a0","fromSide":"right","toNode":"9326d62be1327230","toSide":"left"},
-		{"id":"72eb329450b3a8a9","fromNode":"0e6d7b221130d5a0","fromSide":"right","toNode":"2b00b0b5fad79173","toSide":"left","toEnd":"none"}
+		{"id":"72eb329450b3a8a9","fromNode":"0e6d7b221130d5a0","fromSide":"right","toNode":"2b00b0b5fad79173","toSide":"left","toEnd":"none"},
+		{"id":"fc0d2be1d02c100a","fromNode":"0e6d7b221130d5a0","fromSide":"right","toNode":"ab82217dacd92ecb","toSide":"left"}
 	]
 }

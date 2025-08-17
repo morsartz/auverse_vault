@@ -15,8 +15,8 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 1037.0453160700683,
-                  "y": 564.1843107387662,
+                  "x": 933.0605483625284,
+                  "y": 625.1408987052549,
                   "zoom": -0.8422474041455574
                 }
               },
@@ -32,7 +32,7 @@
               "state": {
                 "file": "Characters/Rad/Rad.canvas",
                 "viewState": {
-                  "x": 2465.9269130704974,
+                  "x": 2530.7576716180965,
                   "y": 1175.3669115765006,
                   "zoom": -0.8091531824246687
                 }
@@ -41,7 +41,8 @@
               "title": "Rad"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a35a3116117bca00",
+  "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
-    "Characters/Rad/Rad.canvas",
+    "Characters/Rad/Mídia/Manto 2.png",
     "Characters/Rust/Rust.canvas",
+    "Characters/Rad/Rad.canvas",
     "Characters/Rad/Mídia/Manto 2.jpg",
     "Characters/Rad/Mídia/Manto.jpg",
     "Characters/Fern 2/Fern 2.canvas",
