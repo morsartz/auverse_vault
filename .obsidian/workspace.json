@@ -28,14 +28,17 @@
             "id": "9776973fb7d41669",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fern 17.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Malestre/Malestre.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Fern 17"
+              "icon": "lucide-layout-dashboard",
+              "title": "Malestre"
             }
           }
         ],
@@ -206,8 +209,8 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
-    "Characters/Guhen Alamankar/Guhen Alamankar.canvas",
     "Fern 17.md",
+    "Characters/Guhen Alamankar/Guhen Alamankar.canvas",
     "to-do.md",
     "mandamentos.md",
     "Characters/Seven/Sinestre.canvas",
@@ -219,7 +222,6 @@
     "Characters/Vaius 17/Vaius 17.canvas",
     "Characters/Nova Lum/Nova Lum.canvas",
     "Characters/Nova/Nova.canvas",
-    "Characters/Rad/Rad.canvas",
     "Characters/Lazarus/Lore.md",
     "changelog.md",
     "Races/Tenarch",
