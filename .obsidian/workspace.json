@@ -11,10 +11,17 @@
             "id": "a35a3116117bca00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Rust/Rust.canvas",
+                "viewState": {
+                  "x": 982.6200351879409,
+                  "y": 886.937231031123,
+                  "zoom": -2.2466649447741283
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
             }
           }
         ]
@@ -174,7 +181,10 @@
   },
   "active": "a35a3116117bca00",
   "lastOpenFiles": [
+    "Characters/Rust/Outfit 2 Rust.png",
     "Characters/Rust/Rust.canvas",
+    "auverse_vault",
+    "Characters/Rust/Outfit Rust 1.png",
     "Elements/Cinzas/Lore & Funcionamento.md",
     "Elements/Calor dos Sete Sufocamentos/Lore & Funcionamento.md",
     "Elements/Calor dos Sete Sufocamentos/Calor dos Sete Sufocamentos Reference Gif.gif",
@@ -206,10 +216,8 @@
     "Characters/Enyo/Enyo.canvas",
     "Characters/Enyo/Enyo Apperance Reference 1.png",
     "Characters/Enyo",
-    "Characters/Dankiel/Dankiel Apperance Reference 2.png",
     "mandamentos.md",
     "Characters/Vaius 2/Vaius 2.canvas",
-    "Characters/Vaius 2",
     "Characters/Fern 2/Carisma.md",
     "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Races/Humano/Culture.md",
