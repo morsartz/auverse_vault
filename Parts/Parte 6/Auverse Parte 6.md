@@ -1,0 +1,1 @@
+escrever todo o roteiro da Parte 6 aqui

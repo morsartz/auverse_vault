@@ -1,1 +1,1 @@
-quando a entidade kestre surgiu
+quando a entidade [[Kestre.canvas|Kestre]] surgiu

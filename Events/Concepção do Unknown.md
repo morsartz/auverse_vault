@@ -1,1 +1,1 @@
-ocorreu quando o nirestre consumiu o suficiente pra se tornar sua propria dimensão [[Unknown.canvas|Unknown]]
+ocorreu quando o [[Nirestre.canvas|Nirestre]] consumiu o suficiente pra se tornar sua própria dimensão [[Unknown.canvas|Unknown]]
