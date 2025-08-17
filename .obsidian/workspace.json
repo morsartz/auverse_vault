@@ -15,9 +15,9 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 524.0128845118231,
-                  "y": 542.8795374753113,
-                  "zoom": -1.0039693594086914
+                  "x": 262.0163747143945,
+                  "y": 105.27798933739518,
+                  "zoom": -0.6706360260753581
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,7 +30,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fem/Fem.canvas",
+                "file": "Characters/Mujika/Mujika.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fem"
+              "title": "Mujika"
             }
           }
         ],
@@ -192,10 +192,19 @@
   },
   "active": "41cea2f8f4e38194",
   "lastOpenFiles": [
-    "Characters/Fem/Fem Apperance Reference 1.png",
-    "Characters/Enyo/Enyo.canvas",
+    "Characters/Mujika/Mujika Apperance Reference 1.png",
+    "Characters/Haven/Haven Apperance Reference 1.png",
+    "Characters/Mujika/Mujika.canvas",
+    "Characters/Lilith/Lilith Apperance Reference 1.png",
+    "Characters/Lohan/Lohan Apperance Reference 1.png",
+    "Characters/Haven/Haven.canvas",
+    "Characters/Fern 2/Fern 2 Apperance Reference 2.png",
+    "Characters/Fern 2/Fern 2 Apperance Reference 1.png",
     "Characters/Fem/Fem.canvas",
     "Characters/Rust/Rust.canvas",
+    "Characters/Fern 2/Fern 2 Original.canvas",
+    "Characters/Fem/Fem Apperance Reference 1.png",
+    "Characters/Enyo/Enyo.canvas",
     "conflict-files-obsidian-git.md",
     "Characters/Enyo/Enyo Apperance Reference 1.png",
     "Characters/Fern 2/Fern 2.canvas",
@@ -207,23 +216,15 @@
     "Pasted image 20250816204759.png",
     "Outfit Rust 1.png",
     "Outfit 2 Rust.png",
-    "Manto do Mestre.png",
-    "Manto do Mestre 2.png",
-    "Foice da Rust.png",
-    "Characters/Dankiel/Dankiel Apperance Reference 2.png",
-    "Characters/Dankiel/Dankiel Apperance Reference 1.png",
     "Factions/Chroma 9/Chroma 9.canvas",
     "Factions/Chroma 9",
     "Characters/Fern 17",
     "Characters/Fern 2/Carisma.md",
-    "Characters/Nina/Nina.canvas",
-    "Characters/Rad/Rad.canvas",
     "Rad.md",
     "Characters/Rust/Carisma.md",
     "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Characters/Fern 2/Sem título",
     "Characters/Rust/Lore.md",
-    "Characters/Krokso/Krokso.canvas",
     "Characters/Krokso.md",
     "Characters/Krokso",
     "auverse_vault",
@@ -231,7 +232,6 @@
     "Characters/Dankiel/Sem título",
     "Characters/Vanth",
     "Characters/Vaius 187",
-    "Characters/Rust/Rust Apperance Reference 1.png",
     "mandamentos.md",
     "Characters/Fern 2/Lore.md",
     "Parts/Parte 2/Auverse Parte 2.md",
