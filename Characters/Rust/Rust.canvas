@@ -42,7 +42,7 @@
 		{"id":"0928eee30f74daf3","type":"text","text":"*Humano*, *Pele clara*, *Cabelo preto*, *Magra*, *Estatura média-alta*,\n*Olhos escuros*, *Coberta de Cicatrizes*, *Aparenta não ter a melhor higiene do mundo...*","x":641,"y":262,"width":250,"height":208},
 		{"id":"18e0230b62f2b6e1","type":"file","file":"Characters/Rust/Foice da Rust.png","x":783,"y":-631,"width":283,"height":400},
 		{"id":"12a68e08cdbca510","type":"text","text":"Foice *Arma Principal*","x":641,"y":-85,"width":250,"height":60},
-		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a cultura Corviana e por extenção cultura dos Arthes","x":1110,"y":-660,"width":250,"height":100}
+		{"id":"a661351083dcbde7","type":"text","text":"Relacionada a [[Places/Vale dos Corvos/Culture|cultura Corviana]] e por extenção [[Races/Arthe/Culture|cultura dos Arthes]]","x":1110,"y":-631,"width":250,"height":100}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -82,6 +82,7 @@
 		{"id":"2684c20bb5fc13cd","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"75580137a7fb1986","toSide":"left","toEnd":"none"},
 		{"id":"f2b355f2f7f8a858","fromNode":"aa69cb8faa3b8157","fromSide":"right","toNode":"dbe35f86955c88c9","toSide":"left"},
 		{"id":"a0b57cef3d3a2f24","fromNode":"d97f14431f2ca321","fromSide":"top","toNode":"12a68e08cdbca510","toSide":"bottom"},
-		{"id":"73a3df60af68ddf8","fromNode":"12a68e08cdbca510","fromSide":"top","toNode":"18e0230b62f2b6e1","toSide":"bottom","toEnd":"none"}
+		{"id":"73a3df60af68ddf8","fromNode":"12a68e08cdbca510","fromSide":"top","toNode":"18e0230b62f2b6e1","toSide":"bottom","toEnd":"none"},
+		{"id":"41501d4f2d3296f1","fromNode":"18e0230b62f2b6e1","fromSide":"right","toNode":"a661351083dcbde7","toSide":"left","toEnd":"none"}
 	]
 }

@@ -13,69 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Fern 2/Fern 2.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": -93.22306921703284,
-                  "y": 752.6146810912867,
-                  "zoom": -1.9335345456271085
+                  "x": 708.6045063574993,
+                  "y": 62.90730967922633,
+                  "zoom": -2.5799982781074617
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Fern 2"
-            }
-          },
-          {
-            "id": "716a1f204e6b6c52",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Characters/Rust/Rust Reference 2.png"
-              },
-              "icon": "lucide-image",
-              "title": "Rust Reference 2"
-            }
-          },
-          {
-            "id": "43a811e0017f3416",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Characters/Rust/Foice da Rust.png"
-              },
-              "icon": "lucide-image",
-              "title": "Foice da Rust"
-            }
-          },
-          {
-            "id": "219c33985d500bc9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Characters/Rust/Foice da Rust.png"
-              },
-              "icon": "lucide-image",
-              "title": "Foice da Rust"
-            }
-          },
-          {
-            "id": "ee1a0fc8dd374df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Rust"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,10 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee1a0fc8dd374df8",
+  "active": "a35a3116117bca00",
   "lastOpenFiles": [
-    "Rad.md",
+    "Characters/Fern 2/Fern 2.canvas",
+    "Places/Vale dos Corvos/Culture.md",
+    "Characters/Rust/Rust.canvas",
+    "Places/Vale dos Corvos/Vale dos Corvos.canvas",
+    "Places/Vale dos Corvos",
+    "Characters/Ren 187/Ren 187.canvas",
+    "Characters/Rust/Foice da Rust.png",
     "conflict-files-obsidian-git.md",
+    "Rad.md",
     "Factions/Chroma 9/Chroma 9.canvas",
     "Factions/Chroma 9",
     "Characters/Fem/Fem.canvas",
@@ -244,12 +200,10 @@
     "Characters/Enyo",
     "Characters/Dankiel/Dankiel Apperance Reference 2.png",
     "Characters/Dankiel/Dankiel Apperance Reference 1.png",
-    "Characters/Rust/Foice da Rust.png",
     "Characters/Rust/Manto do Mestre 2.png",
     "mandamentos.md",
     "Characters/Rust/Outfit 2 Rust.png",
     "Characters/Rust/Rust Reference 2.png",
-    "Characters/Rust/Rust.canvas",
     "Characters/Vaius 2/Vaius 2.canvas",
     "Characters/Vaius 2",
     "Characters/Traken 17/Traken 17.canvas",
@@ -258,11 +212,8 @@
     "Characters/Robô",
     "Characters/Ren 2/Ren 2.canvas",
     "Characters/Ren 2",
-    "Characters/Ren 17/Ren 17.canvas",
     "Characters/Ren 17",
-    "Characters/Quinn 5/Quinn 5.canvas",
     "Characters/Quinn 5",
-    "Characters/Nova Lum",
     "Characters/Fern 2/Carisma.md",
     "Characters/Fern 2/Carisma Fern 2 Original.md",
     "Characters/Rust/Outfit Rust 1.png",
@@ -285,7 +236,6 @@
     "auverse_vault/Events/Criação do Coliseu.md",
     "auverse_vault/Events/Criação do Universo.md",
     "auverse_vault/Events/Concepção do Unknown.md",
-    "auverse_vault/Characters/Rust/Lore.md",
-    "auverse_vault/Characters/Fern 2/Lore.md"
+    "auverse_vault/Characters/Rust/Lore.md"
   ]
 }
