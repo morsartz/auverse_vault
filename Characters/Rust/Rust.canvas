@@ -85,7 +85,10 @@
 		{"id":"243ee1eeed55c08c","type":"text","text":"[[Lilith.canvas|Lilith]] *Membros da mesma facção*","x":-610,"y":1840,"width":250,"height":80},
 		{"id":"1cbd0e341c4b41d4","type":"text","text":"[[Mestre.canvas|Mestre]] *Morto em combate*, *Respeito mutúo*","x":-610,"y":1940,"width":250,"height":80},
 		{"id":"1f597aa9dad76b3c","type":"text","text":"[[Nova Lum.png|Nova]] *Membros da mesma facção*","x":-610,"y":2040,"width":250,"height":80},
-		{"id":"3b2381c3c0b9b38f","type":"text","text":"[[Sangrestre.canvas| Ren 1 \"Sangrestre\"]] *Membros da mesma facção*","x":-610,"y":2140,"width":250,"height":100}
+		{"id":"3b2381c3c0b9b38f","type":"text","text":"[[Sangrestre.canvas| Ren 1 \"Sangrestre\"]] *Membros da mesma facção*","x":-610,"y":2140,"width":250,"height":100},
+		{"id":"d00e4cf5276cda45","type":"text","text":"[[ATR 001.canvas|ATR 001]] *Membros da mesma facção*","x":-610,"y":2260,"width":250,"height":80},
+		{"id":"68e249fb21449931","type":"text","text":"[[Lõdric.canvas|Lõdric]] *Membros da mesma facção*","x":-610,"y":2360,"width":250,"height":80},
+		{"id":"29f08e9743474acb","x":-610,"y":2460,"width":250,"height":80,"type":"text","text":"[[Okahara.canvas|Okahara]] *Contratante*, *Autoridade*"}
 	],
 	"edges":[
 		{"id":"a16f87895993659f","fromNode":"c41d5d168d2fe0b4","fromSide":"bottom","toNode":"deef2a12e8dbbafd","toSide":"top"},
@@ -165,6 +168,14 @@
 		{"id":"afbbd15f55da15eb","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"3a9a8a0b14699b31","toSide":"top"},
 		{"id":"2c63283e5dce832c","fromNode":"d937cb0705f3cc77","fromSide":"bottom","toNode":"4f491c45bfe27733","toSide":"top"},
 		{"id":"eaae5b7dc4abe180","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"ee24ae3bf3307a76","toSide":"top"},
-		{"id":"26d72fbe1a205a92","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"d516d1228d47c3cf","toSide":"top"}
+		{"id":"26d72fbe1a205a92","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"d516d1228d47c3cf","toSide":"top"},
+		{"id":"3a81838e781c5787","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"49fdc4370505333d","toSide":"top"},
+		{"id":"13d997a67ff58790","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"243ee1eeed55c08c","toSide":"top"},
+		{"id":"d66765dbf9b91463","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"1cbd0e341c4b41d4","toSide":"top"},
+		{"id":"cd5f69311029d119","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"1f597aa9dad76b3c","toSide":"top"},
+		{"id":"07806ef632692336","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"3b2381c3c0b9b38f","toSide":"top"},
+		{"id":"33c2dd29b1dfc47d","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"d00e4cf5276cda45","toSide":"top"},
+		{"id":"b70cd04fc7f19aac","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"68e249fb21449931","toSide":"top"},
+		{"id":"7732de98c92583ff","fromNode":"80b550cc64b32b48","fromSide":"bottom","toNode":"29f08e9743474acb","toSide":"top"}
 	]
 }
