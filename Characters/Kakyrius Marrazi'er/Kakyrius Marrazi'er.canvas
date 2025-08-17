@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3e980e646e7d8661","type":"file","file":"Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 1.png","x":-480,"y":-99,"width":346,"height":400},
+		{"id":"c98f2fbd18c5b557","type":"file","file":"Characters/Kakyrius Marrazi'er/Mídia/Malestre Flesh Reference 1.png","x":-200,"y":-440,"width":400,"height":225},
+		{"id":"4d45bd3bbac9c677","type":"file","file":"Characters/Kakyrius Marrazi'er/Mídia/Kakyrius Malestre Reference 1.png","x":284,"y":-259,"width":400,"height":321},
+		{"id":"c8fa76d2f1f37d95","type":"file","file":"Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 1.png","x":640,"y":258,"width":400,"height":243},
+		{"id":"ceb52df609b18c5e","type":"file","file":"Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 2.png","x":-216,"y":380,"width":359,"height":400},
+		{"id":"d9064317f191444a","type":"file","file":"Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 2.png","x":484,"y":440,"width":282,"height":400},
+		{"id":"acbe71e420978501","type":"text","text":"nao esquece de usar as imagens que tao no midia, nao precisa copiar nada tudo que ta no chat dele ja ta aq","x":143,"y":241,"width":250,"height":279}
+	],
+	"edges":[]
+}

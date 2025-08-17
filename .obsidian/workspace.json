@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Malestre/Malestre.canvas",
+                "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -389.2979568828236,
+                  "y": 1784.2701984706366,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Malestre"
+              "title": "Rust"
             }
           }
         ],
@@ -209,6 +209,17 @@
   },
   "active": "9776973fb7d41669",
   "lastOpenFiles": [
+    "Characters/Kakyrius Marrazi'er/Kakyrius Marrazi'er.canvas",
+    "Characters/Rust/Rust.canvas",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Flesh Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Anatomy Reference 2.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 2.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Malestre Armor Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Mídia/Kakyrius Malestre Reference 1.png",
+    "Characters/Kakyrius Marrazi'er/Lore.md",
+    "Characters/Kakyrius Marrazi'er/Mídia",
+    "Characters/Kakyrius Marrazi'er/Malestre.canvas",
     "Fern 17.md",
     "Characters/Guhen Alamankar/Guhen Alamankar.canvas",
     "to-do.md",
@@ -216,12 +227,9 @@
     "Characters/Seven/Sinestre.canvas",
     "Characters/Seven/Seven.canvas",
     "Characters/Arthe 9/Arthe 9.canvas",
-    "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Ren 187/Ren 187.canvas",
     "Characters/Vaius 17/Vaius 17.canvas",
-    "Characters/Nova Lum/Nova Lum.canvas",
-    "Characters/Nova/Nova.canvas",
     "Characters/Lazarus/Lore.md",
     "changelog.md",
     "Races/Tenarch",
@@ -235,13 +243,7 @@
     "Aestre.md",
     "Characters/Rust/Mídia/arththereaper rust & f2 desenho 3.png",
     "Characters/Rust/Mídia/arththereaper rust & f2 desenho 2.png",
-    "Characters/Rust/Mídia/arththereaper rust & f2 desenho.png",
-    "Characters/Rust/Mídia/Rust Ilustração kfc_002.png",
-    "Characters/Rust/Mídia/Rust Apperance Reference 2.png",
     "Characters/Rust/External Content.md",
-    "Pasted image 20250817095259.png",
-    "Characters/Rust/Mídia/Rust Sangreste Vessel 1.png",
-    "Pasted image 20250817094847.png",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",
     "conflict-files-obsidian-git.md",
     "Characters/Rust/Carisma.md",
@@ -251,7 +253,6 @@
     "Places/Sonhos/Culture.md",
     "Places/Sonhos",
     "Places/Inferno/Culture.md",
-    "Places/Inferno",
     "Places/Coliseu/Culture.md",
     "Places/Abismo/Culture.md",
     "Parts/Parte 7/Auverse Parte 7.md",
@@ -262,7 +263,6 @@
     "Parts/Parte 2/Auverse Parte 2.md",
     "Factions/Voidworm Children/Lore.md",
     "Factions/Seguidores do Fogo Eterno/Lore.md",
-    "Races/Voidborn/Lore.md",
-    "Races/Voidborn/Culture.md"
+    "Races/Voidborn/Lore.md"
   ]
 }
