@@ -15,8 +15,8 @@
               "state": {
                 "file": "Characters/Lilith/Lilith.canvas",
                 "viewState": {
-                  "x": 1057,
-                  "y": 1189,
+                  "x": 1408,
+                  "y": 1425,
                   "zoom": 0
                 }
               },
@@ -32,8 +32,8 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 1149.0142773851103,
-                  "y": 535.4204605608866,
+                  "x": 1371.0142773851103,
+                  "y": 933.4204605608866,
                   "zoom": 1.1102230246251565e-16
                 }
               },
@@ -41,8 +41,7 @@
               "title": "Rust"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,12 +196,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8b124077d152a62",
+  "active": "a35a3116117bca00",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Characters/Lilith/Lilith.canvas",
     "Characters/Rust/Rust.canvas",
+    "Marks/Marca Artificial.png",
     "Characters/Lilith/Mídia/Korviblade.png",
-    "conflict-files-obsidian-git.md",
     "Marca da Estrela.md",
     "Absorção.md",
     "Marks/Marks.canvas",
@@ -226,7 +226,6 @@
     "Characters/Lilith/Mídia/Lilith Apperance Reference 2.webp",
     "Characters/Lilith/Carisma.md",
     "Characters/Lilith/Lore.md",
-    "Characters/Lilith/Mídia/Lilith Apperance Reference 1.png",
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Fern 2/External Content.md",
     "Characters/Rust/Documentação da Rust 24-01-2024 External Content.md",

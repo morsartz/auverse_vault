@@ -23,8 +23,10 @@
 		{"id":"e6a44316ad3b7f00","type":"text","text":"Especificações","x":460,"y":1210,"width":250,"height":60,"color":"5"},
 		{"id":"da576945fe03dee4","type":"text","text":"Korviblade","x":800,"y":796,"width":250,"height":60,"color":"5"},
 		{"id":"0751bfdbcb18992d","x":980,"y":160,"width":372,"height":400,"type":"file","file":"Characters/Lilith/Mídia/Korviblade.png"},
-		{"id":"e3c34d349c5a7195","type":"text","text":"Outfit 1","x":840,"y":1052,"width":250,"height":60,"color":"5"},
-		{"id":"ee75cee90be4b55e","type":"file","file":"Characters/Lilith/Mídia/Lilith Apperance Reference 2.webp","x":1260,"y":912,"width":400,"height":400}
+		{"id":"e3c34d349c5a7195","type":"text","text":"Outfit ","x":840,"y":1052,"width":250,"height":60,"color":"5"},
+		{"id":"ee75cee90be4b55e","type":"file","file":"Characters/Lilith/Mídia/Lilith Apperance Reference 2.webp","x":1260,"y":912,"width":400,"height":400},
+		{"id":"7faef2ce19bc6679","x":940,"y":1610,"width":250,"height":60,"type":"text","text":"Técnicas"},
+		{"id":"e2f4acc331e42f2d","x":1460,"y":1610,"width":250,"height":60,"type":"text","text":"Elementos"}
 	],
 	"edges":[
 		{"id":"d1139c639b74dbb3","fromNode":"112ac2ed3fb9fdab","fromSide":"right","toNode":"dbf2401806ea14cc","toSide":"left","toEnd":"none"},
@@ -51,6 +53,8 @@
 		{"id":"99747ad505e1fdf9","fromNode":"12789dc0f17c95c6","fromSide":"right","toNode":"001c7ed8aeb24dcd","toSide":"left"},
 		{"id":"f46899ed020f8de1","fromNode":"12789dc0f17c95c6","fromSide":"right","toNode":"5bf044d5e2050610","toSide":"left"},
 		{"id":"652e3a4a52026901","fromNode":"12789dc0f17c95c6","fromSide":"right","toNode":"175f17a7ee2c9235","toSide":"left"},
-		{"id":"2946300084768ca7","fromNode":"12789dc0f17c95c6","fromSide":"right","toNode":"e6a44316ad3b7f00","toSide":"left"}
+		{"id":"2946300084768ca7","fromNode":"12789dc0f17c95c6","fromSide":"right","toNode":"e6a44316ad3b7f00","toSide":"left"},
+		{"id":"f843a17f282d7954","fromNode":"5bf044d5e2050610","fromSide":"right","toNode":"7faef2ce19bc6679","toSide":"left"},
+		{"id":"632850aef4cacac7","fromNode":"5bf044d5e2050610","fromSide":"right","toNode":"e2f4acc331e42f2d","toSide":"left"}
 	]
 }
