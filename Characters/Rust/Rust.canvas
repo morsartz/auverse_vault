@@ -10,7 +10,7 @@
 		{"id":"d937cb0705f3cc77","type":"text","text":"Relações","x":-145,"y":390,"width":250,"height":60,"color":"1"},
 		{"id":"9fa1e1f8d0ecb20c","type":"text","text":"[[Parts/Parte 8/Auverse Parte 8|Auverse Parte 8]] Crew","x":-145,"y":710,"width":250,"height":60,"color":"6"},
 		{"id":"05ddd3e078a42072","type":"text","text":"Facções","x":240,"y":710,"width":250,"height":60,"color":"6"},
-		{"id":"88ab8d314927d06e","type":"file","file":"Characters/Rust/Carisma.md","x":-340,"y":880,"width":400,"height":400,"color":"6"},
+		{"id":"88ab8d314927d06e","type":"file","file":"Characters/Rust/Carisma.md","x":-340,"y":880,"width":400,"height":440,"color":"6"},
 		{"id":"aa40f4a24b474e57","type":"text","text":"Origem","x":-235,"y":-505,"width":250,"height":60,"color":"2"},
 		{"id":"370c11a6e1eb7f13","type":"file","file":"Characters/Rust/Lore.md","x":290,"y":-535,"width":400,"height":400,"color":"6"},
 		{"id":"d97f14431f2ca321","type":"text","text":"Artefatos","x":320,"y":120,"width":250,"height":60,"color":"5"},
