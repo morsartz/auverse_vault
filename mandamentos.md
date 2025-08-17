@@ -3,8 +3,5 @@
 3. primeiras aparições de personagens devem levar em conta o momento que eles são expostos, não levando em consideração se foram apresentados como "foreshadowing" previamente.
 4. todos eventos meramente importantes devem ser adicionados no Events e organizados na timeline
 5. eu baseio o documento de lore dos personagens na wiki do hitler https://pt.wikipedia.org/wiki/Adolf_Hitler
-<<<<<<< HEAD
 6. quando for colocar uma música para um personagem, coloque-a com a primeira letra igual a primeira letra de seu nome
-=======
-6. o criterio pra relações sociais é o personagem ter encontrado aquela pessoa pelo menos uma vez.
->>>>>>> origin/main
+7. o criterio pra relações sociais é o personagem ter encontrado aquela pessoa pelo menos uma vez.
