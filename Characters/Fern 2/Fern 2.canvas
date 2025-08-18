@@ -103,7 +103,7 @@
 		{"id":"212c47bdfcffdaf6","type":"text","text":"Marca da Estrela","x":2246,"y":2429,"width":250,"height":60,"color":"5"},
 		{"id":"b9f4551659ea5f65","type":"text","text":"Marca da Laranja","x":2526,"y":2429,"width":250,"height":60,"color":"5"},
 		{"id":"845ea752600dbe36","type":"text","text":"Marca do Morto","x":2806,"y":2429,"width":250,"height":60,"color":"5"},
-		{"id":"0ef887434dffc56d","x":945,"y":2343,"width":560,"height":634,"type":"file","file":"Characters/Fern 2/Habilidades.md"}
+		{"id":"0ef887434dffc56d","type":"file","file":"Characters/Fern 2/Habilidades.md","x":945,"y":2343,"width":560,"height":634}
 	],
 	"edges":[
 		{"id":"b405f99e8871dffc","fromNode":"1426e6ac144cfa96","fromSide":"bottom","toNode":"8fac7d512ab00d7c","toSide":"top","toEnd":"none"},
