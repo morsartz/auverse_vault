@@ -15,16 +15,29 @@
               "state": {
                 "file": "Characters/Fern 2/Fern 2.canvas",
                 "viewState": {
-                  "x": 1536.5644008909892,
-                  "y": 1714.6583983984638,
-                  "zoom": -2.4716607050399224
+                  "x": 1770.0028017281043,
+                  "y": 2215.4352619589663,
+                  "zoom": -2.138327371706589
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Fern 2"
             }
+          },
+          {
+            "id": "51f06633ea93c86c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -179,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c37c7f67b78e8e81",
+  "active": "51f06633ea93c86c",
   "lastOpenFiles": [
     "Characters/Rust/Rust.canvas",
     "Characters/Fern 2/Fern 2.canvas",
