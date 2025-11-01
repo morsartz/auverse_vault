@@ -15,16 +15,29 @@
               "state": {
                 "file": "Characters/Rust/Rust.canvas",
                 "viewState": {
-                  "x": 1277.7810400759945,
-                  "y": 422.6060837943983,
+                  "x": -2091.1381906932374,
+                  "y": -175.45545466713963,
                   "zoom": -0.26995381977358507
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Rust"
             }
+          },
+          {
+            "id": "a44d55f0bc7ea375",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c37c7f67b78e8e81",
+  "active": "a44d55f0bc7ea375",
   "lastOpenFiles": [
     "Characters/Fern 2/Fern 2.canvas",
     "Characters/Lazarus/Lore.md",
